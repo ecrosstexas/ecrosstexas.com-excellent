@@ -5,12 +5,10 @@ description: 'The personal website of Eric Wallace, a digital rancher in Plano, 
 layout: 'home'
 blog:
   title: "Eric's Blog"
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  intro: "I'm showing the 10 most recent posts, but there are plenty more!"
 
 ---
 
 ## Welcome to Eric's Digital Ranch
 
-Eric's [blog](/blog/), [links](/links/), notes, photos, and [more](/sitemap/). It's a digital garden, a commonplace book, a modern day cabinet of curiosities.
-
-We are breaking ground today, expect construction activity for the foreseeable future.
+_What's a digital ranch?_ It's Texan for a digital garden, aka a commonplace book, aka a modern day cabinet of curiosities. Here y'all can follow my [blog](/blog/), links, notes, photos, and [more](/sitemap/).

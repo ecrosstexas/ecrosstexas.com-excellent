@@ -1,9 +1,9 @@
 ---
 title: New beginnings
 date: 2021-07-22
-author: Eric Wallace
 excerpt: Enough goofing around I'm starting over with Eleventy.
-draft: false
+layout: post
+category: blogpost
 tags:
     - sitenews
 ---

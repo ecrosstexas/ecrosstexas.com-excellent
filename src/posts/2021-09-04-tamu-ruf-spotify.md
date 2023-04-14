@@ -1,9 +1,8 @@
 ---
 title: TAMU RUF–Live at Christ the King
 date: 2021-09-04
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - ZachSeider
     - HavenFreeman

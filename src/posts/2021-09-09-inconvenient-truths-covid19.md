@@ -1,9 +1,8 @@
 ---
 title: Inconvenient COVID-19 facts
 date: 2021-09-09
-author: Eric Wallace
-excerpt:
-draft: true
+layout: post
+category: blogpost
 tags:
     - COVID-19
     - CDC

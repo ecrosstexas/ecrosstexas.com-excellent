@@ -1,7 +1,9 @@
 ---
 title: 'The Wages of Sin'
 description: 'The time is now America, repent and believe!'
-date: 2023-03-31T07:00:00
+date: 2023-03-31T07:00:00Z
+layout: post
+category: blogpost
 ---
 
 _The Lord is near to the brokenhearted and saves the crushed in spirit. (Psalm 34:18 ESV)_

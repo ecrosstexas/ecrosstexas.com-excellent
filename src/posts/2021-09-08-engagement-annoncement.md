@@ -1,9 +1,8 @@
 ---
 title: The Engagement of Emma Wallace and Zachary Seider
 date: 2021-09-08
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - EmmaWallace
     - ZachSeider

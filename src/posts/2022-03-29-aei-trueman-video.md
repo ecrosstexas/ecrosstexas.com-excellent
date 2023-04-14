@@ -1,10 +1,9 @@
 ---
 title: Discontents of the modern self
 date: 2022-03-29
-author: Eric Wallace
 excerpt: Discontents of the modern self - A conversation with Carl R. Trueman
-draft: false
-youtube: true
+layout: post
+category: blogpost
 tags:
     - CarlTrueman
     - self

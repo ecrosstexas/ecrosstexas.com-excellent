@@ -5,7 +5,9 @@ anchortext: CBS Sports
 url: "https://www.cbssports.com/mlb/news/old-yankee-stadiums-rise-and-fall-the-complete-story-of-the-house-that-ruth-built-100-years-after-opening/"
 date: 2023-04-03T14:56:47
 youtube: false
+layout: post
+category: link
 tags:
  - "NewYorkYankees"
 ---
-{{ description }} [{{ anchortext }}]({{ url }})
+{{ description }} Visit [{{ anchortext }}]({{ url }})

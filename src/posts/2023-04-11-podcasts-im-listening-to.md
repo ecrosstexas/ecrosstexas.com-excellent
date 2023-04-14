@@ -3,6 +3,7 @@ title: "Podcasts I'm Listening to in 2023"
 description: ''
 date: 2023-04-11T14:54:13
 layout: post
+category: blogpost
 tags:
  - podcast
 ---

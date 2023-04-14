@@ -5,6 +5,8 @@ anchortext: YouTube
 url: "https://www.youtube.com/watch?v=DJX_y8eGwCA"
 date: 2023-04-04T12:26:47
 youtube: true
+layout: post
+category: note
 tags:
     - GRN
     - PCA

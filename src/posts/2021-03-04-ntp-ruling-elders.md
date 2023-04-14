@@ -1,9 +1,8 @@
 ---
 title: Resources for Ruling Elder Involvement at Presbytery & General Assembly
 date: 2021-03-04
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
   - PCA
   - Elders

@@ -4,9 +4,11 @@ description: "Tiger Woods-designed mini-golf course coming to The Colony's Grand
 anchortext: "Fox 4 News"
 url: "https://www.fox4news.com/news/tiger-woods-designed-mini-golf-course-coming-to-the-colony"
 date: 2023-04-11T16:51:47
-youtube: true
+youtube: false
+layout: post
+category: link
 tags:
     - golf
     - GrandScape
 ---
-{{ description }} [{{ anchortext }}]({{ url }})
+{{ description }} Visit [{{ anchortext }}]({{ url }})

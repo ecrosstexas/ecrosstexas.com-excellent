@@ -1,9 +1,8 @@
 ---
 title: Rest in Peace, Chad Darbyshire
 date: 2021-09-06
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - KleinHighAlumni
     - ChadDarbyshire

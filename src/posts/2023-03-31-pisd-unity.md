@@ -3,6 +3,8 @@ title: PISD Unity
 description:
 date: 2023-03-31T08:41:43
 youtube: true
+layout: post
+category: blogpost
 ---
 
 Raise you hand if you didn't have this on your bingo card.  [Plano ISD](https://pisd.edu/) [announces](https://www.pisd.edu/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=4433&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=119382&PageID=1) that the high schools and senior high schools will be unified in "branding" i.e. colors, mascots, etc., starting next year.

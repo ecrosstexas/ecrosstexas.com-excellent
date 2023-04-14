@@ -1,9 +1,8 @@
 ---
 title: Sermon - Christ Beginning to End
 date: 2022-01-02
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - sermon
     - gospel

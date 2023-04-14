@@ -1,9 +1,8 @@
 ---
 title: Always Reformed, Always Reforming
 date: 2021-09-04
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - Reformed
     - conference

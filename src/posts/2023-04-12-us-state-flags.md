@@ -3,6 +3,7 @@ title: "Grading the State Flags"
 description: 'CGP Grey grades the flags of each of the 50 States in the Union.'
 date: 2023-04-12T17:32:13
 layout: post
+category: blogpost
 youtube: true
 tags:
  - Texas

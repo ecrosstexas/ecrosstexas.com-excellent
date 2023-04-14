@@ -1,9 +1,8 @@
 ---
 title: On a Plane to General Assembly
 date: 2021-06-30
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
   - PCAGA
   - PCA

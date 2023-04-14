@@ -5,9 +5,11 @@ anchortext: FoxNews
 url: "https://www.foxnews.com/us/church-assembly-debate-urging-us-government-renounce-sin-transgender-procedures-minors"
 date: 2023-03-30T20:17:00
 youtube: false
+layout: post
+category: link
 tags:
     - PCAGA
     - PCA
     - gender
 ---
-{{ description }} [{{ anchortext }}]({{ url }})
+{{ description }} Visit [{{ anchortext }}]({{ url }})

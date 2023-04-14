@@ -3,6 +3,7 @@ title: 'Matt Walsh Truth Bomb'
 description: 'Matt Walsh spoke at New Mexico State last night and dropped truth bombs.'
 date: 2023-04-05T15:49:14
 layout: post
+category: blogpost
 tags:
  - MattWalsh
  - gender

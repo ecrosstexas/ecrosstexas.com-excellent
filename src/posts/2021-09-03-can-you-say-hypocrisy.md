@@ -1,9 +1,8 @@
 ---
 title: Can you say hypocrisy?
 date: 2021-09-03
-author: Eric Wallace
-excerpt:
-draft: false
+layout: post
+category: blogpost
 tags:
     - COVID-19
     - Abortion

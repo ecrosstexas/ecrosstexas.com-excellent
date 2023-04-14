@@ -1,17 +1,9 @@
 ---
 title: Political Typology Quiz
 date: 2021-11-18
-author: Eric Wallace
 excerpt: According to the Pew Research Center, my best fit is Ambivalent Right.
-draft: false
-seo:
-  title: # if left blank, title above used
-  description: # if left blank, excerpt above used
-  image: ../../images/uploads/political-typology-quiz.jpg
-images: # relative to /src/assets/images/
-  feature: # used for hero
-  thumb: # used for collections listing view
-  slide:
+layout: post
+category: blogpost
 tags:
     - politics
     - quiz

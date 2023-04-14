@@ -25,39 +25,10 @@ layout: base
     <p>{{ blog.intro }}</p>
     {% endif %}
   </div>
-  <!-- TODO: duplicate of partials/blog.njk -->
 
+  <article class="wrapper region">
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h3>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
-      <p>{{ post.data.description }}</p>
-    </li>
-
-    {% endfor %}
-  </ul>
-</article>
-
-<article class="region" style="--region-space-top: var(--space-s)">
-  <div class="wrapper flow prose">
-    <h2>{{ links.title }}</h2>
-  </div>
-
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set linkslist = collections.links %} {% for link in linkslist.slice(0, 4) %}
-
-    <li class="card flow overflow-hidden">
-      <h3>
-        <a href="{{ link.url | url }}">{{ link.data.title }}</a>
-      </h3>
-      {% set definedDate = link.date %} {% include "partials/date.njk" %}
-      <p>{{ link.data.description }}</p>
-    </li>
-
-    {% endfor %}
+    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 10) %} {%
+    include "partials/blog-loop.njk" %} {% endfor %}
   </ul>
 </article>

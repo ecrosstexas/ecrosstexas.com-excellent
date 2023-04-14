@@ -7,6 +7,7 @@ youtube: false
 tags:
 - pages
 ---
+ecrosstexas is more than just a name – it's a statement about who I am and what I stand for. It represents my unique perspective on the world, and I hope that my website will be a place where others can come and learn from my experiences and interests.
 
 ecrosstexas.com is the personal website of [Eric Wallace](/eric/).
 

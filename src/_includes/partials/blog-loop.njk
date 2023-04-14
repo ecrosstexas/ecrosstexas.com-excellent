@@ -1,0 +1,30 @@
+{% if post.data.category == "note" %}
+
+<li id="{{ post.data.title | slugify }}" class=" ">
+  <span>Notes</span>
+  
+  {{ post.data.content | safe }}
+<span class"directlink"><a href="{{ post.url}}" title="Direct link to {{post.post.title}}">#</a></span>
+</li>
+
+{% elif post.data.category == "link" %}
+
+<li id="{{ post.data.title | slugify }}" class=" ">
+  <span>Links</span>
+  
+  {{ post.data.content | safe }}
+  <span class="directlink"><a href="{{ post.url}}" title="Direct link to {{post.data.title}}">#</a></span>
+</li>
+
+{% else %}
+
+<li id="{{ post.data.title | slugify }}"" class="flow clickable-card overflow-hidden">
+  <h2>
+    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+  </h2>
+
+  {% set definedDate = post.date %} {% include "partials/date.njk" %}
+  <p>{{ post.data.description }}</p>
+</li>
+
+{% endif %}

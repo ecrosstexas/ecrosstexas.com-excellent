@@ -27,3 +27,30 @@ package = "netlify-plugin-cache"
 [build]
   command = "npm run build"
   publish = "dist"
+
+# Bots
+[[redirects]]
+    from = "/wp-login.php"
+    to = "https://www.google.com/"
+    status = 302
+    force = true
+
+# Blog Posts
+[[redirects]]
+    from = "/posts/*"
+    to = "/blog/:splat"
+    status = 301
+    force = true
+
+# Blog Posts
+[[redirects]]
+    from = "/xmas.php"
+    to = "/xmas-2001/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/blog/archives/2003/01/14/geourl.php"
+    to = "/blog/geourl/"
+    status = 301
+    force = true

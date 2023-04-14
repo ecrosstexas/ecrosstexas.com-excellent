@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-excellent",
+  "name": "ecrosstexas.com-excellent",
   "version": "1.5.0",
   "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Lene Saile",
+  "author": "Eric Wallace",
   "license": "ISC",
   "main": ".eleventy.js",
   "engines": {
@@ -10,7 +10,7 @@
   },
   "scripts": {
     "clean": "rimraf dist",
-    "dev:11ty": "eleventy --serve --watch",
+    "dev:11ty": "cross-env ELEVENTY_ENV=dev eleventy --serve --watch",
     "build:11ty": "eleventy",
     "start": "run-p dev:*",
     "build": "run-s clean build:*"
@@ -18,7 +18,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/ecrosstexas/ecrosstexas.com-excellent.git"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
@@ -27,6 +27,7 @@
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "cross-env": "^7.0.3",
     "eleventy-plugin-embed-everything": "^1.15.1",
     "tailwindcss": "^3.0.23"
   },

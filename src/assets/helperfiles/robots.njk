@@ -1,8 +1,11 @@
 ---
+# http://www.robotstxt.org
 permalink: /robots.txt
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
 ---
+# Allow crawling of all content except admin folder
 User-agent: *
+Disallow: /admin
 Disallow: /404.html
 Sitemap: {{ meta.url }}/sitemap.xml

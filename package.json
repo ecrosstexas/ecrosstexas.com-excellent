@@ -21,12 +21,13 @@
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.0",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-fetch": "^4.0.0",
-    "@11ty/eleventy-img": "^3.0.0",
+    "@11ty/eleventy-img": "^3.1.0",
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "eleventy-plugin-embed-everything": "^1.15.1",
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {

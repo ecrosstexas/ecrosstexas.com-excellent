@@ -1,0 +1,14 @@
+<section 
+  class="wrapper flow content region | blog tags"
+  style="--region-space-top: var(--space-xl)"
+>
+  <div class="flow">
+    <h2>Tags</h2>
+  <ol>
+      {%- for tag in tags -%}
+      {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset -%}
+      <li>#<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a></li>
+      {%- endfor %}
+  </ol>
+  </div>
+</section>

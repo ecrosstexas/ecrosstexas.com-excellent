@@ -1,6 +1,8 @@
 ---
-title: Blog
+title: Eric's Blog
+permalink: /blog/index.html
 description: 'All blog posts can be found here'
 layout: blog
-permalink: /blog/index.html
+tags:
+ - pages
 ---

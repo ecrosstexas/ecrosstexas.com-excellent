@@ -1,0 +1,29 @@
+---
+# https://webfinger.net
+permalink: /.well-known/webfinger
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+{
+  "subject": "acct:{{ meta.meta_data.mastodonUser }}@{{ meta.meta_data.mastodonDomain }}",
+  "aliases": [
+    "https://{{ meta.meta_data.mastodonDomain }}/@{{ meta.meta_data.mastodonUser }}",
+    "https://{{ meta.meta_data.mastodonDomain }}/users/{{ meta.meta_data.mastodonUser }}"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://{{ meta.meta_data.mastodonDomain }}/@{{ meta.meta_data.mastodonUser }}"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://{{ meta.meta_data.mastodonDomain }}/users/{{ meta.meta_data.mastodonUser }}"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://{{ meta.meta_data.mastodonDomain }}/authorize_interaction?uri={uri}"
+    }
+  ]
+}

@@ -29,21 +29,21 @@ eleventyExcludeFromCollections: true
 
   <!-- date -->
   <text
-    font-family="Redhat, Roboto, 'Helvetica Neue', sans-serif"
+    font-family="'Helvetica Neue', Redhat, Roboto, sans-serif"
     font-size="24"
     font-weight="bold"
     fill="#DD4462"
     letter-spacing="-1"
   >
     <tspan x="160" y="{{ verticalStartingPoint - 120 }}">
-      {{ preview.date | formatDate('DD / MM / YYYY') }}
+      {{ preview.date | formatDate('MM / DD / YYYY') }}
     </tspan>
   </text>
 
   <!-- title -->
   <text
     id="text"
-    font-family="Redhat, Roboto, 'Helvetica Neue', sans-serif"
+    font-family="'Helvetica Neue', Redhat, Roboto, sans-serif"
     font-size="80"
     font-weight="900"
     fill="#333333"
@@ -58,12 +58,12 @@ eleventyExcludeFromCollections: true
 
   <!-- sitename -->
   <text
-  font-family="Redhat, Roboto, 'Helvetica Neue', sans-serif"
+    font-family="'Helvetica Neue', Redhat, Roboto, sans-serif"
     font-size="24"
     font-weight="bold"
     fill="#DD4462"
     letter-spacing="-0.5"
   >
-    <tspan x="160" y="600">{{ meta.siteName }} · {{ meta.url | replace("https://", "") | replace("http://", "") }}</tspan>
+    <tspan x="160" y="600">Eric Wallace's Digital Ranch · {{ meta.url | replace("https://", "") | replace("http://", "") }}</tspan>
   </text>
 </svg>

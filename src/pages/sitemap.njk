@@ -1,0 +1,24 @@
+---
+title: Site Map
+permalink: /sitemap/index.html
+description: A site map for humans
+layout: page
+tags:
+- pages
+---
+<h2>Pages</h2>
+<ul>
+{% for page in collections.pages %}
+        <li><a href="{{ page.url | url }}">{{ page.data.seo.title or page.data.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<h2>Last 20 Blog Posts</h2>
+<ul>
+{% set postslist = collections.posts %} 
+    {% for post in postslist %}
+        <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+    {% endfor %}
+</ul>
+
+<p>A <a href="/sitemap.xml">site map for robots</a> is also available.</p>

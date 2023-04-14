@@ -1,18 +1,18 @@
 [
   {
-    "platform": "github",
-    "url": "https://github.com/madrilene/eleventy-excellent",
-    "icon": "github.svg"
+    "platform": "twitter",
+    "url": "https://twitter.com/ecrosstexas",
+    "icon": "twitter.svg"
   },
   {
     "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
+    "url": "https://mastodon.social/@ecrosstexas",
     "icon": "mastodon.svg"
   },
   {
-    "platform": "ko-fi",
-    "url": "https://ko-fi.com/lenesaile",
-    "icon": "kofi.svg"
+    "platform": "github",
+    "url": "https://github.com/ecrosstexas/",
+    "icon": "github.svg"
   },
   {
     "platform": "rss",

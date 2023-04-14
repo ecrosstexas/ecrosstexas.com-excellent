@@ -1,0 +1,31 @@
+---
+# https://jsonfeed.org
+permalink: /feed.json
+layout: null
+eleventyExcludeFromCollections: true
+---
+{
+  "version": "https://jsonfeed.org/version/1.1",
+    "title": "{{ meta.blog.name }}",
+    "home_page_url": "{{ meta.url }}",
+    "feed_url": "{{ meta.url }}/feed.json",
+    "authors" : [
+      {
+         "url" : "{{ meta.authorWebsite }}",
+         "name" : "{{ meta.author }}"
+      }
+    ],
+	"icon" : "{{ meta.url }}/apple-touch-icon.png",
+    "favicon" : "{{ meta.url }}/favicon-64.png",
+	"items": [
+    {% for item in collections.posts %}
+      {
+        "id": "{{ meta.url }}{{ item.url }}",
+        "title": "{{ item.data.title }}",
+        "content_html": "{{ item.data.description }}",
+        "date_published": " {{ item.data.date }} ",
+        "url": "{{ meta.url }}{{ item.url }}"
+      }{% if not loop.last %},{% endif %}
+    {% endfor %}
+  ]
+}

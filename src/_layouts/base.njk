@@ -10,12 +10,13 @@
 
     <!-- title -->
     <title>
-      {% if seo.title %} {{ seo.title }}
-      {% elif title %}
-      {{ title }}
-      {% else %}
-      {{ meta.siteName }}
-      {% endif %}
+        {% if seo.title %} {{ seo.title }} | {{ meta.siteName }}
+        {% elif title %}
+        {{ title }} | {{ meta.siteName }}
+        {% else %}
+        {{ meta.siteName }}
+        {% endif %}
+      
     </title>
 
     <!-- synchronous js / schema  -->

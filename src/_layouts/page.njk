@@ -4,7 +4,10 @@ layout: base
 
 <article class="region page">
   <div class="wrapper flow prose">
-    <h1 class="gradient-text">{{ title }}</h1>
+    <h1 class=" ">{{ title }}</h1>
     {{ content | safe }}
   </div>
 </article>
+
+<!-- include tags -->
+{% include "partials/tags.njk" %}

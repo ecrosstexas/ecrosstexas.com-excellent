@@ -22,7 +22,12 @@ const {
   minifyCss,
   minifyJs,
   mdInline,
-  splitlines
+  splitlines,
+  getWebmentionsForUrl,
+  webmentionSize,
+  webmentionsByType,
+  isOwnWebmention,
+  sortWebmentions
 } = require('./config/filters/index.js');
 
 // module import shortcodes
@@ -33,7 +38,7 @@ const {
 } = require('./config/shortcodes/index.js');
 
 // module import collections
-const {getAllPosts} = require('./config/collections/index.js');
+const {getAllPosts, getAllLinks, getAllVideos} = require('./config/collections/index.js');
 
 // module import events
 const {svgToJpeg} = require('./config/events/index.js');
@@ -46,6 +51,7 @@ const {slugifyString} = require('./config/utils');
 const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
+const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = eleventyConfig => {
   // 	--------------------- Custom Watch Targets -----------------------
@@ -58,6 +64,9 @@ module.exports = eleventyConfig => {
   eleventyConfig.addLayoutAlias('home', 'home.njk');
   eleventyConfig.addLayoutAlias('blog', 'blog.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
+  eleventyConfig.addLayoutAlias('link', 'link.njk');
+  eleventyConfig.addLayoutAlias('note', 'note.njk');
+  eleventyConfig.addLayoutAlias('video', 'video.njk');
 
   // 	---------------------  Custom filters -----------------------
   eleventyConfig.addFilter('limit', limit);
@@ -75,9 +84,39 @@ module.exports = eleventyConfig => {
   eleventyConfig.addNunjucksAsyncFilter('jsmin', minifyJs);
   eleventyConfig.addFilter('md', mdInline);
   eleventyConfig.addFilter('splitlines', splitlines);
+  eleventyConfig.addFilter('getWebmentionsForUrl', getWebmentionsForUrl);
+  eleventyConfig.addFilter('webmentionSize', webmentionSize);
+  eleventyConfig.addFilter('webmentionsByType', webmentionsByType);
+  eleventyConfig.addFilter('isOwnWebmention', isOwnWebmention);
+  eleventyConfig.addFilter('sortWebmentions', sortWebmentions);
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
+
+  // ----------------------- STUFF THAT NEEDS TO CLEANED UP FROM 11TY BASE BLOG ------------
+  // Filters
+	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
+		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
+		return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+	});
+
+	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+		// dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+	});
+
+  // Return all the tags used in a collection
+	eleventyConfig.addFilter("getAllTags", collection => {
+		let tagSet = new Set();
+		for(let item of collection) {
+			(item.data.tags || []).forEach(tag => tagSet.add(tag));
+		}
+		return Array.from(tagSet);
+	});
+
+	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
+		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+	});
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
@@ -95,6 +134,8 @@ module.exports = eleventyConfig => {
 
   // 	--------------------- Custom collections -----------------------
   eleventyConfig.addCollection('posts', getAllPosts);
+  eleventyConfig.addCollection('links', getAllLinks);
+  eleventyConfig.addCollection('videos', getAllVideos);
 
   // 	--------------------- Events ---------------------
   eleventyConfig.on('afterBuild', svgToJpeg);
@@ -105,6 +146,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(embedEverything);
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path

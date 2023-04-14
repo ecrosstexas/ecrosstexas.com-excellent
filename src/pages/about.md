@@ -1,22 +1,25 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
+description: About ecrosstexas.com, a modern digital ranch created by Eric Wallace
 layout: page
-youtube: true
+youtube: false
+tags:
+- pages
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+ecrosstexas.com is the personal website of [Eric Wallace](/eric/).
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+As things often do, it didn't start out that way. Back in late 2001, I had the idea to create a Slashdot-like site for Texas.  This is from my original about page back then:
 
-The aim is to hopefully spread the use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+> ecrosstexas is a community [weblog](/weblog/) (aka blog) about life in the great state of Texas. The site is a place for each of us to gather and discuss our lives; talk about the stories of the day; and to guide each other to the best of the Internet. Yes, this site does focus heavily on Texas and Texans, but we are not exclusionary. Borrowing from the bumper sticker, _I wasn't born in Texas, but I got here as fast as I could_. In a way, we are like [Slashdot](http://www.slashdot.org/) focused on Texas.
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
+Back then, "the texas blog" was the tag line for ecrosstexas.
 
-Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/design-tokens`.
-
-## Watch the talk
-
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+<!--
+## Inspirations:
+- https://www.zachleat.com/web/about/
+- https://www.paulirish.com/about/
+- https://marco.org/about
+- https://shawnblanc.net/colophon/
+-->

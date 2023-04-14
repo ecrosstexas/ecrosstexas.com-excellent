@@ -7,16 +7,20 @@ module.exports = {
     {
       text: 'Blog',
       url: '/blog/'
+    },
+    {
+      text: 'Links',
+      url: '/links/'
     }
   ],
   bottom: [
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'Colophon',
+      url: '/colophon/'
     },
     {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'Sitemap',
+      url: '/sitemap/'
     }
   ]
 };

@@ -5,7 +5,7 @@
     <div class="site-foot__inner">
       <nav id="footernav" class="site-foot__inner" aria-label="Footer">
 
-        &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }} <small>{% packageVersion %}</small> </a>
+        &copy; 2001-{% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
 
         {% for item in navigation.bottom %}
 
@@ -39,10 +39,19 @@
 
 
         </nav>
+        
     </div>
-  </div>
+    <div class="site-foot__inner">
+    <p>Built in Plano, Texas.</p>
+    </div>
+        <div class="site-foot__inner">
+    <p>Soli Deo Gloria</p>
+    </div>
 
-  <!-- lang menu -->
+ <div class="site-foot__inner">
+ <a title="Back to Top" href="#top">return to top &#8593;</a>
+ </div>
+ </div>
 </footer>
 
 

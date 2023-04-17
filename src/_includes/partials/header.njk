@@ -18,6 +18,11 @@
         />
       </svg>
 
+      {{ meta.siteName }}
+ //     {% if process.env.ELEVENTY_ENV === 'prod' %}
+ //     {% else %}
+ //     | DEV SERVER
+ //     {% endif %}
     </a>
 
     {% include "partials/menu.njk" %}

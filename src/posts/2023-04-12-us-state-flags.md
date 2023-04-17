@@ -9,7 +9,7 @@ tags:
  - Texas
 ---
 
-Grey lays sdown some wonderful rules for flags. Chief among them, no words! 
+Grey lays sdown some wonderful rules for flags. Chief among them, no names! 
 
 Where does your state rank?
 

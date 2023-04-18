@@ -1,6 +1,6 @@
 {% if post.data.category == "note" %}
 
-<li id="{{ post.data.title | slugify }}" class=" ">
+<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden">
   <span>Notes</span>
   
   {{ post.data.content | safe }}
@@ -9,7 +9,7 @@
 
 {% elif post.data.category == "link" %}
 
-<li id="{{ post.data.title | slugify }}" class=" ">
+<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden">
   <span>Links</span>
   
   {{ post.data.content | safe }}
@@ -18,10 +18,10 @@
 
 {% else %}
 
-<li id="{{ post.data.title | slugify }}"" class="flow clickable-card overflow-hidden">
-  <h2>
+<li id="{{ post.data.title | slugify }}"" class="card flow overflow-hidden"">
+  <h3>
     <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-  </h2>
+  </h3>
 
   {% set definedDate = post.date %} {% include "partials/date.njk" %}
   <p>{{ post.data.description }}</p>

@@ -13,4 +13,5 @@ src/_includes/scripts
 .env
 
 # OS
-**/.DS_Store
+.DS_Store
+Thumbs.db

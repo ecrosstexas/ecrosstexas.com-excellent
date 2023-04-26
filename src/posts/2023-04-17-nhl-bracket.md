@@ -3,7 +3,7 @@ title: 'My Stanley Cup Bracket'
 description: 'My picks to win the Cup'
 date: 2023-04-17T17:07:14
 layout: post
-category: notes
+category: shortpost
 youtube: true
 tags:
  - hockey

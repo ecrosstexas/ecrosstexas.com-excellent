@@ -43,11 +43,7 @@ package = "netlify-plugin-cache"
     force = true
 
 # Blog Posts
-[[redirects]]
-    from = "/xmas.php"
-    to = "/xmas-2001/"
-    status = 301
-    force = true
+
 
 [[redirects]]
     from = "/blog/archives/2003/01/14/geourl.php"

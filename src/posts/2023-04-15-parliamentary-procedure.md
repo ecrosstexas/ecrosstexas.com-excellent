@@ -1,5 +1,5 @@
 ---
-title: "Jacob Gerbe's New Resource for Presbyters"
+title: "Jacob Gerber's New Resource for Presbyters"
 description: "A new booklet written by Pastor Jacob Gerber of Harvest Community Church (PCA) in Omaha, Nebraska: Parliamentary Procedure for Presbyters: A Beginner’s Guide."
 date: 2023-04-15T10:25:47
 youtube: false

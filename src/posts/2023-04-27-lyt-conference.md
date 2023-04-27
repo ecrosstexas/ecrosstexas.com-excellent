@@ -1,6 +1,6 @@
 ---
 title: "Nick Milo's doing it again"
-description: "Free Linking Your Thinking Conference 2023 (May 1-5)"
+description: "Free Linking Your Thinking Conference 2023 (May 1-5)."
 date: 2023-04-27T12:53:13
 layout: post
 category: link

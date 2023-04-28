@@ -1,19 +1,19 @@
-{% if post.data.category == "note" %}
+{% if post.data.category == "shortpost" %}
 
-<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden">
-  <span>Notes</span>
-  
+<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden note">
+  <span>Quick Hits</span>
+  {% set definedDate = post.date %} {% include "partials/date.njk" %}
   {{ post.data.content | safe }}
-<span class"directlink"><a href="{{ post.url}}" title="Direct link to {{post.post.title}}">#</a></span>
+<p class"directlink"><a href="{{ post.url}}" title="Direct link to {{post.post.title}}">#</a></p>
 </li>
 
 {% elif post.data.category == "link" %}
 
-<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden">
+<li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden link">
   <span>Links</span>
   
   {{ post.data.content | safe }}
-  <span class="directlink"><a href="{{ post.url}}" title="Direct link to {{post.data.title}}">#</a></span>
+  <p class="directlink"><a href="{{ post.url}}" title="Direct link to {{post.data.title}}">#</a></p>
 </li>
 
 {% else %}

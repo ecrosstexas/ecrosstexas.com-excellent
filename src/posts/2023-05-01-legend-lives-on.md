@@ -26,6 +26,6 @@ Here's a link if you want to find the [Lightfoot documentary](https://www.justwa
 
 Scott Johnson over at [Power Line](https://www.powerlineblog.com/archives/2023/05/gordon-lightfoot-dies-at-84.php) wrote about Lightfoot today as well highlighting a number of songs.
 
-I love listening to his songs. _Sundow_, _If You Could Read My Mind_, _THe Wreck of the Edmund Fitzgerald_ are three of his most popular songs. What's your favorite?
+I love listening to his songs. _Sundow_, _If You Could Read My Mind_, _The Wreck of the Edmund Fitzgerald_ are three of his most popular songs. What's your favorite?
 
 https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4?si=RQqBnUMKShqEFoJ9rJuCbw

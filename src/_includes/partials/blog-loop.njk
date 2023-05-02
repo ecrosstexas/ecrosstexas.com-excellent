@@ -3,8 +3,19 @@
 <li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden note">
   <span>Quick Hits</span>
   {% set definedDate = post.date %} {% include "partials/date.njk" %}
-  {{ post.data.content | safe }}
-<p class"directlink"><a href="{{ post.url}}" title="Direct link to {{post.post.title}}">#</a></p>
+  <p>{{ post.data.description | safe }} <a href="{{  post.url | url }}" title="Read {{ post.data.title }}">#</a></p>
+</li>
+
+{% elif post.data.category == "video" %}
+
+<li id="{{ post.data.title | slugify }}"" class="card flow overflow-hidden note"">
+  <span>VIDEOS</span>
+  <h3>
+    <a href="{{ post.url | url }}" title="Watch {{ post.data.title }}" >{{ post.data.title }}</a>
+  </h3>
+
+  {% set definedDate = post.date %} {% include "partials/date.njk" %}
+  <p>{{ post.data.description | safe }}</p>
 </li>
 
 {% elif post.data.category == "link" %}
@@ -12,19 +23,18 @@
 <li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden link">
   <span>Links</span>
   
-  {{ post.data.content | safe }}
-  <p class="directlink"><a href="{{ post.url}}" title="Direct link to {{post.data.title}}">#</a></p>
+  <p>{{ post.data.description | safe }} <a href="{{ post.url | url }}" title="Read {{ post.data.title }}">#</a></p>
 </li>
 
 {% else %}
 
 <li id="{{ post.data.title | slugify }}"" class="card flow overflow-hidden"">
   <h3>
-    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    <a href="{{ post.url | url }}" title="Read {{ post.data.title }}" >{{ post.data.title }}</a>
   </h3>
 
   {% set definedDate = post.date %} {% include "partials/date.njk" %}
-  <p>{{ post.data.description }}</p>
+  <p>{{ post.data.description | safe }}</p>
 </li>
 
 {% endif %}

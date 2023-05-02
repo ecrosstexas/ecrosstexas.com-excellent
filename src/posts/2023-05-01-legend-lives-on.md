@@ -1,7 +1,7 @@
 ---
 title: 'The Legend Lives On'
 permalink: /blog/remembering-gordon-lightfoot/index.html
-description: 'Happy Birthday to my daughter Molly'
+description: "Gordon Lightfoot dead at age 84."
 date: 2023-05-02T15:18:00
 layout: post
 category: post

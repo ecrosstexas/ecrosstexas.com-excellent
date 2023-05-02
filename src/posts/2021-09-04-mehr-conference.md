@@ -1,12 +1,12 @@
 ---
-title: Always Reformed, Always Reforming
+title: "Always Reformed, Always Reforming"
+description: "Extending the ideals of the Protestant Reformation to the Farsi-speaking church."
 date: 2021-09-04
 layout: post
 category: blogpost
 tags:
     - Reformed
     - conference
-    - Farsi
 ---
 Will you consider joining me at [Mehr Reformed Ministries](https://mehrministries.org/) [Always Reformed, Always Reforming](https://mehrministries.org/2021plano/) conference?
 

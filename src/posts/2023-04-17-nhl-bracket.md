@@ -1,6 +1,6 @@
 ---
 title: 'My Stanley Cup Bracket'
-description: 'My picks to win the Cup'
+description: 'My picks to win the Stanley Cup.'
 date: 2023-04-17T17:07:14
 layout: post
 category: shortpost

@@ -1,5 +1,6 @@
 ---
-title: Free Books of the Month - September 2021
+title: "Free Books of the Month - September 2021"
+description: "Free Christian resources available this month."
 date: 2021-09-09
 layout: post
 category: blogpost

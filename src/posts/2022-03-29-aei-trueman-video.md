@@ -1,7 +1,7 @@
 ---
-title: Discontents of the modern self
+title: "Discontents of the modern self"
 date: 2022-03-29
-excerpt: Discontents of the modern self - A conversation with Carl R. Trueman
+description: "Discontents of the modern self - A conversation with Carl R. Trueman"
 layout: post
 category: blogpost
 tags:

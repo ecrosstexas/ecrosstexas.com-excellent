@@ -1,5 +1,6 @@
 ---
-title: Inconvenient COVID-19 facts
+title: "Inconvenient COVID-19 facts"
+description: "COVID-19 facts we aren't supposed to know."
 date: 2021-09-09
 layout: post
 category: blogpost
@@ -7,7 +8,7 @@ tags:
     - COVID-19
     - CDC
 ---
-[Tom Elliott](https://twitter.com/tomselliott) lays down a few facts the government might not want you know as they continue in a tyrannical path towards controling everything and everyone in America.
+[Tom Elliott](https://twitter.com/tomselliott) lays down a few facts the government might not want you to know as they continue in a tyrannical path towards controling everything and everyone in America.
 
 https://twitter.com/tomselliott/status/1435956522719211526
 

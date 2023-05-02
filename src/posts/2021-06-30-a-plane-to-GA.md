@@ -1,5 +1,6 @@
 ---
-title: On a Plane to General Assembly
+title: "On a Plane to General Assembly"
+description: "Thoughts on the work before the PCA General Assembly"
 date: 2021-06-30
 layout: post
 category: blogpost

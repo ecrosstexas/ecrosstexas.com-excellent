@@ -5,6 +5,7 @@ anchortext: YouTube
 url: "https://www.youtube.com/watch?v=DWwPdkzatkQ"
 date: 2023-04-05T15:38:18
 youtube: true
+category: video
 tags:
     - MattWalsh
     - gender

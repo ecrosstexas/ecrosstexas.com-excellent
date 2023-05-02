@@ -1,6 +1,6 @@
 ---
 title: "Just Thinking about George Floyd"
-description: 'Darrell Harrison and Virgil “Omaha” Walker get behind their respective microphones for a no-holds-barred, completely impromptu, unscheduled, and unscripted (no notes) discussion about how believers in Christ should respond to events surrounding the death of Mr. George Floyd at the hands of police officers in Minnesota. Buckle up.'
+description: "Darrell Harrison and Virgil “Omaha” Walker get behind their respective microphones for a no-holds-barred, completely impromptu, unscheduled, and unscripted (no notes) discussion about how believers in Christ should respond to events surrounding the death of Mr. George Floyd at the hands of police officers in Minnesota. Buckle up."
 date: 2020-07-06T21:03:13
 layout: post
 category: blogpost

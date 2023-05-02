@@ -1,7 +1,7 @@
 ---
-title: Political Typology Quiz
+title: "Political Typology Quiz"
 date: 2021-11-18
-excerpt: According to the Pew Research Center, my best fit is Ambivalent Right.
+description: "According to the Pew Research Center, my best fit is Ambivalent Right."
 layout: post
 category: blogpost
 tags:

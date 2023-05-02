@@ -1,5 +1,5 @@
 ---
-title: Summary 48th General Assembly Actions
+title: "Summary 48th General Assembly Actions"
 description: "Good news, Dr. Chapell’s Summary of the Actions of the 48th General Assembly have been posted on the PCAGA site."
 anchortext: PCA GA
 date: 2021-07-27T13:00:00

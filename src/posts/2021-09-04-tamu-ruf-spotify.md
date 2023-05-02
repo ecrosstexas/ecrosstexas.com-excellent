@@ -1,5 +1,6 @@
 ---
-title: TAMU RUF–Live at Christ the King
+title: "TAMU RUF–Live at Christ the King"
+description: "Aggie RUF recorded an EP in Houston. Listen on Spotify."
 date: 2021-09-04
 layout: post
 category: blogpost

@@ -1,7 +1,7 @@
 ---
 title: 'Champions'
 permalink: /blog/12u-champions/index.html
-description: 'Dallas Stars Metro Hockey League 12U Champions'
+description: 'Dallas Stars Metro Hockey League 12U Champions.'
 date: 2023-03-03T12:04:00
 layout: post
 category: shortpost

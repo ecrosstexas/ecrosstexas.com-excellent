@@ -1,5 +1,6 @@
 ---
-title: Can you say hypocrisy?
+title: "Can you say hypocrisy?"
+description: "The unvaccinated and health care debates."
 date: 2021-09-03
 layout: post
 category: blogpost

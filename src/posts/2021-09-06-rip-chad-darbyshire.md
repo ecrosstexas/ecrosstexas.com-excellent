@@ -1,11 +1,11 @@
 ---
-title: Rest in Peace, Chad Darbyshire
+title: "Rest in Peace, Chad Darbyshire"
+description: "Chad Darbyshire, Klein High Class of 1990, died this weekend."
 date: 2021-09-06
 layout: post
 category: blogpost
 tags:
     - KleinHighAlumni
-    - ChadDarbyshire
 ---
 I was shocked to see posts about Chad Darbyshire's ([@ccdarbyshire](https://twitter.com/ccdarbyshire)) untimely death this weekend. Chad is a fellow Bearkat (KHS 1990) and a brother in Christ. Chad leaves behind a wife, three children, and hosts of friends heartbroken at the loss. A [GoFundMe campaign](https://gofund.me/3b73e7be) has been created to support the family.
 
@@ -25,7 +25,7 @@ Christ has conquered sin, death, and the devil. He is making all things new. Mea
 > 
 > Attire is come as you are.
 
-Elsewhere:
+### Elsewhere:
 - See Chad's creative work on [Vimeo](https://vimeo.com/chaddarbyshire).
 - Chad Darbyshire on [IMDb](https://www.imdb.com/name/nm2155881/).
 - [Two of Mr. Darbyshire’s New Yorker colleagues, Matthew Diffee and Drew Dernavich remember their friend](https://michaelmaslin.com/chad-darbyshire-c-covert-darbyshire-is-remembered-by-matt-diffee-and-drew-dernavich/)

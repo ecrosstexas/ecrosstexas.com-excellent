@@ -1,6 +1,6 @@
 ---
 title: PISD Unity
-description:
+description: "Plano ISD plans unified branding for high schools starting 2023-2024."
 date: 2023-03-31T08:41:43
 youtube: true
 layout: post

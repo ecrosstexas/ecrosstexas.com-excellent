@@ -1,6 +1,6 @@
 ---
 title: "Podcasts I'm Listening to in 2023"
-description: ''
+description: "These are the podcasts that I am most frequently listening to and learning from in early 2023."
 date: 2023-04-11T14:54:13
 layout: post
 category: blogpost

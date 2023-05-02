@@ -1,5 +1,6 @@
 ---
-title: Sermon - Christ Beginning to End
+title: "Sermon - Christ Beginning to End"
+description: "Eric's exhortation from Luke 24 to see the centrality of Christ in all Scripture."
 date: 2022-01-02
 layout: post
 category: blogpost

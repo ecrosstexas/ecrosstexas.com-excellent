@@ -1,5 +1,6 @@
 ---
 title: Resources for Ruling Elder Involvement at Presbytery & General Assembly
+description: "Resources for Ruling Elder Involvement at Presbytery & GA in St. Louis, MO June 2021."
 date: 2021-03-04
 layout: post
 category: blogpost

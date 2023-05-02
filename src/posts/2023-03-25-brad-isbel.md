@@ -1,6 +1,6 @@
 ---
 title: 'Breakfast with ChortlesWeakly'
-description: 'ChortlesWeakly enjoyed breakfast at Whataburger'
+description: "@ChortlesWeakly enjoyed breakfast at Whataburger."
 date: 2023-03-30T11:10:00
 layout: post
 category: shortpost

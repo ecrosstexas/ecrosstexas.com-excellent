@@ -1,7 +1,7 @@
 ---
-title: New beginnings
+title: "New beginnings"
+description: "Enough goofing around I'm starting over with Eleventy."
 date: 2021-07-22
-excerpt: Enough goofing around I'm starting over with Eleventy.
 layout: post
 category: blogpost
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'Sirius Sweaters'
-description: "Eric's Sirius Majors hockey sweaters"
+description: "Eric's Sirius Majors hockey sweaters."
 date: 2023-01-17T20:43:00
 layout: post
 category: blogpost

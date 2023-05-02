@@ -1,6 +1,6 @@
 ---
 title: 'Who is Mel Duncan? And What is the GRN?'
-description: "RE Melton Duncan on the Presbyterian & Reformed Churchmen Podcast"
+description: "RE Melton Duncan on the Presbyterian & Reformed Churchmen Podcast."
 anchortext: YouTube
 url: "https://www.youtube.com/watch?v=DJX_y8eGwCA"
 date: 2023-04-04T12:26:47

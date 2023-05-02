@@ -1,6 +1,6 @@
 ---
 title: 'Robo leads Stars to Playoffs'
-description: 'Powered by Jason Robertson the Dallas Stars are headed back to the playoffs.'
+description: 'Powered by Jason Robertson, the Dallas Stars are headed back to the playoffs.'
 date: 2023-04-03T22:42:17
 layout: post
 category: blogpost

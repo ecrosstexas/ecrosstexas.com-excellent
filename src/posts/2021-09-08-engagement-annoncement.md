@@ -1,5 +1,6 @@
 ---
-title: The Engagement of Emma Wallace and Zachary Seider
+title: "The Engagement of Emma Wallace and Zachary Seider"
+description: "I'm going to be Father of the Bride next summer!"
 date: 2021-09-08
 layout: post
 category: blogpost

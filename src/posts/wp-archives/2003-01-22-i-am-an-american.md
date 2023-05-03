@@ -1,5 +1,6 @@
 ---
-title: I am an American
+title: "I am an American"
+description: ""
 date: 2003-01-22
 tags:
     - Abortion

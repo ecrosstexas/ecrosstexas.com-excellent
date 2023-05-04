@@ -29,3 +29,5 @@ Scott Johnson over at [Power Line](https://www.powerlineblog.com/archives/2023/0
 I love listening to his songs. _Sundow_, _If You Could Read My Mind_, _The Wreck of the Edmund Fitzgerald_ are three of his most popular songs. What's your favorite?
 
 https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4?si=RQqBnUMKShqEFoJ9rJuCbw
+
+**Update:** [Gordon Lightfoot probably would be alive today, despite his age, if he had not been "vaccinated"](https://markcrispinmiller.substack.com/p/gordon-lightfoot-probably-would-be) in _News from Underground_ by Mark Crispin Miller.

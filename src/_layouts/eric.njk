@@ -1,0 +1,19 @@
+---
+layout: base
+facesIntro: A look at Eric
+---
+<article class="region page">
+    <div class="wrapper flow prose">
+        <h1 class=" ">{{ title }}</h1>
+
+{% include "partials/faces.njk" %}
+
+<article class="region page">
+  <div class="wrapper flow prose">
+    {{ content | safe }}
+  </div>
+</article>
+
+<!-- include tags -->
+{% include "partials/tags.njk" %}
+

@@ -16,8 +16,28 @@ const getAllVideos = collection => {
   return projects.reverse();
 };
 
+// Returns a list of people ordered by filename
+const getAllPeople = collection => {
+  const projects = collection.getFilteredByGlob('./src/people/*.md').sort((a, b) => {
+    return Number(a.fileSlug) > Number(b.fileSlug) ? 1 : -1;
+    
+  });
+  return projects;
+};
+
+// Returns a list of people ordered by filename
+const getAllFaces = collection => {
+  const projects = collection.getFilteredByGlob('./src/faces/*.md').sort((a, b) => {
+    return Number(a.fileSlug) > Number(b.fileSlug) ? 1 : -1;
+    
+  });
+  return projects;
+};
+
 module.exports = {
 getAllPosts, 
 getAllLinks,
-getAllVideos
+getAllVideos,
+getAllPeople,
+getAllFaces
 };

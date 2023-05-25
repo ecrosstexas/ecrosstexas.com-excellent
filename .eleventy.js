@@ -38,7 +38,7 @@ const {
 } = require('./config/shortcodes/index.js');
 
 // module import collections
-const {getAllPosts, getAllLinks, getAllVideos} = require('./config/collections/index.js');
+const {getAllPosts, getAllLinks, getAllVideos, getAllPeople, getAllFaces} = require('./config/collections/index.js');
 
 // module import events
 const {svgToJpeg} = require('./config/events/index.js');
@@ -136,7 +136,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('links', getAllLinks);
   eleventyConfig.addCollection('videos', getAllVideos);
-
+  eleventyConfig.addCollection('people', getAllPeople);
+  eleventyConfig.addCollection('faces', getAllFaces);
   // 	--------------------- Events ---------------------
   eleventyConfig.on('afterBuild', svgToJpeg);
 

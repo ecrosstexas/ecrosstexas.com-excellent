@@ -1,0 +1,3 @@
+.faces {
+    --auto-grid-gap: #{get-size('700')};
+  }

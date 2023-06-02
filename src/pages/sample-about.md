@@ -1,7 +1,6 @@
 ---
 title: About
-permalink: /sample-about
-/index.html
+permalink: /sample-about/index.html
 description: About this starter
 layout: page
 youtube: true

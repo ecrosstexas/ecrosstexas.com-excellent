@@ -1,6 +1,6 @@
 ---
 title: Get started
-permalink: /sample/get-started/index.html
+permalink: /get-started/index.html
 description: Websites built with this starter
 layout: page
 preloads:

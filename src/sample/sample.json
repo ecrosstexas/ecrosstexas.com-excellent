@@ -1,6 +1,0 @@
-{
-    "layout": "post",
-    "tags": "samples",
-    "permalink": "/sample/{{ title | slugify }}/index.html"
-  }
-  

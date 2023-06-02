@@ -1,6 +1,6 @@
 {
   "name": "ecrosstexas.com-excellent",
-  "version": "1.5.0",
+  "version": "1.5.4",
   "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
   "author": "Eric Wallace",
   "license": "ISC",
@@ -25,16 +25,16 @@
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.1.0",
+    "@11ty/eleventy-plugin-bundle": "^1.0.4",
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "cross-env": "^7.0.3",
     "eleventy-plugin-embed-everything": "^1.15.1",
     "eleventy-plugin-webmentions": "^2.0.0",
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
-    "@netlify/plugin-a11y": "^1.0.0-beta.1",
     "@toycode/markdown-it-class": "^1.2.4",
     "autoprefixer": "^10.4.13",
     "clean-css": "^5.3.1",

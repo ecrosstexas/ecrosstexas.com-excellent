@@ -7,6 +7,12 @@
  *  - `./config/transforms/index.js`
  */
 
+// JSDoc comment: Hint VS Code for eleventyConfig autocompletion. © Henry Desroches - https://gist.github.com/xdesro/69583b25d281d055cd12b144381123bf
+
+/**
+ *  @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig
+ */
+
 // get package.json
 const packageVersion = require('./package.json').version;
 
@@ -51,6 +57,7 @@ const {slugifyString} = require('./config/utils');
 const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
+const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 const embedEverything = require("eleventy-plugin-embed-everything");
 
 module.exports = eleventyConfig => {
@@ -147,6 +154,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(inclusiveLangPlugin);
+  eleventyConfig.addPlugin(bundlerPlugin);
   eleventyConfig.addPlugin(embedEverything);
 
   // 	--------------------- Passthrough File Copy -----------------------
@@ -158,10 +166,6 @@ module.exports = eleventyConfig => {
   // social icons to root directory
   eleventyConfig.addPassthroughCopy({
     'src/assets/images/favicon/*': '/'
-  });
-
-  eleventyConfig.addPassthroughCopy({
-    'src/assets/css/global.css': 'src/_includes/global.css'
   });
 
   // 	--------------------- general config -----------------------

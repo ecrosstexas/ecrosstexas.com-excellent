@@ -47,6 +47,11 @@ h3 {
   max-inline-size: 20ch;
 }
 
+ol[class], ul[class] {
+  padding: 0;
+  list-style:none
+}
+
 blockquote {
   border-inline-start: 0.8rem solid var(--color-primary);
   padding: var(--space-m-l);

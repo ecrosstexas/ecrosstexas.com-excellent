@@ -7,7 +7,7 @@ url: https://pcaga.org/wp-content/uploads/2021/07/2021-Actions-of-48th-GA-1.pdf
 layout: post
 category: link
 tags:
-    - PCAGA
+    - PCAGA48
     - PCA
 ---
 

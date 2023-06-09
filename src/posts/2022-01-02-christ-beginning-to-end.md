@@ -15,7 +15,7 @@ tags:
 
 - Creed: Heidelberg Catechism Q&A 18, 19
 
-Scripture Text: Luke 24:13-49
+- Scripture Text: Luke 24:13-49
 
 ## Scripture Passage
 

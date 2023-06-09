@@ -2,7 +2,7 @@
 title: Eric's Links
 permalink: /links/index.html
 description: 'All links posts can be found here'
-layout: links
+layout: link-list
 tags:
  - pages
 ---

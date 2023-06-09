@@ -5,10 +5,10 @@ anchortext: "Fox 4 News"
 url: "https://www.fox4news.com/news/tiger-woods-designed-mini-golf-course-coming-to-the-colony"
 date: 2023-04-11T16:51:47
 youtube: false
-layout: post
+layout: link
 category: link
+blockquote: false
 tags:
     - Golf
     - GrandScape
 ---
-{{ description }} Visit [{{ anchortext }}]({{ url }})

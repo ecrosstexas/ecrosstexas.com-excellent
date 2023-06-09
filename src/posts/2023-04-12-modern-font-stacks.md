@@ -5,10 +5,11 @@ anchortext: "Modern Font Stacks"
 url: "https://modernfontstacks.com"
 date: 2023-04-12T16:20:47
 youtube: false
-layout: post
+layout: link
 category: link
+blockquote: true
 tags:
     - Fonts
     - CSS
 ---
-{{ description }} Visit [{{ anchortext }}]({{ url }})
+

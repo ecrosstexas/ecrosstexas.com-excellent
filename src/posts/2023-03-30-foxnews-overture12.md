@@ -4,12 +4,14 @@ description: "Church assembly to debate urging US government to 'renounce the si
 anchortext: FoxNews
 url: "https://www.foxnews.com/us/church-assembly-debate-urging-us-government-renounce-sin-transgender-procedures-minors"
 date: 2023-03-30T20:17:00
-youtube: false
-layout: post
+layout: link
 category: link
+blockquote: true
+youtube: false
 tags:
-    - PCAGA
+    - PCAGA50
     - PCA
     - Gender
 ---
-{{ description }} Visit [{{ anchortext }}]({{ url }})
+
+This should be an intersting debate on the floor of General Assembly.

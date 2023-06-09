@@ -4,10 +4,12 @@ description: "Old Yankee Stadium's rise and fall: The complete story of 'The Hou
 anchortext: CBS Sports
 url: "https://www.cbssports.com/mlb/news/old-yankee-stadiums-rise-and-fall-the-complete-story-of-the-house-that-ruth-built-100-years-after-opening/"
 date: 2023-04-03T14:56:47
-youtube: false
-layout: post
+layout: link
 category: link
+blockquote: true
+youtube: false
 tags:
  - "NewYorkYankees"
 ---
-{{ description }} Visit [{{ anchortext }}]({{ url }})
+
+I really wish I had gotten to see a game at old Yankee Stadium.

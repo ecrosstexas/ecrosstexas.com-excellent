@@ -3,8 +3,8 @@ title: "How Conservative/Liberal Are You?"
 description: 
 date: 2016-03-29
 tags:
-    - politics
-    - quiz
+    - Politics
+    - Quiz
 ---
 
 

@@ -8,7 +8,7 @@ youtube: false
 layout: post
 category: link
 tags:
-    - fonts
-    - css
+    - Fonts
+    - CSS
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

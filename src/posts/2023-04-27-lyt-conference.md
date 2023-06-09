@@ -8,8 +8,8 @@ anchortext: "Linking Your Thinking"
 url: "https://www.linkingyourthinking.com/lytcon-3"
 youtube: false
 tags:
- - obsidian
- - pkm
+ - Obsidian
+ - PKM
 
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

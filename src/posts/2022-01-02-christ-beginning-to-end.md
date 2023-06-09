@@ -5,8 +5,9 @@ date: 2022-01-02
 layout: post
 category: blogpost
 tags:
-    - sermon
-    - gospel
+    - Sermon
+    - Exhortation
+    - Gospel
     - TrinityPresbyterianChurch
 ---
 

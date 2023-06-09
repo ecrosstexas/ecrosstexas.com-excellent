@@ -7,8 +7,9 @@ date: 2023-05-04T17:50:13
 youtube: true
 category: video
 tags:
-    - anthorpology
-    - sexuality
+    - Anthropology
+    - Sexuality
+    - Video
 ---
 
 {% youtube 'vy3y1JT0SQk', '{{ title }}' %}

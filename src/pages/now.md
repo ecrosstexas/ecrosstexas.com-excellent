@@ -6,8 +6,8 @@ date:
 layout: page
 youtube: false
 tags:
-- now
-- EricWallace
+  - Now
+  - EricWallace
 ---
 
 ## Work

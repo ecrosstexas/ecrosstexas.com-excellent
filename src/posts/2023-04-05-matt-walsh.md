@@ -6,7 +6,7 @@ layout: post
 category: blogpost
 tags:
  - MattWalsh
- - gender
+ - Gender
 ---
 Matt Walsh spoke at New Mexico State last night and dropped truth bombs. Church, do we have the courage to say the things Matt says here?
 

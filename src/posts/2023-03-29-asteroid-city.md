@@ -8,7 +8,8 @@ youtube: true
 layout: post
 category: video
 tags:
-    - movie
-    - trailer
+    - Movie
+    - Trailer
+    - Video
 ---
 {% youtube '0xlNlzBTY_E', '{{ title }}' %}

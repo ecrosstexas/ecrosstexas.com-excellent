@@ -8,7 +8,7 @@ anchortext: "The Heidelblog"
 url: "https://heidelblog.net/2023/05/was-machen-gay-or-how-not-to-do-history/"
 youtube: false
 tags:
- - Machen
- - sexuality
+ - JGreshamMachen
+ - Sexuality
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

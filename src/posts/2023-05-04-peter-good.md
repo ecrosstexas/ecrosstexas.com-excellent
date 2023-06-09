@@ -7,8 +7,8 @@ date: 2023-05-04T00:10:00Z
 layout: post
 category: shortpost
 tags:
-    - design
-    - hockey
+    - Design
+    - Hockey
 ---
 
 https://twitter.com/sportslogosnet/status/1653954340770701312?s=20

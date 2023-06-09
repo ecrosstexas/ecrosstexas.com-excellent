@@ -5,7 +5,7 @@ description:
 date:  2001-11-10
 layout: page
 tags:
-  - weblogs
+  - Weblogs
   - pages
 ---
 

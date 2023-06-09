@@ -9,6 +9,6 @@ layout: post
 category: link
 tags:
     - Nashville
-    - terrorism
+    - Terrorism
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

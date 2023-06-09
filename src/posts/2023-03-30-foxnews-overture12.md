@@ -10,6 +10,6 @@ category: link
 tags:
     - PCAGA
     - PCA
-    - gender
+    - Gender
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

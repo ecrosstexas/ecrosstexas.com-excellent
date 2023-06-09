@@ -2,9 +2,10 @@
 title: "So you want to see 50 Shades?"
 description: 
 date: 2015-02-13
+youtube: true
 tags:
-    - entertainment
-    - movies
+    - Entertainment
+    - Movies
 ---
 
 _50 Shades of Grey_ opens this weekend. It seems like everyone is talking about seeing this movie. You want to go see it, right?
@@ -29,7 +30,7 @@ _Do not go see this film. Do not read the book if you haven’t already. Do not 
 - Wendy Alsup: [Fifty Shades of Genesis 3:16](http://www.theologyforwomen.org/2015/02/fifty-shades-of-genesis-316.html)
 - Tracy Clark-Flory on Salon.com: [“50 Shades” of coercive sex: The movie is even worse than the book](http://www.salon.com/2015/02/13/“50_shades”_of_coercive_sex_the_movie_is_even_worse_than_the_book/)
 - Tim Challies: [50 Shades of Porn](http://www.challies.com/articles/50-shades-of-porn)
-- Helen Thorne at Challies.com: [7 Lessons from 50 Shades of Grey](http://www.challies.com/a-la-carte/7-lessons-from-50-shades-of-grey)
+- Helen Thorne: [7 Lessons from 50 Shades of Grey](http://www.challies.com/a-la-carte/7-lessons-from-50-shades-of-grey)
 - Marshall Segal at Desiring God: [Fifty Shades of Nay: Sin Is a Needle, Not a Toy](http://www.desiringgod.org/blog/posts/fifty-shades-of-nay-sin-is-a-needle-not-a-toy)
 - The Rambling Curl: [Fifty Abusive Moments in Fifty Shades of Grey](http://theramblingcurl.blogspot.co.uk/2014/02/fifty-abusive-moments-in-fifty-shades.html?m=1) (Strong Language Alert)
 - Leslie Leyland Fields: [A Modest Proposal: 50 Shades of Grey in Every Classroom!](http://www.leslieleylandfields.com/2015/02/a-modest-proposal-50-shades-of-grey-in.html#8P382CjDwjUtb0EP.99)
@@ -41,12 +42,8 @@ https://twitter.com/TGC/status/565528584182571008
 
 ## Videos
 
-- 50 Things to Know About “Fifty Shades of Grey”
+{% youtube 'okcS6IW9VF0', '50 Things to Know About Fifty Shades of Grey' %}
 
-https://www.youtube.com/embed/okcS6IW9VF0
-
-- 4 Lies About Sexuality in Fifty Shades of Grey
-
-https://www.youtube.com/embed/dD0SS3_HLSI
+{% youtube 'dD0SS3_HLSI', '4 Lies About Sexuality in Fifty Shades of Grey' %}
 
 Do you still want to go see this filth?

@@ -1,6 +1,6 @@
 {
     "layout": "post",
-    "tags": "videos",
-    "permalink": "//videos/{{ title | slugify }}/index.html"
+    "tags": "Video",
+    "permalink": "/videos/{{ title | slugify }}/index.html"
   }
   

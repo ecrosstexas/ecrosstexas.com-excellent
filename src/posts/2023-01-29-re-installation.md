@@ -8,6 +8,7 @@ tags:
     - TPC
     - PCA
     - EricWallace
+    - RulingElders
 ---
 
 {% imagePlaceholder "./src/assets/images/not-mine/340279147_6170546493003131_7218722830016393558_n.jpg", "TE Jeff Morrow asks the Vows of Ruling Elders Eric Wallace, Steve Leblanc, and John Kreiger", "Photo by Leigh Anne LeBlanc" %}

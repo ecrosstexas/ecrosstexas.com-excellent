@@ -6,8 +6,8 @@ youtube: true
 layout: post
 category: blogpost
 tags:
-    - baseball
-    - STLCards
+    - Baseball
+    - StLouisCardindals
 ---
 
 {% youtube 'utQwPNagLYM', 'Remembering Mike Shannon' %}

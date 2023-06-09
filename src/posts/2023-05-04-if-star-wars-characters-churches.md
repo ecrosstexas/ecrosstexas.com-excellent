@@ -8,8 +8,9 @@ youtube: true
 category: video
 tags:
     - StarWars
-    - humor
-    - church
+    - Humor
+    - Church
+    - Video
 ---
 
 {% youtube '0ZM3i3_BJn4', '{{ title }}' %}

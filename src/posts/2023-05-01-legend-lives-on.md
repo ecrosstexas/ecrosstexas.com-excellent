@@ -6,7 +6,7 @@ date: 2023-05-02T15:18:00
 layout: post
 category: post
 tags:
-    - music
+    - Music
 ---
 
 >   The legend lives on from the Chippewa on down

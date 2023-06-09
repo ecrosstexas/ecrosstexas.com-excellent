@@ -5,8 +5,9 @@ date: 2020-07-06T21:03:13
 layout: post
 category: blogpost
 tags:
- - podcast
- - race
+ - Audio
+ - Podcast
+ - Race
 ---
 
 I highly encourage you to listen to this podcast. Darrell B. Harrison and Virgil Walker are spot on. The issue is the fall/sin and the only solution is changed hearts that come from the Gospel.

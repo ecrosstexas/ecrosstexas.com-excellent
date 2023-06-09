@@ -3,7 +3,7 @@ title: More Change
 description: 
 date: 2002-12-17T12:37:15
 tags:
-    - sitenews
+    - SiteNews
 ---
 
 In the course of 13 months, *the texas blog* has now changed blog engines four times.

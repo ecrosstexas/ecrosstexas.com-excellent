@@ -10,8 +10,8 @@ category: shortpost
 tags:
     - GRN
     - PCA
-    - videos
-    - podcast
+    - Video
+    - Podcast
 ---
 
 {% youtube 'DJX_y8eGwCA', '{{ title }}' %}

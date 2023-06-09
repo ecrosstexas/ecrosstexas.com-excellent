@@ -9,8 +9,9 @@ youtube: true
 category: video
 tags:
     - Marxism
-    - gender
-    - sexuality
+    - Gender
+    - Sexuality
+    - Video
 ---
 
 {% youtube 'iE4MmscK44k', '{{ title }}' %}

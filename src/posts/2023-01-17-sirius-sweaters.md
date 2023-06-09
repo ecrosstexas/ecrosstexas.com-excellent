@@ -4,6 +4,9 @@ description: "Eric's Sirius Majors hockey sweaters."
 date: 2023-01-17T20:43:00
 layout: post
 category: blogpost
+tags:
+  - Hockey
+  - SSHL
 ---
 
 I started playing E-League hockey at the end of April and I'm really enjoying it.  The new season starts this weekend and I'll be rocking these sweet sweaters.

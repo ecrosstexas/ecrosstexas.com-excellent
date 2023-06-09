@@ -9,7 +9,7 @@ url: "https://www.greystoneinstitute.org/wince-sing/gods-two-books"
 youtube: false
 tags:
  - WilliamPerkins
- - creeds
+ - Creeds
 
 ---
 {{ description }} Visit [{{ anchortext }}]({{ url }})

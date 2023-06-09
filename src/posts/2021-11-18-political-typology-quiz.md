@@ -5,8 +5,8 @@ description: "According to the Pew Research Center, my best fit is Ambivalent Ri
 layout: post
 category: blogpost
 tags:
-    - politics
-    - quiz
+    - Politics
+    - Quiz
 ---
 {% imagePlaceholder "./src/assets/images/not-mine/political-typology-quiz.jpg", "Where do you fit in the political typology?" %}
 

@@ -8,8 +8,8 @@ anchortext: "Obsidian Observer"
 url: "https://medium.com/obsidian-observer"
 youtube: false
 tags:
-    - pkm
-    - obsidian
+    - PKM
+    - Obsidian
 ---
 
 {{ description }} Visit [{{ anchortext }}]({{ url }})

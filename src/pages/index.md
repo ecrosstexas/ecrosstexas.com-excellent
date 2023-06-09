@@ -1,12 +1,12 @@
 ---
-title: "ecrosstexas.com"
+title: "Eric’s Digital Ranch"
+seo.title: "Welcome to Eric’s Digital Ranch"
 permalink: /index.html
 description: 'The personal website of Eric Wallace, a digital rancher in Plano, Texas.'
 layout: 'home'
 blog:
   title: "Eric's Blog"
-  intro: "I'm showing the 10 most recent posts, but there are plenty more!"
-
+  intro: "Here are the 10 most recent posts, but there are plenty more in the archives."
 ---
 
 ## Welcome to Eric's Digital Ranch

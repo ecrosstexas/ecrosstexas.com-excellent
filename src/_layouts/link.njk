@@ -1,0 +1,40 @@
+---
+layout: base
+schema: blog
+preloads:
+  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
+  as: 'font'
+  type: 'font/woff2'
+  crossorigin: true
+---
+
+<article class="region blog">
+  <div class="wrapper flow prose">
+    <h1 class=" ">{{ title }}</h1>
+
+    {% set definedDate = date %} {% include "partials/date.njk" %}
+
+    {% if blockquote == true %}
+        <blockquote>{{ description }}</blockquote>
+    {% else %}
+        <p>{{ description }}</p>
+    {% endif %}
+        <p>Visit <a href="{{ url }}" title="{{ title }}">{{ anchortext }}</a></p>
+    {{ content | safe }}
+    
+    <!-- include tags -->
+    {% include "partials/tags.njk" %}
+    
+  </div>
+</article>
+
+
+
+
+<!-- include crossposts -->
+{% include "partials/xpost.njk" %}
+
+<!-- set webmentions url -->
+{% set webmentionUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
+<!-- include webmentions -->
+{% include "partials/webmentions.njk" %}

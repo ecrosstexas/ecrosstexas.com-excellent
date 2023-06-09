@@ -24,11 +24,15 @@ layout: base
     {% if blog.intro %}
     <p>{{ blog.intro }}</p>
     {% endif %}
-  </div>
 
-  <article class="wrapper region">
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 10) %} {%
-    include "partials/blog-loop.njk" %} {% endfor %}
-  </ul>
+    <ul>
+      {% set postslist = collections.posts %} 
+        {% for post in postslist.slice(0, 10) %}
+          <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+        {% endfor %}
+    </ul>
+  </div>
 </article>
+
+<!-- include tags -->
+{% include "partials/cta.njk" %}

@@ -20,6 +20,8 @@ h3 {
   line-height: 1;
   letter-spacing: var(--tracking-s);
   font-family: var(--font-display);
+  /* Fix your wonky headings with one line of CSS https://www.youtube.com/watch?v=snKm-VzJCOo */
+  text-wrap: balance;
 }
 
 h1 {

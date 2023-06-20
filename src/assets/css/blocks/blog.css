@@ -1,3 +1,8 @@
+/* Fix your wonky headings with one line of CSS https://www.youtube.com/watch?v=snKm-VzJCOo */
+.blog h1, h2, h3 {
+  text-wrap: balance;
+}
+
 .blog h1 {
   font-size: var(--size-step-4);
 }

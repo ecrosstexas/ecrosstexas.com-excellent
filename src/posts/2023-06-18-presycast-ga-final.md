@@ -2,7 +2,7 @@
 title: "PCA General Assembly 2023 - Final Edition w/Mel Duncan & the Presbygirls"
 description: "Presbycast Live wrap up of the historic Anniversary PCA General Assembly with esteemed ruling elder Mel Duncan AND the Presbygirls AND their pastor husbands! What a show!"
 url: "https://www.youtube.com/watch?v=yEIgTi3g3yc"
-date: 2023-05-13T18:00:00
+date: 2023-06-18T23:00:00
 layout: post
 category: shortpost
 blockquote: false

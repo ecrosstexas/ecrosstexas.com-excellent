@@ -11,6 +11,7 @@ tags:
   - ApostasyWarnings
   - CorinthianChurch
   - GRN
+  - OPalmerRobertson
   - PCA
 ---
 Continuing to post the individual talks from the 2023 GRN Conference: [Lead on, O King Eternal](/blog/grn-conference-lead-on-o-king-eternal/):

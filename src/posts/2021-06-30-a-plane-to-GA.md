@@ -7,7 +7,6 @@ category: blogpost
 tags:
   - PCAGA48
   - PCA
-  - Elders
 ---
 
 I boarded a plane at 7am this morning bound for St. Louis and the PCA's 48th [General Assembly](https://pcaga.org). It is with eager anticipation of joining Pastor Jake at the Assembly that I write this morning from 35,000 feet. I pray that the Lord will be honored by the work of the Assembly.

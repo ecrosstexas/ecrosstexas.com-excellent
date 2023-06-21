@@ -7,7 +7,7 @@ category: blogpost
 tags:
   - PCA
   - PCAGA48
-  - Elders
+  - RulingElders
 ---
 
 

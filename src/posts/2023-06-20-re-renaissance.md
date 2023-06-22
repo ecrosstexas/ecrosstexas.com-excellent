@@ -9,7 +9,14 @@ category: link
 blockquote: true
 youtube: false
 tags:
-    - PCA
-    - PCAGA50
-    - RulingElders
+  - BradIsbell
+  - PCA
+  - PCAGA50
+  - RulingElders
 ---
+
+## Updates 
+
+https://twitter.com/SEdburg/status/1671634392043724800?s=20
+
+https://twitter.com/SEdburg/status/1671942399025639424?s=20

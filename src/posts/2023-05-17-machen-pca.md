@@ -9,8 +9,8 @@ category: link
 blockquote: true
 youtube: false
 tags:
-  - PCA
   - JGreshamMachen
+  - PCA
 ---
 
 Carlton Wynne reflects on the PCA's origin, identity, and direction in light of Machen's legacy.

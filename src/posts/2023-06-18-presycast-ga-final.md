@@ -8,6 +8,7 @@ category: shortpost
 blockquote: false
 youtube: true
 tags:
+  - MelDuncan
   - PCA
   - PCAGA50
   - Presbycast

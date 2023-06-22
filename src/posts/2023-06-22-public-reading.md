@@ -2,7 +2,7 @@
 title: "Don’t Forsake the Public Reading of Scripture"
 description: "The public reading of Scripture is an essential element of Christian worship for the covenant people of God."
 anchortext: "TableTalk"
-url: "https://tabletalkmagazine.com/posts/dont-forsake-the-public-reading-of-scripture/?fbclid=IwAR1WvKuQRvOjbnIhMdv8yT1BXS5iM-GgJ-EK-x7YqxZI6eLzfrGPFvW35Lc"
+url: "https://tabletalkmagazine.com/posts/dont-forsake-the-public-reading-of-scripture/"
 date: 2023-06-22T15:15:17
 layout: link
 category: link

@@ -28,7 +28,10 @@ layout: base
     <ul>
       {% set postslist = collections.posts %} 
         {% for post in postslist.slice(0, 10) %}
-          <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+          <li>
+            <p><a href="{{ post.url | url }}">{{ post.data.title }}</a></p>
+            <p>{{ post.data.description }}</p>
+          </li>
         {% endfor %}
     </ul>
   </div>

@@ -1,15 +1,15 @@
 {% if post.data.category == "shortpost" %}
 
 <li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden note">
-  <span>Quick Hits</span>
+  <div aria-hidden="true">{% include "icons/note-sticky.svg" %}</div> 
   {% set definedDate = post.date %} {% include "partials/date.njk" %}
-  <p>{{ post.data.description | safe }} <a href="{{  post.url | url }}" title="Read {{ post.data.title }}">#</a></p>
+  <p>{{ post.data.description | safe }} <a href="{{  post.url | url }}" title="Read {{ post.data.title }}"></a></p>
 </li>
 
 {% elif post.data.category == "video" %}
 
 <li id="{{ post.data.title | slugify }}"" class="card flow overflow-hidden note"">
-  <span>VIDEOS</span>
+  <div aria-hidden="true">{% include "icons/film.svg" %}</div> 
   <h3>
     <a href="{{ post.url | url }}" title="Watch {{ post.data.title }}" >{{ post.data.title }}</a>
   </h3>
@@ -21,14 +21,15 @@
 {% elif post.data.category == "link" %}
 
 <li id="{{ post.data.title | slugify }}" class="card flow overflow-hidden link">
-  <span>Links</span>
+  <div aria-hidden="true">{% include "icons/link.svg" %}</div> 
   
-  <p>{{ post.data.description | safe }} <a href="{{ post.url | url }}" title="Read {{ post.data.title }}">#</a></p>
+  <p>{{ post.data.description | safe }} <a href="{{ post.url | url }}" title="Read {{ post.data.title }}"></a></p>
 </li>
 
 {% else %}
 
 <li id="{{ post.data.title | slugify }}"" class="card flow overflow-hidden"">
+  <div aria-hidden="true">{% include "icons/newspaper.svg" %}</div> 
   <h3>
     <a href="{{ post.url | url }}" title="Read {{ post.data.title }}" >{{ post.data.title }}</a>
   </h3>

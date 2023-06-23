@@ -4,7 +4,7 @@ description: "RE Kevin Miller and Pastor George Discuss the 20 key decisions and
 url: "https://www.youtube.com/watch?v=d-Ya-fIdEls"
 date: 2023-06-18T23:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

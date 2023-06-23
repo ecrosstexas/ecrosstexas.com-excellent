@@ -4,7 +4,7 @@ description: "James O'Keefe is back at it again. This time with a hidden BlackRo
 url: "https://twitter.com/JamesOKeefeIII/status/1671262303319392259?s=20"
 date: 2023-06-20T16:52:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: false
 tags:

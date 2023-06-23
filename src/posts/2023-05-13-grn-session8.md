@@ -4,7 +4,7 @@ description: "Rev. Christopher Gordon's message from 2023 Gospel Reformation Net
 url: "https://www.youtube.com/watch?v=vsWz0OJZka0"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

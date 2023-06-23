@@ -4,7 +4,7 @@ description: "Question & Answer from 2023 Gospel Reformation Network conference.
 url: "https://www.youtube.com/watch?v=1syDI6X1eS8"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

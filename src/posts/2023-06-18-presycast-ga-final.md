@@ -4,7 +4,7 @@ description: "Presbycast Live wrap up of the historic Anniversary PCA General As
 url: "https://www.youtube.com/watch?v=yEIgTi3g3yc"
 date: 2023-06-18T23:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

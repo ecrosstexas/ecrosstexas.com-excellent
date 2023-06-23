@@ -4,7 +4,7 @@ description: "What lessons can Old Princeton teach us about training ministers i
 url: "https://www.youtube.com/watch?v=y4bld2eSDc8"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

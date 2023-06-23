@@ -4,7 +4,7 @@ description: "Dr. O. Palmer Robertson's (a founding Teaching Elder in the Presby
 url: "https://www.youtube.com/watch?v=m94oJIMp2Gs"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

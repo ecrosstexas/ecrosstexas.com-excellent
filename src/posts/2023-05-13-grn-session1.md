@@ -4,7 +4,7 @@ description: "Dr. Peter Lillback's message from the 2023 Gospel Reformation Netw
 url: "https://www.youtube.com/watch?v=oPzn-W3Rn9g"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

@@ -4,7 +4,7 @@ description: "Kevin DeYoungs's message from the 2023 Gospel Reformation Network.
 url: "https://www.youtube.com/watch?v=bxLdCJ_ERWk"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

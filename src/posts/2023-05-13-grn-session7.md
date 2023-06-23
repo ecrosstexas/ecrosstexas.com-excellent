@@ -4,7 +4,7 @@ description: "Dr. Jon D. Payne's message from 2023 Gospel Reformation Network co
 url: "https://www.youtube.com/watch?v=-5b3RGHV5UA"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

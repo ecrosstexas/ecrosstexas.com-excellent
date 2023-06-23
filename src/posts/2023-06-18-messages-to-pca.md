@@ -4,7 +4,7 @@ description: "With PCA GA 50 in the books, this video includes portions of 2 mes
 url: "https://www.youtube.com/watch?v=XgO2dk41TqU"
 date: 2023-06-18T23:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

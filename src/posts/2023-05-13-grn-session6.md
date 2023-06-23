@@ -4,7 +4,7 @@ description: "Dr. Harry Reeder's message from 2023 Gospel Reformation Network co
 url: "https://www.youtube.com/watch?v=KJbdAcBb4nw"
 date: 2023-05-13T18:00:00
 layout: post
-category: shortpost
+category: video
 blockquote: false
 youtube: true
 tags:

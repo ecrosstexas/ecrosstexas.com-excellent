@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<article class="region page">
+  <div class="wrapper flow prose">
+    <h1 class=" ">{{ title }}</h1>
+    {{ content | safe }}
+  <div class="library">
+     <ul>
+     <ul>
+        {%- for book in books -%}
+ 
+        {% if book.Status == "Reading" %}
+        <li><a href="/book/{{ book.ISBN }}">{{ book.Title }}</a>{% if book.Subtitle %}: {{ book.Subtitle }}{% endif %}</li>
+        {% endif %}
+
+        {%- endfor -%}
+    </ul>
+    </ul>
+</div>
+  </div>
+
+
+</article>
+
+<!-- include tags -->
+{% include "partials/tags.njk" %}

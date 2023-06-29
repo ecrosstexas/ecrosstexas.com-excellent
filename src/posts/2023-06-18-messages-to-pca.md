@@ -8,6 +8,7 @@ category: video
 blockquote: false
 youtube: true
 tags:
+  - GeorgeSayour
   - LigonDuncan
   - OPalmerRobertson
   - PCA

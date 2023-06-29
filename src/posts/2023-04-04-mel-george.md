@@ -8,11 +8,12 @@ youtube: true
 layout: post
 category: shortpost
 tags:
-    - GRN
-    - MelDuncan
-    - PCA
-    - Video
-    - Podcast
+  - GeorgeSayour
+  - GRN
+  - MelDuncan
+  - PCA
+  - Video
+  - Podcast
 ---
 
 {% youtube 'DJX_y8eGwCA', '{{ title }}' %}

@@ -1,5 +1,0 @@
-{
-    "layout": "book",
-    "permalink": "/book/{{ {{ book.ISBN }} }}/index.html"
-  }
-  

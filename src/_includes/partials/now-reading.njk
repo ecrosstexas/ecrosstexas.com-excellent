@@ -1,0 +1,17 @@
+<article class="region page">
+  <div class="wrapper flow prose">
+  <div class="library">
+     <ul>
+        {%- for book in books -%}
+ 
+        {% if book.Status == "Reading" %}
+        <li><a href="/book/{{ book.ISBN }}">{{ book.Title }}</a>{% if book.Subtitle %}: {{ book.Subtitle }}{% endif %}</li>
+        {% endif %}
+
+        {%- endfor -%}
+    </ul>
+</div>
+  </div>
+
+
+</article>

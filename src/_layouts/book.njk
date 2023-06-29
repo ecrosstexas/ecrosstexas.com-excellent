@@ -11,7 +11,7 @@ layout: base
         {%- for book in books -%}
  
         {% if book.Library == 1 %}
-        <li><a href="/book/{{ book.ISBN }}">{{ book.Title }}</a>{% if book.Subtitle %}: {{ book.Subtitle }}{% endif %}</li>
+        <li><a href="/book/{{ book.ISBN }}/">{{ book.Title }}</a>{% if book.Subtitle %}: {{ book.Subtitle }}{% endif %}</li>
         {% endif %}
 
         {%- endfor -%}
@@ -19,6 +19,3 @@ layout: base
 </div>
 </div>
 </article>
-
-<!-- include tags -->
-{% include "partials/tags.njk" %}

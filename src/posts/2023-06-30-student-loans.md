@@ -4,7 +4,7 @@ description: "A number of tweets covering the Supreme Court Ruling on Biden's St
 url: ""
 date: 2023-06-30T12:36:00
 layout: post
-category: video
+category: post
 blockquote: false
 youtube: false
 tags:

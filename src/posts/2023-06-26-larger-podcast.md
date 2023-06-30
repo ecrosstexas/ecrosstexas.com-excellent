@@ -6,7 +6,7 @@ url: "https://largerforlife.podbean.com"
 date: 2023-06-26T11:21:55
 layout: link
 category: link
-blockquote: true
+blockquote: false
 youtube: false
 tags:
   - WLC

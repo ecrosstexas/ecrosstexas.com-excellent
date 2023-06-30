@@ -1,6 +1,8 @@
 ---
 title: "Worship and Discipleship"
-description: "Christians have always faced the problem of being influenced by the culture, and the solution remains the same—to stay close to the Lord and to His Word.  — Fred Greco"
+description: "Fred Greco writes 'Christians have always faced the problem of being influenced by the culture, and the solution remains the same—to stay close to the Lord and to His Word.'"
+quote: "Christians have always faced the problem of being influenced by the culture, and the solution remains the same—to stay close to the Lord and to His Word."
+quoteAuthor: "Fred Greco"
 anchortext: "TableTalk"
 url: "https://tabletalkmagazine.com/article/2023/06/worship-and-discipleship/"
 date: 2023-06-22T15:39:10

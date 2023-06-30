@@ -14,8 +14,15 @@ preloads:
 
     {% set definedDate = date %} {% include "partials/date.njk" %}
 
+<!-- https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/ -->
+    
     {% if blockquote == true %}
-        <blockquote>{{ description }}</blockquote>
+      <figure class="quote">
+        <blockquote>{{ quote }}</blockquote>
+        <figcaption>
+          &mdash; {{ quoteAuthor }}{% if quoteSource  %}, <cite>{{ quoteSource }}</cite>{% endif %}
+        </figcaption>
+      </figure>
     {% else %}
         <p>{{ description }}</p>
     {% endif %}

@@ -6,7 +6,7 @@ url: "https://pcaga.org/wp-content/uploads/2023/06/Stated-Clerks-Summary-and-Ref
 date: 2023-06-23T12:46:41
 layout: link
 category: link
-blockquote: true
+blockquote: false
 youtube: false
 tags:
   - BryanChappell

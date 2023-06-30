@@ -7,7 +7,7 @@ date: 2023-04-12T16:20:47
 youtube: false
 layout: link
 category: link
-blockquote: true
+blockquote: false
 tags:
     - Fonts
     - CSS

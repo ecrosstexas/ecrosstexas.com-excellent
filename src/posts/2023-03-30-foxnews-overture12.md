@@ -6,7 +6,7 @@ url: "https://www.foxnews.com/us/church-assembly-debate-urging-us-government-ren
 date: 2023-03-30T20:17:00
 layout: link
 category: link
-blockquote: true
+blockquote: false
 youtube: false
 tags:
     - PCAGA50

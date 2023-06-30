@@ -25,5 +25,7 @@ https://twitter.com/bennyjohnson/status/1674798293635805184?s=20
 
 Not long enough.
 
+https://twitter.com/POTUS/status/1674820972224958468?s=20
+
 https://twitter.com/Project_Veritas/status/1674810405531660288?s=20
 

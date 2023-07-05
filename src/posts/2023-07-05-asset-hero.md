@@ -16,4 +16,4 @@ tags:
 
 {% youtube 'xYubtn3HdjA', '{{ title }}' %}
 
-***Beware of Asset Hero.*** I have first hand expereince with these guys and know several others that have had problems as well.  I'm glad my daughter and her roommates came out of this much better than many of those Delcefino highlights.
+***Beware of Asset Hero.*** I have first hand expereince with these guys and know several others that have had problems as well.  I'm glad my daughter and her roommates came out of this much better than many of those Dolcefino highlights.

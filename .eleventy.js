@@ -43,6 +43,9 @@ const {
   liteYoutube
 } = require('./config/shortcodes/index.js');
 
+// tags
+const tag_aliases = require("./src/_data/tag_aliases.json");
+
 // module import collections
 const {getAllPosts, getAllLinks, getAllVideos, getAllPeople, getAllFaces} = require('./config/collections/index.js');
 

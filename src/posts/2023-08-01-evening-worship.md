@@ -13,6 +13,7 @@ youtube: false
 tags:
     - NTP
     - PCA
+    - PCAWorshipIndex
     - Worship
 ---
 Only 4 of 39 PCA churches in the North Texas Presbytery currently have both Morning and Evening Services. The churches are:

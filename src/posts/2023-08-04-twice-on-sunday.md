@@ -19,4 +19,6 @@ tags:
 
 Dr. Duncan Rankin, pastors Sean Morris and Zach Groff, and data man Justin Andrusk join us to talk about the decline of the evening worship service in presbyterian churches (particularly in the PCA), the great blessing of the second service, and practical suggestions for structuring and implementing second services.
 
-Here is the [audio only version](https://presbycast.libsyn.com/church-twice-on-sunday-wdr-duncan-rankin)
+Here is the [audio only version.](https://presbycast.libsyn.com/church-twice-on-sunday-wdr-duncan-rankin)
+
+Give it a listen. There are a lot of good ideas about how churches can get started with an evening service.

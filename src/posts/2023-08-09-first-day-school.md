@@ -1,6 +1,6 @@
 ---
 title: "It's the First Day of School"
-description: "It's the first day of school today for Plano ISD, so why not enjoy a little song and video from 2014."
+description: "It\u0027s the first day of school today for Plano ISD, so why not enjoy a little song and video from 2014."
 url: "https://www.youtube.com/watch?v=EMp9c0M14y0"
 date: 2023-08-09T07:35:00
 layout: post

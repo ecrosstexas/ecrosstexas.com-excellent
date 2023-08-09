@@ -17,4 +17,4 @@ tags:
 
 The YouTube algorithm was kind enough to recommend this video to me last night as I finished the latest Presbycast - [Church Twice on Sunday?](/blog/church-twice-on-sunday/). 
 
-Dr. Phillips dives into the Regulative Prinicple of Worship.
+Dr. Phillips dives into the Regulative Prinicple of Worship.  He also talks about intinction at the 23:30 mark.

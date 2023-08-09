@@ -8,4 +8,9 @@ excludeFromSitemap: true
 User-agent: *
 Disallow: /admin
 Disallow: /404.html
+
+# https://platform.openai.com/docs/gptbot
+User-agent: GPTBot
+Disallow: /
+
 Sitemap: {{ meta.url }}/sitemap.xml

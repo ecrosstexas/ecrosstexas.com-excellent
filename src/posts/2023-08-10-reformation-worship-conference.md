@@ -3,7 +3,7 @@ title: "Midway\u0027s Reformation & Worship Conference Returns"
 description: "Midway Presbyterian Church\u0027s 2023 Reformation & Worship Conference: Christianity or Modernism"
 date: 2023-08-10T14:25:00
 layout: post
-category: post
+category: shortpost
 blockquote: false
 youtube: false
 tags:

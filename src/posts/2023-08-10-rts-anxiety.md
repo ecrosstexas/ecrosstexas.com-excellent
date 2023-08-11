@@ -3,7 +3,7 @@ title: "Join RTS Zoom on Anxiety and the Christian Life"
 description: "On Thursday August 24th, Dr. Ligon Duncan and CL Pearce welcome back Professor of Counseling and the Director of RTS\u0027s Master of Arts in Counseling Program, Dr. Mike Hillerman, to discuss the topic of anxiety in the Christian life."
 date: 2023-08-10T20:55:00
 layout: post
-category: post
+category: shortpost
 blockquote: false
 youtube: false
 tags:

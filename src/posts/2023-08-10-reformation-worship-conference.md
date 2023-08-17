@@ -3,13 +3,14 @@ title: "Midway\u0027s Reformation & Worship Conference Returns"
 description: "Midway Presbyterian Church\u0027s 2023 Reformation & Worship Conference: Christianity or Modernism"
 date: 2023-08-10T14:25:00
 layout: post
-category: post
+category: shortpost
 blockquote: false
 youtube: false
 tags:
     - Reformation&WorshipConference
     - Worship
 ---
+
 After a few years hiatus, Midway's[ Reformation & Worship Conference](https://midwaypca.org/church-life/ministries/reformation-worship-conference/) returns this October.  This email hit my inbox earlier today:
 
 > Just a quick reminder to register for the upcoming Reformation & Worship Conference, to take place October 19-22, 2023 at [Midway Presbyterian Church (PCA),](https://midwaypca.org) Powder Springs, GA.

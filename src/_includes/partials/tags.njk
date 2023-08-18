@@ -4,14 +4,13 @@
   style="--region-space-top: var(--space-xl)"
 >
   <div class="flow">
-    <p class="visually-hidden" id="tags-desc">Tags:</p>
-    <ul class="tags-list" aria-describedby="tags-desc">
+    <p class="" id="tags-desc">Tags:
       {% for tag in tags | filterTagList %}
-        <li>
-          <a href="/tag/{{ tag | slug }}/">#{{ tag | replace(' ', '') }}</a>
-        </li>
+    
+          <a href="/tag/{{ tag | slug }}/">{{ tag | replace(' ', '') }}</a> 
+    
       {% endfor %}
-    </ul>
+    </p>
       </div>
 </section>
   {% endif %}

@@ -1,5 +1,5 @@
 ---
-title: "The Great Evangelical Egalitarian Crack-Up w/the Presbygirls"
+title: "The Great Evangelical Egalitarian Crack-Up with the Presbygirls"
 description: "Presbycast and Presbygirls discuss encroaching egalitarianism in the evangelical world, the importance of office and ordination, and what church women really want."
 url: "https://www.youtube.com/watch?v=rI8ejYyWhD0"
 date: 2023-08-16T13:15:00

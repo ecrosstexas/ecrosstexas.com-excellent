@@ -7,10 +7,10 @@ date: 2023-05-04T17:50:13
 youtube: true
 category: video
 tags:
-  - Anthropology
+  - anthropology
   - CarlTrueman
-  - Sexuality
-  - Video
+  - sexuality
+  - video
 ---
 
 {% youtube 'vy3y1JT0SQk', '{{ title }}' %}

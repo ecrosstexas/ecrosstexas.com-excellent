@@ -12,6 +12,6 @@ blockquote: true
 youtube: false
 tags:
  - JGreshamMachen
- - Sexuality
+ - sexuality
 ---
 

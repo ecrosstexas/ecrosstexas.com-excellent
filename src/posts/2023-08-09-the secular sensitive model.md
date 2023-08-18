@@ -11,6 +11,6 @@ category: link
 blockquote: true
 youtube: false
 tags:
-    - Preaching
-    - Sin
+    - preaching
+    - sin
 ---

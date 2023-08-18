@@ -8,7 +8,7 @@ category: video
 blockquote: true
 youtube: true
 tags:
-    - Egaltarianism
+    - egalitarianism
     - PCA
     - WestminsterStandardPodcast
     - WestminsterStandards

@@ -11,9 +11,9 @@ category: link
 blockquote: true
 youtube: false
 tags:
-  - Discipleship
+  - discipleship
   - FredGreco
-  - Worship
+  - worship
 ---
 
 Thanks to Todd Pruitt [for sharing this.](https://twitter.com/JustinBorger/status/1671606238637879297?s=20)

@@ -6,7 +6,7 @@ layout: post
 category: blogpost
 tags:
     - Reformed
-    - Conference
+    - conference
 ---
 Will you consider joining me at [Mehr Reformed Ministries](https://mehrministries.org/) [Always Reformed, Always Reforming](https://mehrministries.org/2021plano/) conference?
 

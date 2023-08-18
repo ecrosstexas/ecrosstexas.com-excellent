@@ -8,8 +8,8 @@ category: video
 blockquote: false
 youtube: true
 tags:
-    - Worship
-    - Worshiptainment
+    - worship
+    - worshiptainment
 ---
 
 {% youtube '1AA88Uex6DU', '{{ title }}' %}

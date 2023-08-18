@@ -5,8 +5,8 @@ date: 2021-09-09
 layout: post
 category: blogpost
 tags:
-    - Ebooks
-    - Audiobooks
+    - ebooks
+    - audiobooks
 ---
 Here is a look at free Christian resources available this month:
 

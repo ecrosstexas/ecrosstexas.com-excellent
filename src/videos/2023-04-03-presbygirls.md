@@ -6,9 +6,9 @@ url: "https://www.youtube.com/watch?v=0Ws44SlBbVU"
 date: 2023-04-03T23:35:13
 youtube: true
 tags:
-    - Abuse
-    - Church
-    - Podcast
+    - abuse
+    - church
+    - podcast
 ---
 
 {% youtube '0Ws44SlBbVU', '{{ title }}' %}

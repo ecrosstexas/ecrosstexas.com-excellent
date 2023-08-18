@@ -5,7 +5,7 @@ date: 2023-01-17T20:43:00
 layout: post
 category: blogpost
 tags:
-  - Hockey
+  - hockey
   - SSHL
 ---
 

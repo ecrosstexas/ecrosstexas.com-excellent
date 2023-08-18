@@ -6,13 +6,13 @@ date: 2023-05-02T15:18:00
 layout: post
 category: post
 tags:
-    - Music
+    - music
 ---
 
->   The legend lives on from the Chippewa on down
->   Of the big lake they called Gitche Gumee
->   The lake, it is said, never gives up her dead
->   When the skies of November turn gloomy
+>The legend lives on from the Chippewa on down
+>Of the big lake they called Gitche Gumee
+>The lake, it is said, never gives up her dead
+>When the skies of November turn gloomy
 
 With those lyrics, the incredible and haunting _The Wreck of the Edmund Fitzgerald_ begins. 6 minutes 30 seconds of [unbelievable maritime history](https://ssedmundfitzgerald.org/) set to song.
 

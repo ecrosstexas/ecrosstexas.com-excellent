@@ -10,8 +10,8 @@ blockquote: true
 youtube: false
 tags:
     - Instagram
-    - SocialMedia
-    - Pedophilia
+    - socialmedia
+    - pedophilia
 ---
 
 Deeply disturbing. How long will we continue to sacrifice our children? Come Lord quickly!

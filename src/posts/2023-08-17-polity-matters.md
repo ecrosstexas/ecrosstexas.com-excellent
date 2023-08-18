@@ -15,9 +15,9 @@ youtube: false
 tags:
     - BCO
     - PCA
-    - Podcast
-    - Polity
+    - podcast
+    - polity
     - PolityMatters
-    - Presbyterianism
+    - presbyterianism
 ---
 

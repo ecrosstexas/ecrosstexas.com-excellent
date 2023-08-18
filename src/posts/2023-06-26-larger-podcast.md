@@ -11,7 +11,7 @@ category: link
 blockquote: false
 youtube: false
 tags:
-  - Podcast
+  - podcast
   - WestminsterStandards
   - WLC
 ---

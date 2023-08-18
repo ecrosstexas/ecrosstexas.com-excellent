@@ -10,6 +10,6 @@ category: link
 blockquote: false
 tags:
     - Nashville
-    - Terrorism
+    - terrorism
 ---
 

@@ -14,12 +14,14 @@ tags:
     - NTP
     - PCA
     - PCAWorshipIndex
-    - Worship
+    - worship
 ---
 Only 4 of 39 PCA churches in the North Texas Presbytery currently have both Morning and Evening Services. The churches are:
 - [Redeemer Amarillo](http://www.redeemeramarillo.com/)
 - [Lakewood Dallas](https://www.lakewoodpres.com/)
 - [Redeemer McKinney](http://www.redeemermckinney.com/)
 - [Fifth Street Tyler](http://www.fifthstreetpca.org/)
+
+What's keep churches from holding evening services?
 
 [Justin Andrusk](https://andrusk.com) and [Matthew Lee](https://matthewhlee.org) are busy [compiling this data](https://gitlab.com/Jandrusk/pca/-/tree/main/data) for all 88 Presbyteries in the PCA.

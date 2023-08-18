@@ -9,7 +9,7 @@ category: link
 blockquote: false
 youtube: false
 tags:
- - "NewYorkYankees"
+ - NewYorkYankees
 ---
 
 I really wish I had gotten to see a game at old Yankee Stadium.

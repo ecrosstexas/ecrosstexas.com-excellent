@@ -12,8 +12,8 @@ tags:
   - GRN
   - MelDuncan
   - PCA
-  - Video
-  - Podcast
+  - video
+  - podcast
 ---
 
 {% youtube 'DJX_y8eGwCA', '{{ title }}' %}

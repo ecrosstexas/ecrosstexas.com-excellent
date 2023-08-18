@@ -12,7 +12,6 @@ blockquote: true
 youtube: false
 tags:
     - BCO
-    - Overtures
     - PCA
     - ScottEdburg
 ---

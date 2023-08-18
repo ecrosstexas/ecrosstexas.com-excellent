@@ -7,7 +7,7 @@ category: shortpost
 blockquote: false
 youtube: false
 tags:
-    - Counseling
+    - counseling
     - RTS
 ---
 

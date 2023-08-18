@@ -10,7 +10,7 @@ youtube: true
 tags:
   - OPC
   - PCA
-  - Podcast
+  - podcast
   - Presbycast
 ---
 

@@ -11,7 +11,7 @@ youtube: false
 tags:
     - PCAGA50
     - PCA
-    - Gender
+    - gender
 ---
 
 This should be an intersting debate on the floor of General Assembly.

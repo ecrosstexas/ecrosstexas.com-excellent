@@ -6,7 +6,7 @@ layout: post
 category: blogpost
 tags:
  - Presbygirls
- - Podcast
+ - podcast
 ---
 Sarah Morris leads a discussion of identifying, addressing, and preventing abuse in the church with minister of counseling at First Presbyterian (ARP) Columbia, SC Josh Squires, and pastors R. Scott Clark and Sean Morris.
 

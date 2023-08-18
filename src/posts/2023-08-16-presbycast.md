@@ -8,8 +8,8 @@ category: video
 blockquote: false
 youtube: true
 tags:
-    - Egaltarianism
-    - Evangelicalism
+    - egalitarianism
+    - evangelicalism
     - PCA
     - Presbycast
 ---

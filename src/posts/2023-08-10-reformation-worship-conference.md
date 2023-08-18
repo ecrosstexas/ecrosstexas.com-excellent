@@ -7,8 +7,8 @@ category: shortpost
 blockquote: false
 youtube: false
 tags:
-    - Reformation&WorshipConference
-    - Worship
+    - conference
+    - worship
 ---
 
 After a few years hiatus, Midway's[ Reformation & Worship Conference](https://midwaypca.org/church-life/ministries/reformation-worship-conference/) returns this October.  This email hit my inbox earlier today:

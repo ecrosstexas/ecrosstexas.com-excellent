@@ -14,7 +14,7 @@ tags:
   - BradIsbell
   - PCA
   - PCAGA50
-  - Ordination
+  - ordination
 ---
 
 Brad Isbell argues we need to pass Overture 26 and emphasize the plain meaning of the BCO.

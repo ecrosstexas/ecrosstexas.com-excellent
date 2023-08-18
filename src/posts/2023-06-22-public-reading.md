@@ -13,7 +13,7 @@ youtube: false
 tags:
   - BiblicalTheology
   - Scripture
-  - Worship
+  - worship
 ---
 
 Thanks to [Justin Borger](https://twitter.com/JustinBorger/status/1671606238637879297?s=20) for sharing this recently.

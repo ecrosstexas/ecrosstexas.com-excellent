@@ -6,7 +6,7 @@ youtube: true
 layout: post
 category: blogpost
 tags:
-    - Baseball
+    - baseball
     - StLouisCardindals
 ---
 

@@ -16,6 +16,6 @@ tags:
 
 {% youtube 'uT4Wnc74_XE', '{{ title }}' %}
 
-Audio only [Prebycast.](https://presbycast.libsyn.com/cultural-differences-common-concerns-pca-opc-elders-panel)
+Audio only [Presbycast.](https://presbycast.libsyn.com/cultural-differences-common-concerns-pca-opc-elders-panel)
 
-I think this is my first appearnce on Prebycast 😂
+I think this is my first appearance on Presbycast. 😂

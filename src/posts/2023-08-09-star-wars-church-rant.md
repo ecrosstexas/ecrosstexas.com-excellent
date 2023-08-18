@@ -8,6 +8,7 @@ category: video
 blockquote: false
 youtube: true
 tags:
+    - evangelicalism
     - worship
     - worshiptainment
 ---

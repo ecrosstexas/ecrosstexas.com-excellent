@@ -7,10 +7,11 @@ date: 2023-05-04T18:12:13
 youtube: true
 category: video
 tags:
+    - church
+    - denominations
+    - humor
     - StarWars
-    - Humor
-    - Church
-    - Video
+    - video
 ---
 
 {% youtube '0ZM3i3_BJn4', '{{ title }}' %}

@@ -9,7 +9,7 @@ layout: link
 category: link
 blockquote: false
 tags:
-    - Fonts
+    - fonts
     - CSS
 ---
 

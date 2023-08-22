@@ -11,7 +11,7 @@ tags:
   - GRN
   - HarryReeder
   - PCA
-  - Sanctification
+  - sanctification
 ---
 
 Continuing to post the individual talks from the 2023 GRN Conference: [Lead on, O King Eternal](/blog/grn-conference-lead-on-o-king-eternal/):

@@ -8,10 +8,10 @@ youtube: true
 layout: post
 category: video
 tags:
-    - Worship
+    - worship
     - RichardPhillips
     - RPW
-    - Video
+    - wideo
 ---
 {% youtube 'UzDAlKFR3uY', '{{ title }}' %}
 

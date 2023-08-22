@@ -11,7 +11,8 @@ category: link
 blockquote: true
 youtube: false
 tags:
+    - evangelicalism
     - Saddleback
-    - Worship
-    - Worshiptainment
+    - worship
+    - worshiptainment
 ---

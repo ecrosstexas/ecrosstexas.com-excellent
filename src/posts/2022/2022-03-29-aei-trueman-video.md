@@ -6,8 +6,8 @@ layout: post
 category: blogpost
 tags:
     - CarlTrueman
-    - Self
-    - Video
+    - self
+    - video
 ---
   Every society has some understanding of the nature and purpose of human life. What is the American definition of individualism, and how did it become dominant? What are its possibilities, and who are its discontents?
 

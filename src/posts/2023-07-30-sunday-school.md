@@ -8,10 +8,10 @@ category: shortpost
 blockquote: false
 youtube: true
 tags:
-    - Cessationism
+    - cessationism
     - HolySpirit
-    - Speaking
-    - SundaySchool
+    - speaking
+    - sundayschool
     - TPC
 ---
 

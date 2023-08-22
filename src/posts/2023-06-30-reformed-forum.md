@@ -9,7 +9,7 @@ blockquote: true
 youtube: true
 tags:
   - JohnKnox
-  - Podcast
+  - podcast
   - ReformedForum
   - SeanMorris
 ---

@@ -11,8 +11,8 @@ tags:
   - GeorgeSayour
   - PCAGA50
   - SteveDowling
-  - Podcast
-  - Video
+  - podcast
+  - video
 ---
 
 {% youtube 'u4lBnHmEFgQ', '{{ title }}' %}

@@ -9,6 +9,6 @@ layout: link
 category: link
 blockquote: false
 tags:
-    - Golf
+    - golf
     - GrandScape
 ---

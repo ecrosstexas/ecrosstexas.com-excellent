@@ -6,11 +6,11 @@ layout: post
 category: blogpost
 tags:
  - MattWalsh
- - Gender
+ - gender
 ---
 Matt Walsh spoke at New Mexico State last night and dropped truth bombs. Church, do we have the courage to say the things Matt says here?
 
-> "They don't care about you, but I do."
+>"They don't care about you, but I do."
 
 https://twitter.com/MattWalshBlog/status/1643460289671892992?s=20
 

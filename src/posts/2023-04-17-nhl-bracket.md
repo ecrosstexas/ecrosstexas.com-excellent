@@ -6,7 +6,7 @@ layout: post
 category: shortpost
 youtube: true
 tags:
- - Hockey
+ - hockey
 ---
 
 {% imagePlaceholder "./src/assets/images/IMG_1413.JPG", "Dallas Stars in 6 over the NY Rangers", "#TexasHockey" %}

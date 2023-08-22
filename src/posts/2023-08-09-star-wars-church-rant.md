@@ -8,8 +8,9 @@ category: video
 blockquote: false
 youtube: true
 tags:
-    - Worship
-    - Worshiptainment
+    - evangelicalism
+    - worship
+    - worshiptainment
 ---
 
 {% youtube '1AA88Uex6DU', '{{ title }}' %}

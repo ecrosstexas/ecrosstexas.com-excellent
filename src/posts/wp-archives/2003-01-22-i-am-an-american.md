@@ -3,7 +3,7 @@ title: "I am an American"
 description: ""
 date: 2003-01-22
 tags:
-    - Abortion
+    - abortion
     - America
 ---
 From the [NRLC](http://www.nrlc.org/):

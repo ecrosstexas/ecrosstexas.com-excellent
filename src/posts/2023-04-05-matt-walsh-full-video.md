@@ -8,8 +8,8 @@ youtube: true
 category: video
 tags:
     - MattWalsh
-    - Gender
-    - Video
+    - gender
+    - video
 ---
 
 {% youtube 'DWwPdkzatkQ', '{{ title }}' %}

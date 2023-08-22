@@ -6,9 +6,9 @@ layout: post
 category: blogpost
 tags:
     - Sermon
-    - Exhortation
+    - exhortation
     - Gospel
-    - TrinityPresbyterianChurch
+    - TPC
 ---
 
 - Meditation: John 5:39

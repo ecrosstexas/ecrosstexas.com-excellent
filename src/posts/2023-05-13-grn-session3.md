@@ -8,7 +8,7 @@ category: video
 blockquote: false
 youtube: true
 tags:
-  - Antinomianism
+  - antinomianism
   - GRN
   - KevinDeYoung
   - PCA

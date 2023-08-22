@@ -4,8 +4,8 @@ description:
 date: 2015-02-13
 youtube: true
 tags:
-    - Entertainment
-    - Movies
+    - entertainment
+    - movie
 ---
 
 _50 Shades of Grey_ opens this weekend. It seems like everyone is talking about seeing this movie. You want to go see it, right?

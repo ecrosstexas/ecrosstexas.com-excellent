@@ -9,6 +9,6 @@ category: link
 blockquote: false
 youtube: false
 tags:
- - Books
+ - books
  - RyanMcGraw
 ---

@@ -6,7 +6,7 @@ layout: post
 category: blogpost
 tags:
     - COVID-19
-    - Abortion
+    - abortion
 ---
 Two tweets today drove home the point about the hypocrisy we see around us everyday.
 

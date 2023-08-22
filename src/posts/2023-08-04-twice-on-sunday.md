@@ -12,7 +12,7 @@ tags:
   - PCA
   - PCAWorshipIndex
   - Presbycast
-  - Worship
+  - worship
 ---
 
 {% youtube '_ZhHez2whYg', '{{ title }}' %}

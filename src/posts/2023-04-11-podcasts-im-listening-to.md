@@ -5,7 +5,7 @@ date: 2023-04-11T14:54:13
 layout: post
 category: blogpost
 tags:
- - Podcast
+ - podcast
 ---
 {% imagePlaceholder "./src/assets/images/not-mine/mos-icon.jpeg", "Mortifcaiton of Spin show art featuring John Owen listening to the show.", "Mortifcaiton of Spin with Todd Pruitt and Carl Trueman" %}
 

@@ -135,9 +135,8 @@ const webmentionsByType = (mentions, mentionType) => {
 
 const isOwnWebmention = webmention => {
   const urls = [
-    'https://www.lenesaile.com',
-    'https://twitter.com/lenesaile',
-    'https://front-end.social/@lene'
+    'https://www.ecrosstexas.com',
+    'https://twitter.com/ecrosstexas'
   ];
   const authorUrl = webmention.author ? webmention.author.url : false;
   // check if a given URL is part of this site.

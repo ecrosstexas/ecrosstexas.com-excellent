@@ -20,6 +20,7 @@ Here is an ongoing compilation of books on Worship (mostly Presbyterian & Reform
 - _Doxology and Theology: How the Gospel Forms the Worship Leader_, Matt Boswell. B&H Books, 2013.
 - _Does God Care How We Worship?_, J. Ligon Duncan. P&R Publishing, 2020. &#9963;
 - _Give Praise to God: A Vision for Reforming Worship_, Philip Graham Ryken, editor. P&R Publishing, 2011. &#9963;
+- _The God We Worship: Adoring the One Who Pursues, Redeems, and Changes His People (Best of Philadelphia Conference on Reformed Theology)_, Johnathan Master, editor. P&R Publishing, 2016.
 - _Let Us Worship God: Why We Worship the Way We Do_, Derek W. H. Thomas. Ligonier Ministries, 2021. &#9963;
 - _Reformation Worship: Liturgies from the Past for the Present_, Jonathan Gibson and Mark Earngey. New Growth Press, 2018. &#9963;
 - _Reformed Worship: Worship that is According to Scripture_, Terry L. Johnson. Evangelical Press, 2014. &#9963;

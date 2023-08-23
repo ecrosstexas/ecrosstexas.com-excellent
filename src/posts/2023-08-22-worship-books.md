@@ -30,7 +30,7 @@ Here is an ongoing compilation of books on Worship (mostly Presbyterian & Reform
 - _Trembling Joy: A Biblical Defense of Traditional Worship_, Ryan Speck. Alliance of Confessing Evangelicals, 2022.
 - _The Westminster Directory of Public Worship_, Sinclair B. Ferguson and Mark Dever. Christian Heritage, 2009. &#9963;
 - _What Happens When We Worship_, Jonathan Landry Cruse. Reformation Heritage Books, 2022. &#9963;
-- _What is Worship Music?, Paul S. Jones_, Paul S. Jones. P&R Publishing, 2010.
+- _What is Worship Music?_, Paul S. Jones. P&R Publishing, 2010.
 - _When Church Became Theatre: The Transformation of Evangelical Architecture and Worship in Nineteenth-Century America_, Jeanne Halgren Kilde. Oxford University Press, 2005.
 - _With Reverence and Awe: Returning to the Basics of Reformed Worship_, D.G. Hart and John R. Muether. P&R Publishing, 2002. &#9963;
 - _Worship: Reformed According to Scripture_, Hughes Oliphant Old. Westminster John Knox Press, 2002.

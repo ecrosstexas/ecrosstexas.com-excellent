@@ -1,6 +1,6 @@
 ---
 title: "Books on Worship"
-description: "A compiling of books on worship (mostly Presbyterian & Reformed)"
+description: "An ongoing compilation of books on Worship (mostly Presbyterian & Reformed)"
 date: 2023-08-22T13:15:00
 layout: post
 category: shortpost
@@ -12,6 +12,8 @@ tags:
 ---
 > But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.
 > – John 4:23 ESV
+
+Here is an ongoing compilation of books on Worship (mostly Presbyterian & Reformed). I pray you find this useful.
 
 - _A Better Way: Rediscovering the Drama of God-Centered Worship_, Michael Horton. Baker Books, 2002.
 - _Christ-Centered Worship: Letting the Gospel Shape Our Practice_, Bryan Chappel. Baker Academic, 2017.
@@ -38,7 +40,6 @@ tags:
 - _Worshipping with Calvin: Recovering the Historic Ministry and Worship of Reformed Protestantism_, Terry L. Johnson. Evangelical Press, 2014. &#9963;
 - _The Worship of God: Reformed Concepts of Biblical Worship_, Terry L. Johnson. Mentor, 2005.
 
-Are there any books you would add to this list?
+Are there any books you would add?
 
-Books with &#9963; are in my personal libary and this list will be updated from time-to-time.
-
+Books with &#9963; are in my personal library.

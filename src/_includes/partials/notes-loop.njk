@@ -1,0 +1,9 @@
+<li id="{{ note.data.title | slugify }}"" class="card flow overflow-hidden"">
+  <div aria-hidden="true">{% include "icons/newspaper.svg" %}</div> 
+  <h3>
+    <a href="{{ note.url | url }}" title="Read {{ note.data.title }}" >{{ note.data.title }}</a>
+  </h3>
+
+  {% set definedDate = note.date %} {% include "partials/date.njk" %}
+  <p>{{ note.data.description | safe }}</p>
+</li>

@@ -1,0 +1,31 @@
+---
+layout: base
+---
+
+<header class="section spot-color-primary">
+  <div class="section__inner">
+    <div class="wrapper flow region">
+      <h1 class="text-center">TV Notes</h1>
+    </div>
+  </div>
+  {% include 'svg/divider-waves.svg' %}
+</header>
+
+<article class="region" style="--region-space-top: var(--space-s)">
+  <div class="wrapper flow prose">
+    <p>Here are the 20 most recently updated TV notes:</p>
+
+    <ul>
+      {% set notestvlist = collections.notestv %} 
+        {% for tv in notestvlist.slice(0, 20) %}
+          <li>
+            <p><a href="{{ tv.url | url }}">{{ tv.data.title }}</a></p>
+            <p>{{ tv.data.description }}</p>
+          </li>
+        {% endfor %}
+    </ul>
+  </div>
+</article>
+
+<!-- include tags -->
+<!-- {% include "partials/cta.njk" %}-->

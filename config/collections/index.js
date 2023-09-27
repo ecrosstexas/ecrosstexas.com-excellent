@@ -34,10 +34,24 @@ const getAllFaces = collection => {
   return projects;
 };
 
+// Returns a list of book notes ordered by filename
+const getAllBookNotes = collection => {
+  const projects = collection.getFilteredByGlob('./src/notes/books/*.md');
+  return projects.reverse();
+};
+
+// Returns a list of TV notes ordered by filename
+const getAllTVNotes = collection => {
+  const projects = collection.getFilteredByGlob('./src/notes/tv/*.md');
+  return projects.reverse();
+};
+
 module.exports = {
 getAllPosts, 
 getAllLinks,
 getAllVideos,
 getAllPeople,
-getAllFaces
+getAllFaces,
+getAllBookNotes,
+getAllTVNotes
 };

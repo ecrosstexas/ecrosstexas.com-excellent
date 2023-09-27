@@ -1,0 +1,38 @@
+---
+layout: base
+schema: blog
+preloads:
+  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
+  as: 'font'
+  type: 'font/woff2'
+  crossorigin: true
+---
+
+<article class="region blog">
+    
+  <div class="wrapper flow prose">
+    <h1 class=" ">{{ title }}</h1>
+        <p>Air Dates: {{ airdates }}, {{ seasons }} seasons</p>
+        <p>Network: {{ network }}</p>
+        <p><a href="{{ website }}">{{ website }}</a></p>
+    {{ content | safe }}
+    
+    <!-- include tags -->
+
+    {% include "partials/tags.njk" %}
+    <hr />
+    <i>Last Updated: {% set definedDate = date %} {% include "partials/date.njk" %}</i>
+  </div>
+
+</article>
+
+
+
+
+<!-- include crossposts -->
+{% include "partials/xpost.njk" %}
+
+<!-- set webmentions url -->
+{% set webmentionUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
+<!-- include webmentions -->
+{% include "partials/webmentions.njk" %}

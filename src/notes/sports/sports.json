@@ -1,0 +1,5 @@
+{
+    "layout": "post",
+    "permalink": "/notes/sports/{{ title | slugify }}/index.html"
+  }
+  

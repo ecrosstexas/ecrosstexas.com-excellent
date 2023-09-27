@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "6cd95bd947a4cecf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f7e10f009f6d672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d90410a2948da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/books/Why Should We Sing Psalms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5104189df14666e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "02950151007daeeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf274322fb628a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76a08e76295b697c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f6af09297168a0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "759735c8c744cd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9951ad77f0ff25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5461f1381251c271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/books/Why Should We Sing Psalms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "297c7a2eefe09f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/books/Why Should We Sing Psalms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcef222792be06b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "432078aa6b7684b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/books/Why Should We Sing Psalms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26d90410a2948da3",
+  "lastOpenFiles": [
+    "notes/books/The Great Dechurching.md",
+    "notes/books/Irony & the Presbyterian Church in America.md",
+    "notes/books/Five Lies of Our Anti-Christian Age.md",
+    "notes/books/Why Should We Sing Psalms.md",
+    "notes/books/Why Should We Sing Psalms.d",
+    "notes/books/Why Should We Sing Psalms",
+    "notes/tv/Only Murders in the Building.md",
+    "notes/tv/The Office.md",
+    "_layouts/notes-list-tv.njk",
+    "_layouts/notes-list-books.njk",
+    "pages/notes-tv.md",
+    "_layouts/notes-tv.njk",
+    "faces/1.md",
+    "posts/2023-02-25-loss.md",
+    "pages/docs.md",
+    "pages/april-19.md"
+  ]
+}

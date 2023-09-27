@@ -1,0 +1,5 @@
+{
+    "layout": "post",
+    "permalink": "/notes/movies/{{ title | slugify }}/index.html"
+  }
+  

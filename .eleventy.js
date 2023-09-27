@@ -47,7 +47,7 @@ const {
 const tag_aliases = require("./src/_data/tag_aliases.json");
 
 // module import collections
-const {getAllPosts, getAllLinks, getAllVideos, getAllPeople, getAllFaces} = require('./config/collections/index.js');
+const {getAllPosts, getAllLinks, getAllVideos, getAllPeople, getAllFaces, getAllBookNotes, getAllTVNotes} = require('./config/collections/index.js');
 
 // module import events
 const {svgToJpeg} = require('./config/events/index.js');
@@ -148,6 +148,8 @@ module.exports = eleventyConfig => {
   eleventyConfig.addCollection('videos', getAllVideos);
   eleventyConfig.addCollection('people', getAllPeople);
   eleventyConfig.addCollection('faces', getAllFaces);
+  eleventyConfig.addCollection('notesbooks', getAllBookNotes);
+  eleventyConfig.addCollection('notestv', getAllTVNotes);
   // 	--------------------- Events ---------------------
   eleventyConfig.on('afterBuild', svgToJpeg);
 

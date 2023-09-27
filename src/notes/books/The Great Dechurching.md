@@ -15,6 +15,8 @@ website: https://zondervanacademic.com/products/the-great-dechurching
 description: This book gives the church in America its first ever deep dive into the dechurched phenomenon. You’ll learn about the dechurched through a detailed sketch of demographics, size, core concerns, church off-ramps, historical roots, and the gravity of what is at stake. Then you’ll explore what can be done to slow the bleed, engage the pertinent issues winsomely and wisely, and hopefully re-church some of the dechurched.
 status: ""
 readyear: ""
+rating: ""
+recommended: ""
 library: N
 wishlist: Y
 acquired: ""

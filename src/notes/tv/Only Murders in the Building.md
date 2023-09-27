@@ -7,7 +7,8 @@ seasons: "3"
 website: ""
 wikipedia: https://en.wikipedia.org/wiki/Only_Murders_in_the_Building
 description: ""
-layout: notes-tv
+rating: ""
+recommended: ""
 tags:
     - comedy-drama
     - mystery

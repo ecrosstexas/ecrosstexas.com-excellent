@@ -5,6 +5,10 @@ module.exports = {
       url: '/about/'
     },
     {
+      text: 'Notes',
+      url: '/notes/'
+    },
+    {
       text: 'Blog',
       url: '/blog/'
     }

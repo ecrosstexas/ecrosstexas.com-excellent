@@ -1,5 +1,5 @@
 ---
-title: "Irony & the Presbyterian Church in America"
+title: "Irony and the Presbyterian Church in America"
 subtitle: ""
 series: ""
 edition: ""

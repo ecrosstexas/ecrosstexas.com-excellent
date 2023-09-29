@@ -17,11 +17,15 @@ tags:
     - worship
 ---
 
-The North Texas Presbytery currently has 4 of 39 churches (10.2%) having both morning and evening worship services regularly, so we are just under an average of the denomination where 238 of 1930 churches (12.3%) offer both.
+The North Texas Presbytery currently has 5 of 39 churches (12.8%) having both morning and evening worship services regularly, so we are just over the average of the denomination where 238 of 1930 churches (12.3%) offer both.
 
 Those churches in the NTP are:
 
 - [Redeemer Amarillo](http://www.redeemeramarillo.com/)
+- [Bethel Church Dallas](http://bethelchurchpca.org)
 - [Lakewood Dallas](https://www.lakewoodpres.com/)
 - [Redeemer McKinney](http://www.redeemermckinney.com/)
 - [Fifth Street Tyler](http://www.fifthstreetpca.org/)
+
+
+Updated 2023-09-12: _Somehow, Bethel's evening service was missed during my initial research. My apologies to everyone._ 

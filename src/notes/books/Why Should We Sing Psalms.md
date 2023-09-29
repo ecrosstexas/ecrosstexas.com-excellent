@@ -11,7 +11,7 @@ isbn: "9721601784155"
 asin: ""
 publisher: Reformation Heritage Books
 copyright: "2015"
-release_date: 2015-09-20
+release_date: "2015-09-20"
 pages: "32"
 list_price: "3.00"
 website: https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/

@@ -64,3 +64,4 @@ In all the interviews with Rosaria I've seen, she says this book is geared towar
 - 2023-09-27 [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life & Books & Everything_.
 - 2023-09-27 [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.
 - 2023-09-28 [Interview](https://overcast.fm/+P17PFVQoE) with Jon Harris on _Conversations That Matter_.
+- Crossway has posted [short videos on YouTube](https://www.youtube.com/playlist?list=PLRIff6sHi0pdWjKYcrcRw7N6n8nrR9L6S) with Rosaria discussing each of the Five Lies.

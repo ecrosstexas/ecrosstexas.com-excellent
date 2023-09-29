@@ -17,6 +17,9 @@ As things often do, it didn't start out that way. Back in late 2001, I had the i
 
 Back then, "the texas blog" was the tag line for ecrosstexas.
 
+### Diclosures:
+- As an Amazon Associate I earn from qualifying purchases. Links to Amazon use affiliate tracking codes.
+- 
 <!--
 ## Inspirations:
 - https://www.zachleat.com/web/about/

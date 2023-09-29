@@ -43,7 +43,7 @@ In this powerful book, Rosaria Butterfield uses Scripture to confront 5 common l
 
 ## Notes:
 
-In all the interviews with Rosaria I've seen, she says this book is geared towards "moms and grandmas", but the truths are applicable to everyone.
+In all the interviews with Rosaria I've seen, she says this book is geared towards "moms and grandmas," but the truths are applicable to everyone.
 
 ### 3 Reasons
 
@@ -63,4 +63,4 @@ In all the interviews with Rosaria I've seen, she says this book is geared towar
 
 - 2023-09-27 [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life & Books & Everything_.
 - 2023-09-27 [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.
-- 2023-09-28 [Interview](https://overcast.fm/+P17PFVQoE) with John Harris on _Conversations That Matter_.
+- 2023-09-28 [Interview](https://overcast.fm/+P17PFVQoE) with Jon Harris on _Conversations That Matter_.

@@ -1,35 +1,36 @@
 ---
-title: "Why Should We Sing Psalms"
+title: Why Should We Sing Psalms
 subtitle: ""
-series: "Cultivating Biblical Godliness"
+series: Cultivating Biblical Godliness
 edition: ""
-author: "Joel R. Beeke"
-format: "Pamphlet"
-language: "en"
+author:
+  - Joel R. Beeke
+format: Pamphlet
+language: en
 isbn: "9721601784155"
 asin: ""
-publisher: "Reformation Heritage Books"
+publisher: Reformation Heritage Books
 copyright: "2015"
-release_date: "2015-09-20"
+release_date: 2015-09-20
 pages: "32"
 list_price: "3.00"
-website: ""
-amazon_link: "https://www.amazon.com/Why-Should-We-Sing-Psalms/dp/1601784155/"
-rhb_link: "https://www.heritagebooks.org/products/why-should-we-sing-psalms-cultivating-biblical-godliness-series-beeke.html"
-description: "Among evangelicals, singing psalms is largely a thing of the past. In this pamphlet, Joel R. Beeke gives nine reasons why churches ought to return to the ancient practice of psalm singing. Here you will find the biblical basis, the experiential benefits, and the sheer beauty and glory of singing psalms. Those hoping to recover biblical faith in our day will do well to take part in the Christ-exalting and soul-enriching worship found in the inspired Psalms."
-status: "Read"
+website: https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/
+amazon_link: https://amzn.to/3t7GbOp
+rhb_link: https://www.heritagebooks.org/products/why-should-we-sing-psalms-cultivating-biblical-godliness-series-beeke.html
+description: Among evangelicals, singing psalms is largely a thing of the past. In this pamphlet, Joel R. Beeke gives nine reasons why churches ought to return to the ancient practice of psalm singing. Here you will find the biblical basis, the experiential benefits, and the sheer beauty and glory of singing psalms. Those hoping to recover biblical faith in our day will do well to take part in the Christ-exalting and soul-enriching worship found in the inspired Psalms.
+status: Read
 readyear: "2023"
 rating: "4.5"
-recommended: "Y"
-library: "Y"
-wishlist: "N"
-acquired: "Purchased"
-acquired_date: "2023-07-31"
-acquired_source: "Reformation Heritage Books"
+recommended: Y
+library: Y
+wishlist: N
+acquired: Purchased
+acquired_date: 2023-07-31
+acquired_source: Reformation Heritage Books
 acquired_price: "1.25"
 tags:
-    - Psalms
-    - worship
+  - Psalms
+  - worship
 ---
 ## Description:
 

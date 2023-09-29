@@ -15,7 +15,7 @@ release_date: "2023-08-15"
 pages: "160"
 list_price: "19.99"
 website: "https://www.crossway.org/books/impossible-christianity-hcj/"
-amazon_link: "https://www.amazon.com/Impossible-Christianity-Following-Everything-Spiritual/dp/1433585340/"
+amazon_link: "https://amzn.to/3PX8CI3"
 rhb_link: ""
 description: "Impossible Christianity reassures readers that they don’t need to feel a collective sense of guilt for sins in the past and solve every societal problem in the present. Through biblical wisdom and engaging personal stories, Kevin DeYoung challenges the misconception that we need 40 hours in the day just to be good Christians. By reflecting on what Jesus actually taught about Christian discipleship, readers will be newly encouraged to pursue single-minded devotion to God and find lasting joy in a life of sincere and simple obedience."
 status: "reading"
@@ -29,7 +29,7 @@ acquired_date: ""
 acquired_source: ""
 acquired_price: ""
 tags:
-	- christian-living
+- christian-living
 ---
 
 ## Description:

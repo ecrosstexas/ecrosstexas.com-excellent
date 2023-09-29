@@ -13,9 +13,9 @@ publisher: "P&R Publishing"
 copyright: "2023"
 release_date: "2023-06-20"
 pages: "152"
-list_price: ""
+list_price: "15.99"
 website: "https://www.prpbooks.com/book/reformed-worship"
-amazon_link: "https://www.amazon.com/Reformed-Worship-Blessings-Faith-Rhodes/dp/1629959073/"
+amazon_link: "https://amzn.to/3RHff2i"
 rhb_link: ""
 description: "A Reformed view of worship is shaped by God’s Word and has the gospel as its context: God desires to meet with his people, and that meeting comes only in and through Christ, by the Holy Spirit. Writing with winsome enthusiasm, Jonty Rhodes celebrates the simplicity and freedom of Reformed worship and shows readers the joys of meeting with God in the means and manner he promises to bless."
 status: "read"
@@ -29,7 +29,7 @@ acquired_date: ""
 acquired_source: ""
 acquired_price: ""
 tags:
-	- worship
+- worship
 ---
 
 ## Description:

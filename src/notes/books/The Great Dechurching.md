@@ -17,7 +17,7 @@ release_date: "2023-08-22"
 pages: "272"
 list_price: "29.99"
 website: https://zondervanacademic.com/products/the-great-dechurching
-amazon_link: "https://www.amazon.com/Great-Dechurching-Leaving-Going-Bring/dp/0310147433/"
+amazon_link: "https://amzn.to/46wEbh1"
 rhb_link:  
 description: This book gives the church in America its first ever deep dive into the dechurched phenomenon. You’ll learn about the dechurched through a detailed sketch of demographics, size, core concerns, church off-ramps, historical roots, and the gravity of what is at stake. Then you’ll explore what can be done to slow the bleed, engage the pertinent issues winsomely and wisely, and hopefully re-church some of the dechurched.
 status: ""

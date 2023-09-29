@@ -10,7 +10,7 @@ description: ""
 rating: ""
 recommended: ""
 tags:
-    - 
+    - comedy
 ---
 ## Description: 
 

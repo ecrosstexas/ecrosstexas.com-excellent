@@ -43,12 +43,13 @@ In this powerful book, Rosaria Butterfield uses Scripture to confront 5 common l
 
 ## Notes:
 
+In all the interviews with Rosaria I've seen, she says this book is geared towards "moms and grandmas", but the truths are applicable to everyone.
+
 ### 3 Reasons
 
 - We have failed to see that the seeds of the gospel are in the garden (We've denied that the creation ordinance found in Genesis 1:27 has any bearing on evangelism).
 - We don't seem to know what time we're living in (We've failed to see that the three exchanges of Romans 1 have taken root in both civil and federal law).
 - We're really sloppy with our categories (confused becoming friends with the enemy with loving the enemy).
-
 
 ### 5 Lies
 
@@ -60,5 +61,6 @@ In this powerful book, Rosaria Butterfield uses Scripture to confront 5 common l
 
 ## Resources:
 
-- [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life and Books and Everything_.
-- [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.
+- 2023-09-27 [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life & Books & Everything_.
+- 2023-09-27 [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.
+- 2023-09-28 [Interview](https://overcast.fm/+P17PFVQoE) with John Harris on _Conversations That Matter_.

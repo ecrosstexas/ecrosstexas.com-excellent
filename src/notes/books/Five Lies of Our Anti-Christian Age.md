@@ -29,7 +29,7 @@ acquired_date: ""
 acquired_source: ""
 acquired_price: ""
 tags:
-    - sexuality
+    - homosexuality
     - womanhood
     - gender
     - christian-living
@@ -61,6 +61,7 @@ In all the interviews with Rosaria I've seen, she says this book is geared towar
 
 ## Resources:
 
+- 2023-10-05 Interview on [The Beckett Cook Show Ep. 138](https://overcast.fm/+8rTrNYo7o)
 - 2023-09-27 [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life & Books & Everything_.
 - 2023-09-27 [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.
 - 2023-09-28 [Interview](https://overcast.fm/+P17PFVQoE) with Jon Harris on _Conversations That Matter_.

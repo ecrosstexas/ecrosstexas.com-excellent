@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/books/Why Should We Sing Psalms.md",
+                "file": "notes/Andy Stanley - Unconditional Conference.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/books/Why Should We Sing Psalms.md",
+                "file": "notes/Andy Stanley - Unconditional Conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/books/Why Should We Sing Psalms.md",
+                "file": "notes/Andy Stanley - Unconditional Conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/books/Why Should We Sing Psalms.md"
+                "file": "notes/Andy Stanley - Unconditional Conference.md"
               }
             }
           }
@@ -148,14 +148,27 @@
   },
   "active": "26d90410a2948da3",
   "lastOpenFiles": [
-    "notes/books/The Great Dechurching.md",
-    "notes/books/Irony & the Presbyterian Church in America.md",
+    "notes/concupiscence.md",
+    "notes/affirming theology.md",
+    "notes/compuscience.md",
+    "notes/Andy Stanley - Unconditional Conference.md",
+    "notes/tv/Only Murders in the Building.md",
+    "notes/books/Dangerous Affirmation.md",
+    "notes/books/Dangerous Affirmation",
+    "notes/books/Dangerous Affirmations",
     "notes/books/Five Lies of Our Anti-Christian Age.md",
     "notes/books/Why Should We Sing Psalms.md",
+    "notes/Screenshot 2023-10-06 at 1.20.28 PM.png",
+    "notes/tv/Slow Horses.md",
+    "notes/tv/The Diplomat.md",
+    "notes/tv/The Office.md",
+    "notes/tv/The Terminal List.md",
+    "notes/tv/Night Watch.md",
+    "notes/tv/Andor.md",
+    "notes/books/The Great Dechurching.md",
+    "notes/books/Irony & the Presbyterian Church in America.md",
     "notes/books/Why Should We Sing Psalms.d",
     "notes/books/Why Should We Sing Psalms",
-    "notes/tv/Only Murders in the Building.md",
-    "notes/tv/The Office.md",
     "_layouts/notes-list-tv.njk",
     "_layouts/notes-list-books.njk",
     "pages/notes-tv.md",

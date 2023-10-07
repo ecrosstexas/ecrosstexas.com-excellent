@@ -9,7 +9,7 @@ blockquote: false
 youtube: true
 tags:
   - apostasy
-  - CorinthianChurch
+  - Corinthians
   - GRN
   - OPalmerRobertson
   - PCA

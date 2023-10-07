@@ -61,8 +61,8 @@ Fellow Ruling Elders, I encourage you in the name of our great God and Savior, J
 
 - [PCA Book of Church Order](https://www.pcaac.org/bco/)
 - [Westminster Standards](https://www.pcaac.org/bco/westminster-confession/)
-- [Christiany and Liberalism](https://www.amazon.com/Christianity-Liberalism-new-Gresham-Machen/dp/0802864996/) by J. Gresham Machen
-- [Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America](https://www.amazon.com/Defending-Faith-Gresham-Conservative-Protestantism/dp/0875525636/) by D.G. Hart
+- [Christiany and Liberalism](https://amzn.to/46DJRpB/) 💸 by J. Gresham Machen
+- [Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America](https://amzn.to/3LRFq2N) 💸 by D.G. Hart
 
 ## Articles
 

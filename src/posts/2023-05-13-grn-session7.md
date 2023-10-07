@@ -20,5 +20,5 @@ Continuing to post the individual talks from the 2023 GRN Conference: [Lead on, 
 
 ## Resources
 
-- John Willison's [Sacramental Meditations and Advices](https://www.amazon.com/Sacramental-Meditations-Advices-Communicants-Affections-ebook/dp/B07HX6PLK9/)
-- John Willison's [A Sacramental Catechism](https://www.amazon.com/dp/101929485X)
+- John Willison's [Sacramental Meditations and Advices](https://amzn.to/3LS4Z3H) 💸
+- John Willison's [A Sacramental Catechism](https://amzn.to/46jwz1X) 💸

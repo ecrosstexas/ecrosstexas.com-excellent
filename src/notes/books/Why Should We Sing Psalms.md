@@ -14,8 +14,11 @@ copyright: "2015"
 release_date: "2015-09-20"
 pages: "32"
 list_price: "3.00"
-website: https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/
-amazon_link: https://amzn.to/3t7GbOp
+website: ""
+amazon_link: "https://amzn.to/3t7GbOp"
+kindle_link: "https://amzn.to/48FzR11"
+audible_link: ""
+ibooks_link: ""
 rhb_link: https://www.heritagebooks.org/products/why-should-we-sing-psalms-cultivating-biblical-godliness-series-beeke.html
 description: Among evangelicals, singing psalms is largely a thing of the past. In this pamphlet, Joel R. Beeke gives nine reasons why churches ought to return to the ancient practice of psalm singing. Here you will find the biblical basis, the experiential benefits, and the sheer beauty and glory of singing psalms. Those hoping to recover biblical faith in our day will do well to take part in the Christ-exalting and soul-enriching worship found in the inspired Psalms.
 status: Read

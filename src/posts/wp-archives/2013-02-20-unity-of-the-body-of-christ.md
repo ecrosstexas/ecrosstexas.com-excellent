@@ -3,7 +3,11 @@ title: "Unity of the Body of Christ"
 description: 
 date: 2013-02-20
 tags:
+    - body-of-Christ
     - ChaseOaksChurch
+    - JarsofClay
+    - JLigonDuncan
+    - unity
     - VerticalDevotion
 ---
 
@@ -43,4 +47,4 @@ If you'd like to dive into this passage a bit more, I might suggest that you che
 - [One Body, Spirit, Hope, Lord, Faith, Baptism, God and Father (pt 2)](http://www.fpcjackson.org/resources/sermons/Ephesians/15a%20ephesians_4.4_6_pt2.htm) | listen to the [mp3](http://www.fpcjackson.org/resources/sermons/Ephesians/mp3%20files/15a%20Eph%204.4-6%20pt.2%203.19.2006.mp3)
 - [One Body, Spirit, Hope, Lord, Faith, Baptism, God and Father (pt 3)](http://www.fpcjackson.org/resources/sermons/Ephesians/15b%20ephesians_4.4_6_pt_3.htm) | listen to the [mp3](http://www.fpcjackson.org/resources/sermons/Ephesians/mp3%20files/15b%20Eph%2004.4-6%20-%20One%20Body,%20Spirit,%20Hope,%20Lord,%20Faith,%20Baptism,%20God%20and%20Father%20(3).mp3)
 
-Get the Jars of Clay album _Redemption Songs_ at [iTunes](https://itunes.apple.com/us/album/redemption-songs/id269440847) | [Amazon.com](http://www.amazon.com/Redemption-Songs/dp/B00136RYVI/ref=sr_1_2?ie=UTF8/ecrosstexas-20)
+Get the Jars of Clay album _Redemption Songs_ at [iTunes](https://itunes.apple.com/us/album/redemption-songs/id269440847) | [Amazon.com.](https://amzn.to/3tibQwF) 💸

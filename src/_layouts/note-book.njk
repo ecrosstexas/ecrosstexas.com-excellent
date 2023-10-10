@@ -15,15 +15,18 @@ preloads:
     <h1 class=" ">{{ title }}</h1>
 
     <div class="notes-book-grid">
-      <div class="grid-item"><b>{{ title }}</b>{% if subtitle %}: <i>{{ subtitle }}</i>{% endif %}{% if series %} (Part of the {{ series }} series.){% endif %}</div>
-      <div class="grid-item"><b>Author(s):</b> {{ author }}</div>
-      <div class="grid-item"><b>Pages:</b> {{ pages }}</div>
-      <div class="grid-item"><b>Release Date:</b> {{ release_date }}</div>
-      <div class="grid-item"><b>Copyright:</b> {{ copyright }}</div>
-      <div class="grid-item"><b>Publisher:</b> {{ publisher }}</div>
-      <div class="grid-item"><b>ISBN:</b> {{ isbn }}</div>
+      <div class="grid-item"><b>{{ title }}</b>{% if subtitle %}: <i>{{ subtitle }}</i>{% endif %}{% if series %} (Part of the {{ series }} series){% endif %}</div>
+      <div class="grid-item">Author(s): {{ author }}</div>
+      <div class="grid-item">Pages: {{ pages }}</div>
+      <div class="grid-item">{% if release_date %}Release Date: {{ release_date }}{% endif %}</div>
+      <div class="grid-item">Copyright: {{ copyright }}</div>
+      <div class="grid-item">Publisher: {{ publisher }}</div>
+      <div class="grid-item">ISBN: {{ isbn }}</div>
       <div class="grid-item">{% if website %}<a href="{{ website }}" title="Official Website for {{ title }}">Official Website</a>{% endif %}</div>
-      <div class="grid-item">{% if amazon_link %}<a href="{{ amazon_link }}">Buy on Amazon</a>{% endif %}</div>
+      <div class="grid-item">{% if amazon_link %}<a href="{{ amazon_link }}">Buy on Amazon</a> 💸{% endif %}</div>
+      <div class="grid-item">{% if kindle_link %}<a href="{{ kindle_link }}">Kindle Edition</a> 💸{% endif %}</div>
+      <div class="grid-item">{% if audible_link %}<a href="{{ audible_link }}">Audible Audiobook</a> 💸{% endif %}</div>
+      <div class="grid-item">{% if ibooks_link %}<a href="{{ ibooks_link }}">Available on Apple Books</a> 💸{% endif %}</div>
       <div class="grid-item">{% if rhb_link %}<a href="{{ rhb_link }}">Buy from Reformation Heritage Books</a>{% endif %}</div>
       <div class="grid-item grid-item-photo">
         <img src="https://raw.githubusercontent.com/ecrosstexas/ecrosstexas.com-library/main/img/book-{{ isbn }}.png" alt="Cover of the book {{ title }} by {{ author}}.">

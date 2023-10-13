@@ -24,12 +24,12 @@ description: "Modern culture is increasingly outspoken against a biblical unders
 status: ""
 readyear: ""
 rating: ""
-recommended: ""
-library: "N"
-wishlist: "Y"
-acquired: ""
-acquired_date: ""
-acquired_source: ""
+recommended: "Y"
+library: "Y"
+wishlist: "N"
+acquired: "Purchase"
+acquired_date: "2023-10-13"
+acquired_source: "Reformation Heritage Books"
 acquired_price: ""
 tags:
     - homosexuality

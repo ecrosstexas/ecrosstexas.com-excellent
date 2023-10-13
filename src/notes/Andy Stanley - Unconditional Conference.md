@@ -24,6 +24,7 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 
 ## Articles
 
+- 2023-10-10 Josh Buice at _G3 Ministries_: [The Wolf Is Out of the Closet: Mark and Avoid Andy Stanley](https://g3min.org/the-wolf-is-out-of-the-closet-mark-and-avoid-andy-stanley/)
 - 2023-10-05 Carl R. Trueman at _First Things_: [When Being Affirming Isn't Loving](https://www.firstthings.com/web-exclusives/2023/10/when-being-affirming-isnt-loving)
 - 2023-10-05 Denny Burk: [Christians Cannot “Agree to Disagree” with Wolves](https://www.dennyburk.com/christians-cannot-agree-to-disagree-with-wolves/)
 - 2023-10-03 _World_: [Go and sin no more](https://wng.org/opinions/go-and-sin-no-more-1696305138) - Andy Stanley doubles down on his departure from Biblical Christianity (Albert Mohler)

@@ -35,7 +35,12 @@ tags:
     - Israel
     - 
 ---
-Table of Contents:
+
+## Description
+
+## Notes
+
+### Table of Contents:
 
 The Israel of God: Its Land
 The Israel of God: Its People
@@ -45,3 +50,4 @@ The Israel of God and the Coming of the Kingdom
 The Israel of God in Romans 11
 Concluding Propositions
 
+## Resources

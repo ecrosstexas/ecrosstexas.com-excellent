@@ -1,3 +1,11 @@
+---
+title: ex nihlo
+layout: post
+tags:
+
+---
+
+
 # ex nihlo = out of nothing
 
 > It pleased God the Father, Son, and Holy Ghost, for the manifestation of the glory of His eternal power, wisdom, and goodness, in the beginning, to create, or make of nothing, the world, and all things therein whether visible or invisible, in the space of six days; and all very good.   – WCF 4:1

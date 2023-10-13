@@ -1,3 +1,10 @@
+---
+title: Creator-Creation (Creator-Creature) Distinction 
+layout: post
+tags:
+
+---
+
 # Creator-Creation (Creator-Creature) Distinction 
 
 There is a categorical difference between the creator and His creation(creature).

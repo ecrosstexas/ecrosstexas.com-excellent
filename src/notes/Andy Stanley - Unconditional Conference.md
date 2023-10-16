@@ -23,11 +23,11 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 - 2023-10-02 [Audio of Andy Stanley’s Unpublished Sermon Addressing Controversial LGBTQ+ Conference](https://julieroys.com/audio-of-andy-stanleys-unpublished-sermon-addressing-controversial-lgbtq-conference/) via _The Roys Report_.
 
 ## Podcasts
-- 2023-10-16 Josh Daws with [Rosaria Butterfield discussing her new book and Andy Standley](/notes/podcast/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield/) on his _The Great Awokening Podcast_.
-- 2023-10-05 Gavin Ortlund's _Truth Unites_ [Is Same-Sex Marriage an "Agree-to-Disagree" Issue?](/notes/podcast/truth-unites/is-same-sex-marriage-an-agree-to-disagree-issue/)
+- 2023-10-16 Josh Daws with [Rosaria Butterfield discussing her new book and Andy Standley](/notes/podcasts/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield/) on his _The Great Awokening Podcast_.
+- 2023-10-05 Gavin Ortlund's _Truth Unites_ [Is Same-Sex Marriage an "Agree-to-Disagree" Issue?](/notes/podcasts/truth-unites/is-same-sex-marriage-an-agree-to-disagree-issue/)
 - 2023-10-03 [Sean McDowell](https://seanmcdowell.org/) [Andy Stanley's Unconditional Conference: Deep Dive Response]
 (https://www.youtube.com/watch?app=desktop&v=0x5FUG1kxvI) with [@AlanShlemon](https://twitter.com/AlanShlemon)
-- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](/notes/podcast/grace-to-stand/andy-stanley-and-compromised-christianity/) ** VERY STRONG ON MARKS OF THE TRUE CHURCH **
+- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](/notes/podcasts/grace-to-stand/andy-stanley-and-compromised-christianity/) ** VERY STRONG ON MARKS OF THE TRUE CHURCH **
 - 2023-10-02 _Conversations that Matter_ [Andy Stanley, Concupiscence, & Embracing Homosexuality](https://overcast.fm/+P17OZpg4k)
 - 2023-10-02 Danvers Audio (_Denny Burk with Colin Smothers_) [Andy Stanley, Gay Marriage and False Teaching](https://overcast.fm/+iWQk9DNbk)
 

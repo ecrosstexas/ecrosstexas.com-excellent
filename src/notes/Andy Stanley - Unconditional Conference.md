@@ -14,9 +14,9 @@ Andy Stanley and the Unconditional Conference at North Point Community Church, A
 
 Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 
-![[/notes/Screenshot 2023-10-06 at 1.20.28 PM.png]]
+![[/notes/unconditional-conference-screenshot-2023-10-06.png]]
 
-{% imagePlaceholder "./src/notes/Screenshot 2023-10-06 at 1.20.28 PM.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
+{% imagePlaceholder "./src/notes/unconditional-conference-screenshot-2023-10-06.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
 
 ## Andy Stanley
 - 2023-10-04 Andy Stanley [I Love My Church:](https://www.youtube.com/watch?v=JEPHnpos17A) sermon video where Stanley addresses the conference.

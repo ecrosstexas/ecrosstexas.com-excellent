@@ -1,0 +1,5 @@
+{
+    "layout": "post",
+    "permalink": "/notes/podcast/{{podcast | slugify}}/{{ title | slugify }}/index.html"
+  }
+  

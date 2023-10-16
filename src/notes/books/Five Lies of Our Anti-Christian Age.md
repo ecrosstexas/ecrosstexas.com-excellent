@@ -63,7 +63,7 @@ In all the interviews with Rosaria I've seen, she says this book is geared towar
 - Lie #5: Modesty Is an Outdated Burden That Serves Male Dominance and Holds Women Back
 
 ## Resources:
-
+- 2023-10-16 Interview on Josh Daws' [The Great Awokening Podcast](/notes/podcast/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield/).
 - 2023-10-05 Interview on [The Beckett Cook Show Ep. 138](https://overcast.fm/+8rTrNYo7o)
 - 2023-09-27 [Interview](https://overcast.fm/+ghgJbUtu8) with Kevin DeYoung on _Life & Books & Everything_.
 - 2023-09-27 [Interview](https://overcast.fm/+F2-JL_Lg) with Todd Pruitt and Carl Trueman on _Mortification of Spin_.

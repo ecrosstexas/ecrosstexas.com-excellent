@@ -15,10 +15,16 @@ preloads:
 
     <h1 class=" ">{{ title }}</h1>
 
-    <h2>Listen with Overcast</h2>
+<img src="https://raw.githubusercontent.com/ecrosstexas/ecrosstexas.com-library/main/img/podcast-{{ podcast | slugify }}.png" alt="Coverart for the podcast {{ podcast }}.">
+
+<h2>{{ podcast }} {% if episode %}(episode: {{ episode }}){% endif %}</h2>
+   
+
+    <h3>Listen with Overcast</h3>
     <a href="{{ audio }}">{{ audio }}</a>
 
-    {% if youtube %}<h2>Watch and listen with YouTube</h2>
+    {% if youtube %}
+    <h3>Watch and listen with YouTube</h3>
       {{ youtube }}
     {% endif %}
 

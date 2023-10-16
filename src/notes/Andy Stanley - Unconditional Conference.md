@@ -6,6 +6,7 @@ tags:
   - conference
   - gay-Christian
   - homosexuality
+  - Unconditional-Conference
 ---
 Andy Stanley and the Unconditional Conference at North Point Community Church, Alpharetta, GA
 
@@ -15,20 +16,24 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 
 ![[/notes/Screenshot 2023-10-06 at 1.20.28 PM.png]]
 
+{% imagePlaceholder "./src/notes/Screenshot 2023-10-06 at 1.20.28 PM.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
+
 ## Andy Stanley
 - 2023-10-04 Andy Stanley [I Love My Church:](https://www.youtube.com/watch?v=JEPHnpos17A) sermon video where Stanley addresses the conference.
 - 2023-10-02 [Audio of Andy Stanley’s Unpublished Sermon Addressing Controversial LGBTQ+ Conference](https://julieroys.com/audio-of-andy-stanleys-unpublished-sermon-addressing-controversial-lgbtq-conference/) via _The Roys Report_.
 
 ## Podcasts
-- 2023-10-05 Gavin Ortlund's _Truth Unites_ [Is Same-Sex Marriage an "Agree-to-Disagree" Issue?](https://www.youtube.com/watch?v=K6nlpijFz60)
+- 2023-10-16 Josh Daws with [Rosaria Butterfield discussing her new book and Andy Standley](/notes/podcast/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield/) on his _The Great Awokening Podcast_.
+- 2023-10-05 Gavin Ortlund's _Truth Unites_ [Is Same-Sex Marriage an "Agree-to-Disagree" Issue?](/notes/podcast/truth-unites/is-same-sex-marriage-an-agree-to-disagree-issue/)
 - 2023-10-03 [Sean McDowell](https://seanmcdowell.org/) [Andy Stanley's Unconditional Conference: Deep Dive Response]
 (https://www.youtube.com/watch?app=desktop&v=0x5FUG1kxvI) with [@AlanShlemon](https://twitter.com/AlanShlemon)
-- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](https://overcast.fm/+63tUb25So) ** VERY STRONG ON MARKS OF THE TRUE CHURCH **
+- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](/notes/podcast/grace-to-stand/andy-stanley-and-compromised-christianity/) ** VERY STRONG ON MARKS OF THE TRUE CHURCH **
 - 2023-10-02 _Conversations that Matter_ [Andy Stanley, Concupiscence, & Embracing Homosexuality](https://overcast.fm/+P17OZpg4k)
 - 2023-10-02 Danvers Audio (_Denny Burk with Colin Smothers_) [Andy Stanley, Gay Marriage and False Teaching](https://overcast.fm/+iWQk9DNbk)
 
 ## Articles
 
+- 2013-10-13 [Andy Stanley Tells Unconditional Conference That Rosaria Butterfield and Christopher Yuan ‘Have Nothing Helpful To Say to Parents’ of LGBTQ Kids](https://churchleaders.com/news/460720-andy-stanley-tells-unconditional-conference-that-rosaria-butterfield-and-christopher-yuan-have-nothing-helpful-to-say-to-parents-of-lgbtq-kids.html) at _ChurchLeaders_.
 - 2023-10-10 Josh Buice at _G3 Ministries_ [The Wolf Is Out of the Closet: Mark and Avoid Andy Stanley](https://g3min.org/the-wolf-is-out-of-the-closet-mark-and-avoid-andy-stanley/)
 - 2023-10-05 Carl R. Trueman at _First Things_ [When Being Affirming Isn't Loving](https://www.firstthings.com/web-exclusives/2023/10/when-being-affirming-isnt-loving)
 - 2023-10-05 Denny Burk [Christians Cannot “Agree to Disagree” with Wolves](https://www.dennyburk.com/christians-cannot-agree-to-disagree-with-wolves/)

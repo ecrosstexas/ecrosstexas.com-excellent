@@ -4,7 +4,6 @@ subtitle: ""
 series: ""
 edition: ""
 author:
-  - ""
   - Guy Prentiss Waters
 format: Paperback
 language: en

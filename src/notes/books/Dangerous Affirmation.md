@@ -28,7 +28,7 @@ recommended: false
 library: false
 wishlist: true
 acquired: ""
-acquired_date: ""
+acquired_date: 
 acquired_source: ""
 acquired_price: ""
 tags:

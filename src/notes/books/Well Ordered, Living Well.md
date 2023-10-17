@@ -4,7 +4,6 @@ subtitle: A Field Guide to Presbyterian Church Government
 series: ""
 edition: ""
 author:
-  - ""
   - Guy Prentiss Waters
 format: Paperback
 language: en

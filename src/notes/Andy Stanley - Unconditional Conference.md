@@ -18,6 +18,9 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 
 {% imagePlaceholder "./src/notes/unconditional-conference-screenshot-2023-10-06.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
 
+## Embracing the Journey
+- [https://www.embracingthejourney.org](https://www.embracingthejourney.org)
+
 ## Andy Stanley
 - 2023-10-04 Andy Stanley [I Love My Church:](https://www.youtube.com/watch?v=JEPHnpos17A) sermon video where Stanley addresses the conference.
 - 2023-10-02 [Audio of Andy Stanley’s Unpublished Sermon Addressing Controversial LGBTQ+ Conference](https://julieroys.com/audio-of-andy-stanleys-unpublished-sermon-addressing-controversial-lgbtq-conference/) via _The Roys Report_.

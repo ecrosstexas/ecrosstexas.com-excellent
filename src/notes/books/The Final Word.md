@@ -34,7 +34,7 @@ acquired_price: ""
 tags:
   - OPalmerRobertson
   - Scripture
-  - The-Holy-Spirit
+  - HolySpirit
 ---
 
 ## Description

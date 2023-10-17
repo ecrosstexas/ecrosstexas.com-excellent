@@ -7,6 +7,5 @@ audio: https://overcast.fm/+BCgXKXFZ-Y
 youtube: 
 tags:
 - BCO-2
-- PCA
-- polity
+- Polity-Matters
 ---

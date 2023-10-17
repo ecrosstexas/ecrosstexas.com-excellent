@@ -7,6 +7,5 @@ audio: https://overcast.fm/+BCgXKBE3mo
 youtube: 
 tags: 
 - BCO-Preface 
-- PCA
-- polity
+- Polity-Matters
 ---

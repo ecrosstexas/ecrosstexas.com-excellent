@@ -19,7 +19,8 @@ preloads:
       <div class="grid-item"><b>{{ title }}</b>{% if subtitle %}: <i>{{ subtitle }}</i>{% endif %}{% if series %} (Part of the {{ series }} series){% endif %}</div>
       <div class="grid-item">Author(s): {{ author }}</div>
       <div class="grid-item">Pages: {{ pages }}</div>
-      <div class="grid-item">{% if release_date %}Release Date: {{ release_date }}{% endif %}</div>
+      <div class="grid-item">{% if release_date %}Release Date: 
+        {% set definedDate = release_date %} {% include "partials/release-date.njk" %}{% endif %}</div>
       <div class="grid-item">Copyright: {{ copyright }}</div>
       <div class="grid-item">Publisher: {{ publisher }}</div>
       <div class="grid-item">ISBN: {{ isbn }}</div>

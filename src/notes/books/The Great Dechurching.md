@@ -1,34 +1,34 @@
 ---
-title: "The Great Dechurching"
-subtitle: "Who’s Leaving, Why Are They Going, and What Will It Take to Bring Them Back?"
+title: The Great Dechurching
+subtitle: Who’s Leaving, Why Are They Going, and What Will It Take to Bring Them Back?
 series: ""
 edition: 
-author: 
-  - "Jim Davis"
-  - "Michael Graham"
-  - "Ryan P. Burge"
+author:
+  - Jim Davis
+  - Michael Graham
+  - Ryan P. Burge
 format: Hardcover
-language: "en"
+language: en
 isbn: "9780310147435"
 asin: ""
 publisher: Zondervan
 copyright: "2023"
-release_date: "2023-08-22"
+release_date: 2023-08-22
 pages: "272"
 list_price: "29.99"
 website: https://zondervanacademic.com/products/the-great-dechurching
-amazon_link: "https://amzn.to/46wEbh1"
-kindle_link: "https://amzn.to/3ZIaJTf"
-audible_link: "https://amzn.to/3toaIYJ"
+amazon_link: https://amzn.to/46wEbh1
+kindle_link: https://amzn.to/3ZIaJTf
+audible_link: https://amzn.to/3toaIYJ
 ibooks_link: ""
-rhb_link:  
+rhb_link: 
 description: This book gives the church in America its first ever deep dive into the dechurched phenomenon. You’ll learn about the dechurched through a detailed sketch of demographics, size, core concerns, church off-ramps, historical roots, and the gravity of what is at stake. Then you’ll explore what can be done to slow the bleed, engage the pertinent issues winsomely and wisely, and hopefully re-church some of the dechurched.
 status: ""
 readyear: ""
 rating: ""
 recommended: ""
-library: N
-wishlist: Y
+library: false
+wishlist: true
 acquired: ""
 acquired_date: ""
 acquired_source: ""

@@ -1,42 +1,42 @@
 ---
-title: "Five Lies of Our Anti-Christian Age"
+title: Five Lies of Our Anti-Christian Age
 subtitle: ""
 series: ""
 edition: ""
-author: 
-    - "Rosaria Champagne Butterfield"
-format: "Hardcover"
-language: "en"
+author:
+  - Rosaria Champagne Butterfield
+format: Hardcover
+language: en
 isbn: "9781433573538"
 asin: ""
-publisher: "Crossway"
+publisher: Crossway
 copyright: "2023"
-release_date: "2023-09-12"
+release_date: 2023-09-12
 pages: "368"
 list_price: "29.99"
-website: "https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/"
-amazon_link: "https://amzn.to/46vYb3I"
-kindle_link: "https://amzn.to/3ZMX0uq"
+website: https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/
+amazon_link: https://amzn.to/46vYb3I
+kindle_link: https://amzn.to/3ZMX0uq
 audible_link: ""
 ibooks_link: ""
-rhb_link: "https://www.heritagebooks.org/products/five-lies-of-our-anti-christian-age-butterfield.html" 
-description: "Modern culture is increasingly outspoken against a biblical understanding of what it means to be a woman. Even some Christians, swayed by the LGBTQ+ movement, have rejected God’s word on issues of sexuality and gender in favor of popular opinion. In light of these pressures, it’s more important than ever to help women see the truth about who God created them to be."
+rhb_link: https://www.heritagebooks.org/products/five-lies-of-our-anti-christian-age-butterfield.html
+description: Modern culture is increasingly outspoken against a biblical understanding of what it means to be a woman. Even some Christians, swayed by the LGBTQ+ movement, have rejected God’s word on issues of sexuality and gender in favor of popular opinion. In light of these pressures, it’s more important than ever to help women see the truth about who God created them to be.
 status: ""
 readyear: ""
 rating: ""
-recommended: "Y"
-library: "Y"
-wishlist: "N"
-acquired: "Purchase"
-acquired_date: "2023-10-13"
-acquired_source: "Reformation Heritage Books"
+recommended: true
+library: true
+wishlist: false
+acquired: Purchase
+acquired_date: 2023-10-13
+acquired_source: Reformation Heritage Books
 acquired_price: ""
 tags:
-    - homosexuality
-    - womanhood
-    - gender
-    - christian-living
-    - RosariaButterfield
+  - homosexuality
+  - womanhood
+  - gender
+  - christian-living
+  - RosariaButterfield
 ---
 ## Description:
 

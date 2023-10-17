@@ -1,40 +1,40 @@
 ---
-title: "The Vine Project"
-subtitle: "Shaping Your Ministry Culture Around Disciple-Making"
+title: The Vine Project
+subtitle: Shaping Your Ministry Culture Around Disciple-Making
 series: ""
-edition: "First Edition"
-author: 
-    - "Colin Marshall"
-    - "Tony Payne"
-format: "Paperback"
-language: "en"
+edition: First Edition
+author:
+  - Colin Marshall
+  - Tony Payne
+format: Paperback
+language: en
 isbn: "9781922206947"
 asin: ""
-publisher: "Matthias Media"
+publisher: Matthias Media
 copyright: "2016"
-release_date: "2016-04-04"
+release_date: 2016-04-04
 pages: "355"
 list_price: "19.99"
-website: "https://thevineproject.com"
-amazon_link: "https://amzn.to/3Fdb86O"
-kindle_link: "https://amzn.to/3FinU42"
+website: https://thevineproject.com
+amazon_link: https://amzn.to/3Fdb86O
+kindle_link: https://amzn.to/3FinU42
 audible_link: ""
 ibooks_link: ""
-rhb_link: "" 
-description: "In The Vine Project, Marshall and Payne provide a roadmap and resources for this sort of church-wide culture change. The book guides your ministry leadership team through a five-phase process for growth and change, with biblical input, practical ideas, resources, case studies, exercises and projects along the way."
-status: "Read"
+rhb_link: ""
+description: In The Vine Project, Marshall and Payne provide a roadmap and resources for this sort of church-wide culture change. The book guides your ministry leadership team through a five-phase process for growth and change, with biblical input, practical ideas, resources, case studies, exercises and projects along the way.
+status: Read
 readyear: "2023"
 rating: ""
-recommended: "Y"
-library: "Y"
-wishlist: "N"
-acquired: "Purchase"
-acquired_date: "2016-07-06"
-acquired_source: "Westminster Books"
+recommended: true
+library: true
+wishlist: false
+acquired: Purchase
+acquired_date: 2016-07-06
+acquired_source: Westminster Books
 acquired_price: "12.00"
 tags:
-    - church
-    - disciple-making
+  - church
+  - disciple-making
 youtube: true
 ---
 

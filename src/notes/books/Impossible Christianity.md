@@ -1,39 +1,39 @@
 ---
-title: "Impossible Christianity"
-subtitle: "Why Following Jesus Does Not Mean You Have to Change the World, Be an Expert in Everything, Accept Spiritual Failure, and Feel Miserable Pretty Much All the Time"
+title: Impossible Christianity
+subtitle: Why Following Jesus Does Not Mean You Have to Change the World, Be an Expert in Everything, Accept Spiritual Failure, and Feel Miserable Pretty Much All the Time
 series: ""
 edition: ""
-author: 
-    - "Kevin DeYoung"
-format: "Hardcover"
-language: "en"
+author:
+  - Kevin DeYoung
+format: Hardcover
+language: en
 isbn: "9781433585340"
 asin: ""
-publisher: "Crossway"
+publisher: Crossway
 copyright: "2023"
-release_date: "2023-08-15"
+release_date: 2023-08-15
 pages: "160"
 list_price: "19.99"
-website: "https://www.crossway.org/books/impossible-christianity-hcj/"
-amazon_link: "https://amzn.to/3PX8CI3"
-kindle_link: "https://amzn.to/48GGbW4"
+website: https://www.crossway.org/books/impossible-christianity-hcj/
+amazon_link: https://amzn.to/3PX8CI3
+kindle_link: https://amzn.to/48GGbW4
 audible_link: ""
 ibooks_link: ""
 rhb_link: ""
-description: "Impossible Christianity reassures readers that they don’t need to feel a collective sense of guilt for sins in the past and solve every societal problem in the present. Through biblical wisdom and engaging personal stories, Kevin DeYoung challenges the misconception that we need 40 hours in the day just to be good Christians. By reflecting on what Jesus actually taught about Christian discipleship, readers will be newly encouraged to pursue single-minded devotion to God and find lasting joy in a life of sincere and simple obedience."
-status: "reading"
+description: Impossible Christianity reassures readers that they don’t need to feel a collective sense of guilt for sins in the past and solve every societal problem in the present. Through biblical wisdom and engaging personal stories, Kevin DeYoung challenges the misconception that we need 40 hours in the day just to be good Christians. By reflecting on what Jesus actually taught about Christian discipleship, readers will be newly encouraged to pursue single-minded devotion to God and find lasting joy in a life of sincere and simple obedience.
+status: reading
 readyear: ""
 rating: ""
-recommended: ""
-library: "Y"
-wishlist: ""
+recommended: true
+library: true
+wishlist: false
 acquired: ""
 acquired_date: ""
 acquired_source: ""
 acquired_price: ""
 tags:
-- christian-living
-- KevinDeYoung
+  - christian-living
+  - KevinDeYoung
 ---
 
 ## Description:

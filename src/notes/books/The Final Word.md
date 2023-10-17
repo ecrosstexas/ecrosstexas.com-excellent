@@ -1,40 +1,40 @@
 ---
-title: "The Final Word"
-subtitle: "A Biblical Response to the Case for Tongues and Prophecy Today"
+title: The Final Word
+subtitle: A Biblical Response to the Case for Tongues and Prophecy Today
 series: ""
 edition: ""
-author: 
-    - "O. Palmer Robertson"
-format: "Paperback"
-language: "en"
+author:
+  - O. Palmer Robertson
+format: Paperback
+language: en
 isbn: "9780851516592"
 asin: ""
-publisher: "Banner of Truth"
+publisher: Banner of Truth
 copyright: "1993"
-release_date: "1993-12-01"
+release_date: 1993-12-01
 pages: "156"
 list_price: "9.00"
 website: ""
-amazon_link: "https://amzn.to/3PScf0B"
+amazon_link: https://amzn.to/3PScf0B
 kindle_link: ""
 audible_link: ""
 ibooks_link: ""
-rhb_link: "https://www.heritagebooks.org/products/the-final-word-a-biblical-response-to-the-case-for-tongues-prophecy-today-robertson.html" 
-description: "Dr. O. Palmer Robertson, pastor and Seminary teacher, currently Director of African Bible College, Uganda, argues from Scripture that preoccupation with tongues and prophecy shows a failure to grasp the fullness of New Testament privileges. The Christ of the Scriptures is the Final Word. All the church will ever need is to be found in him."
+rhb_link: https://www.heritagebooks.org/products/the-final-word-a-biblical-response-to-the-case-for-tongues-prophecy-today-robertson.html
+description: Dr. O. Palmer Robertson, pastor and Seminary teacher, currently Director of African Bible College, Uganda, argues from Scripture that preoccupation with tongues and prophecy shows a failure to grasp the fullness of New Testament privileges. The Christ of the Scriptures is the Final Word. All the church will ever need is to be found in him.
 status: ""
 readyear: ""
 rating: ""
 recommended: ""
-library: "N"
-wishlist: "Y"
+library: false
+wishlist: true
 acquired: ""
 acquired_date: ""
 acquired_source: ""
 acquired_price: ""
 tags:
-    - OPalmerRobertson
-    - Scripture
-    - The-Holy-Spirit
+  - OPalmerRobertson
+  - Scripture
+  - The-Holy-Spirit
 ---
 
 ## Description

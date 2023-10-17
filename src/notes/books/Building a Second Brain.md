@@ -1,37 +1,37 @@
 ---
-title: "Building a Second Brain"
-subtitle: "A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential"
+title: Building a Second Brain
+subtitle: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
 series: ""
 edition: ""
-author: 
-    - "Tiago Forte"
-format: "Hardcover"
-language: "en"
+author:
+  - Tiago Forte
+format: Hardcover
+language: en
 isbn: "9781982167387"
 asin: ""
-publisher: "Atria Books"
+publisher: Atria Books
 copyright: "2022"
-release_date: "2022-06-14"
+release_date: 2022-06-14
 pages: "272"
 list_price: "28.00"
-website: "https://www.buildingasecondbrain.com"
-amazon_link: "https://amzn.to/45CRWtI"
-kindle_link: "https://amzn.to/46DXZ2D"
-audible_link: "https://amzn.to/3ZWpqlP"
+website: https://www.buildingasecondbrain.com
+amazon_link: https://amzn.to/45CRWtI
+kindle_link: https://amzn.to/46DXZ2D
+audible_link: https://amzn.to/3ZWpqlP
 rhb_link: ""
-description: "A revolutionary approach to enhancing productivity, creating flow, and vastly increasing your ability to capture, remember, and benefit from the unprecedented amount of information all around us."
-status: "read"
+description: A revolutionary approach to enhancing productivity, creating flow, and vastly increasing your ability to capture, remember, and benefit from the unprecedented amount of information all around us.
+status: read
 readyear: "2022"
 rating: "4.5"
-recommended: "Y"
-library: "Y"
-wishlist: ""
-acquired: "Purchase"
+recommended: true
+library: true
+wishlist: false
+acquired: Purchase
 acquired_date: ""
-acquired_source: "Amazon"
+acquired_source: Amazon
 acquired_price: ""
 tags:
-- second-brain
+  - second-brain
 ---
 
 ## Description:

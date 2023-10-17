@@ -24,9 +24,9 @@ description: "Transforming Christian Worship - Twenty-six liturgies, including h
 status: ""
 readyear: ""
 rating: ""
-recommended: ""
-library: "Y"
-wishlist: ""
+recommended: true
+library: true
+wishlist: false
 acquired: "Purchase"
 acquired_date: ""
 acquired_source: "New Growth Press"

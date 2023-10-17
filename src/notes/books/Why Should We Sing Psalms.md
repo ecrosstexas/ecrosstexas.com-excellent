@@ -11,12 +11,12 @@ isbn: "9721601784155"
 asin: ""
 publisher: Reformation Heritage Books
 copyright: "2015"
-release_date: "2015-09-20"
+release_date: 2015-09-20
 pages: "32"
 list_price: "3.00"
 website: ""
-amazon_link: "https://amzn.to/3t7GbOp"
-kindle_link: "https://amzn.to/48FzR11"
+amazon_link: https://amzn.to/3t7GbOp
+kindle_link: https://amzn.to/48FzR11
 audible_link: ""
 ibooks_link: ""
 rhb_link: https://www.heritagebooks.org/products/why-should-we-sing-psalms-cultivating-biblical-godliness-series-beeke.html
@@ -24,10 +24,10 @@ description: Among evangelicals, singing psalms is largely a thing of the past. 
 status: Read
 readyear: "2023"
 rating: "4.5"
-recommended: Y
-library: Y
-wishlist: N
-acquired: Purchased
+recommended: true
+library: true
+wishlist: false
+acquired: Purchase
 acquired_date: 2023-07-31
 acquired_source: Reformation Heritage Books
 acquired_price: "1.25"

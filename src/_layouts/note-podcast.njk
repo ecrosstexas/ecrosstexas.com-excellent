@@ -25,7 +25,7 @@ preloads:
 
     {% if youtube %}
     <h3>Watch on YouTube</h3>
-      {{ youtube }}
+    <a href="{{ youtube }}">{{ youtube }}</a>
     {% endif %}
 
     {{ content | safe }}

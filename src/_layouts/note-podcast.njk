@@ -21,11 +21,11 @@ preloads:
    
 
     <h3>Listen with Overcast</h3>
-    <a href="{{ audio }}">{{ audio }}</a>
+    <a href="{{ overcast_audio }}">{{ overcast_audio }}</a>
 
-    {% if youtube %}
+    {% if youtube_video %}
     <h3>Watch on YouTube</h3>
-    <a href="{{ youtube }}">{{ youtube }}</a>
+    <a href="{{ youtube_video }}">{{ youtube_video }}</a>
     {% endif %}
 
     {{ content | safe }}

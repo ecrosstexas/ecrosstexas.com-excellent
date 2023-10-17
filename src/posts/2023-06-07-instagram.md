@@ -10,7 +10,7 @@ blockquote: true
 youtube: false
 tags:
     - Instagram
-    - socialmedia
+    - social-media
     - pedophilia
 ---
 

@@ -12,7 +12,7 @@ blockquote: false
 youtube: false
 tags:
   - podcast
-  - WestminsterStandards
+  - Westminster-Standards
   - WLC
 ---
 

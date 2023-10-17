@@ -8,7 +8,7 @@ category: video
 blockquote: false
 youtube: true
 tags:
-  - Duncan-Rankin
+  - DuncanRankin
   - PCA
   - PCAWorshipIndex
   - Presbycast

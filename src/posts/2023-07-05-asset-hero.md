@@ -10,7 +10,7 @@ category: video
 blockquote: true
 youtube: true
 tags:
-  - realestate
+  - real-estate
   - TAMU
 ---
 

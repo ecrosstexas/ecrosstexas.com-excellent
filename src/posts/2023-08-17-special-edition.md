@@ -10,8 +10,8 @@ youtube: true
 tags:
     - egalitarianism
     - PCA
-    - WestminsterStandardPodcast
-    - WestminsterStandards
+    - TheWestminsterStandard
+    - Westminster-Standards
 ---
 
 {% youtube 'KzAkASUohfs', '{{ title }}' %}

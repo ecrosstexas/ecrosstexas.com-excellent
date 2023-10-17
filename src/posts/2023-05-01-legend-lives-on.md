@@ -6,6 +6,7 @@ date: 2023-05-02T15:18:00
 layout: post
 category: post
 tags:
+    - GordonLightfoot
     - music
 ---
 

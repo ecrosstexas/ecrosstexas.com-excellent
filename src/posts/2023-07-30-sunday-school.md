@@ -11,7 +11,7 @@ tags:
     - cessationism
     - HolySpirit
     - speaking
-    - sundayschool
+    - sunday-school
     - TPC
 ---
 

@@ -14,7 +14,7 @@ tags:
   - BradIsbell
   - PCA
   - PCAGA50
-  - RulingElders
+  - Ruling-Elders
 ---
 
 ## Updates 

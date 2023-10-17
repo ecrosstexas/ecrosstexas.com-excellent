@@ -11,7 +11,7 @@ category: link
 blockquote: true
 youtube: false
 tags:
-  - BiblicalTheology
+  - biblical-theology
   - Scripture
   - worship
 ---

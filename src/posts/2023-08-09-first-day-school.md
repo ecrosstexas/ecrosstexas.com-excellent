@@ -9,7 +9,7 @@ blockquote: false
 youtube: true
 tags:
   - PISD
-  - WallaceFamily
+  - Wallace-Family
 ---
 
 It's the first day of school today for Plano ISD and many other school districts across North Texas and throughout the state. While the temperatures will undoubtedly heat up this afternoon, there is a strong breeze this morning that teases the approach of fall. I pray that the Lord will bless my family and yours during this school year.

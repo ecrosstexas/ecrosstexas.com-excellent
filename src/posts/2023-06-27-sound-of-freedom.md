@@ -8,7 +8,7 @@ category: video
 blockquote: true
 youtube: true
 tags:
-  - childtrafficking
+  - child-trafficking
   - movie
   - trailer
 ---

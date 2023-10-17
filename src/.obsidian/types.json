@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "wishlist": "checkbox",
+    "library": "checkbox",
+    "release_date": "date",
+    "status": "text",
+    "recommended": "checkbox"
+  }
+}

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f7e10f009f6d672",
+        "id": "a4fc6974c5ba5872",
         "type": "tabs",
         "children": [
           {
-            "id": "26d90410a2948da3",
+            "id": "dccdd923cc93e21f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Andy Stanley - Unconditional Conference.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Andy Stanley - Unconditional Conference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Andy Stanley - Unconditional Conference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "34660422aed78e04",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "notes/Andy Stanley - Unconditional Conference.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,36 +148,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26d90410a2948da3",
+  "active": "dccdd923cc93e21f",
   "lastOpenFiles": [
-    "notes/concupiscence.md",
-    "notes/affirming theology.md",
-    "notes/compuscience.md",
     "notes/Andy Stanley - Unconditional Conference.md",
-    "notes/tv/Only Murders in the Building.md",
-    "notes/books/Dangerous Affirmation.md",
+    "notes/podcasts/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield 1.md",
+    "notes/podcasts/truth-unites/is-same-sex-marriage-an-agree-to-disagree-issue.md",
+    "notes/podcasts/Truth Unites/is-same-sex-marriage-an-agree-to-disagree-issue.md",
+    "notes/podcasts/polity-matters/You’re Going to Hate Sausage Forever (BCO Preface II.1-3).md",
+    "notes/podcasts/polity-matters/The Church is the Arena (BCO 3).md",
+    "notes/podcasts/polity-matters/No One Wanted To Be On My Team (BCO 2).md",
+    "notes/podcasts/polity-matters/Intentionally Cumbersome (BCO Preface III).md",
+    "notes/podcasts/polity-matters/I Thought This Would Be About Polity (BCO Preface II.4-8).md",
+    "notes/podcasts/polity-matters/I Tend to Skip the Preface (BCO Preface I)",
+    "notes/podcasts/polity-matters/I Am the Question Asker (BCO 1).md",
+    "notes/podcasts/polity-matters/How to Ruin This Meeting Decently & In Order.md",
+    "notes/podcasts/polity-matters",
+    "notes/podcasts/presbycast/Why Polity Matters and Why Another Podcast?.md",
+    "notes/podcasts/presbycast/The Great Evangelical Egalitarian Crack-Up with the Presbygirls.md",
+    "notes/podcasts/presbycast/Church Twice on Sunday.md",
+    "notes/podcasts/presbycast/Breaking the 500 Barrier - Let the Show Roll On with Our Best Friends.md",
+    "notes/podcasts/presbycast",
+    "notes/podcasts/the-great-awokening-podcast/five-lies-of-our-anti-christian-age-with-rosaria-butterfield.md",
+    "notes/podcasts/the-great-awokening-podcast/Five Lies of Our Anti-Christian Age with Rosaria Butterfield.md",
+    "notes/podcasts/truth-unites",
+    "notes/podcasts/the-great-awokening-podcast",
+    "notes/books/Why Should We Sing Psalms.md",
+    "notes/books/The Westminster Larger Catechism.md",
+    "notes/books/The Vine Project.md",
+    "notes/books/The Israel of God.md",
+    "notes/books/The Great Dechurching.md",
+    "notes/books/The Final Word.md",
+    "notes/books/Reformed Worship.md",
+    "notes/books/Reformation Worship.md",
+    "notes/books/Irony and the Presbyterian Church in America.md",
+    "obsidian_templates",
     "notes/books/Dangerous Affirmation",
     "notes/books/Dangerous Affirmations",
-    "notes/books/Five Lies of Our Anti-Christian Age.md",
-    "notes/books/Why Should We Sing Psalms.md",
     "notes/Screenshot 2023-10-06 at 1.20.28 PM.png",
-    "notes/tv/Slow Horses.md",
-    "notes/tv/The Diplomat.md",
-    "notes/tv/The Office.md",
-    "notes/tv/The Terminal List.md",
-    "notes/tv/Night Watch.md",
-    "notes/tv/Andor.md",
-    "notes/books/The Great Dechurching.md",
-    "notes/books/Irony & the Presbyterian Church in America.md",
     "notes/books/Why Should We Sing Psalms.d",
-    "notes/books/Why Should We Sing Psalms",
-    "_layouts/notes-list-tv.njk",
-    "_layouts/notes-list-books.njk",
-    "pages/notes-tv.md",
-    "_layouts/notes-tv.njk",
-    "faces/1.md",
-    "posts/2023-02-25-loss.md",
-    "pages/docs.md",
-    "pages/april-19.md"
+    "notes/books/Why Should We Sing Psalms"
   ]
 }

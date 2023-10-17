@@ -7,7 +7,7 @@ release_date: 2023-08-03
 overcast_audio: https://overcast.fm/+G0O_JCO-s
 youtube_video: https://www.youtube.com/watch?v=_ZhHez2whYg
 tags:
-  - Duncan-Rankin
+  - DuncanRankin
   - PCA
   - PCAWorshipIndex
   - Presbycast

@@ -8,6 +8,6 @@ youtube_video: https://www.youtube.com/watch?v=KzAkASUohfs
 tags:
   - egalitarianism
   - PCA
-  - The-Westminster-Standard
+  - TheWestminsterStandard
   - Westminster-Standards
 ---

@@ -8,5 +8,5 @@ youtube_video: https://www.youtube.com/watch?v=Mzv1PhgPCWQ
 tags:
   - PCA
   - Presbycast
-  - Polity-Matters
+  - PolityMatters
 ---

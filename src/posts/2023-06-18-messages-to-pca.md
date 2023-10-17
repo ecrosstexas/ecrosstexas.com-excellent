@@ -9,7 +9,7 @@ blockquote: false
 youtube: true
 tags:
   - GeorgeSayour
-  - LigonDuncan
+  - JLigonDuncan
   - OPalmerRobertson
   - PCA
   - PCA50

@@ -3,8 +3,7 @@ title: ""
 subtitle: ""
 series: ""
 edition: ""
-author:
-  - ""
+author: []
 format: 
 language: en
 isbn: ""

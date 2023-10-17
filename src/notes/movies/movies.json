@@ -1,5 +1,6 @@
 {
     "layout": "post",
+    "tags": "movies",
     "permalink": "/notes/movies/{{ title | slugify }}/index.html"
   }
   

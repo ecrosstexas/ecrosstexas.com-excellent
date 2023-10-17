@@ -2,6 +2,6 @@
     "layout": "notes-tv",
     "cateogy": "tv",
     "permalink": "/notes/tv/{{ title | slugify }}/index.html",
-    "tags": "tv-show"
+    "tags": "tv-shows"
   }
   

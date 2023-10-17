@@ -27,8 +27,8 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 - 2023-10-05 Gavin Ortlund's _Truth Unites_ [Is Same-Sex Marriage an "Agree-to-Disagree" Issue?](/notes/podcasts/truth-unites/is-same-sex-marriage-an-agree-to-disagree-issue/)
 - 2023-10-03 [Sean McDowell](https://seanmcdowell.org/) [Andy Stanley's Unconditional Conference: Deep Dive Response]
 (https://www.youtube.com/watch?app=desktop&v=0x5FUG1kxvI) with [@AlanShlemon](https://twitter.com/AlanShlemon)
-- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](/notes/podcasts/grace-to-stand/andy-stanley-and-compromised-christianity/) ** VERY STRONG ON MARKS OF THE TRUE CHURCH **
-- 2023-10-02 _Conversations that Matter_ [Andy Stanley, Concupiscence, & Embracing Homosexuality](https://overcast.fm/+P17OZpg4k)
+- 2023-10-02 _Grace to Stand_  [Andy Stanley and Compromised Christianity](/notes/podcasts/grace-to-stand/andy-stanley-and-compromised-christianity/)
+- 2023-10-02 _Conversations that Matter_ [Andy Stanley, Concupiscence, & Embracing Homosexuality](/notes/podcasts/conversations-that-matter/andy-stanley-concupiscence-and-embracing-homosexuality/)
 - 2023-10-02 Danvers Audio (_Denny Burk with Colin Smothers_) [Andy Stanley, Gay Marriage and False Teaching](https://overcast.fm/+iWQk9DNbk)
 
 ## Articles

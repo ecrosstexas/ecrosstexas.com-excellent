@@ -4,6 +4,7 @@ subtitle: ""
 series: ""
 edition: ""
 author: 
+editor: 
 format: 
 language: en
 isbn: ""

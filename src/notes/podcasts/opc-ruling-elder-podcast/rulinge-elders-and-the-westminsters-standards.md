@@ -21,6 +21,7 @@ Says Chad, "It is a wonderful gift to be in a presbyterian church that does not 
 
 - Chad Van Dixhoorn, [_Confessing the Fatih: A Reader’s Guide to the Westminster Confession of Faith_](/notes/books/confessing-the-faith-9781848714045/) (The Banner of Truth Trust)  
 - ESV Bible with Creeds and Confessions (Crossway)  
+
 ### On the Shorter Catechism
 
 - Thomas Watson, [_A Body of Divinity_](/notes/books/a-body-of-divinity-9780851511443/) (The Banner of Truth Trust)

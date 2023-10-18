@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Books
-- [Building a Second Brain](/notes/books/building-a-second-brain/)
+- [Building a Second Brain](/notes/books/building-a-second-brain-9781982167387/)
 
 ## Tools
 

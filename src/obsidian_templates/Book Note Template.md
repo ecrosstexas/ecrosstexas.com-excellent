@@ -3,7 +3,7 @@ title: ""
 subtitle: ""
 series: ""
 edition: ""
-author: []
+author: 
 format: 
 language: en
 isbn: ""
@@ -18,6 +18,7 @@ amazon_link: ""
 kindle_link: ""
 audible_link: ""
 rhb_link: ""
+monergism_link: 
 description: ""
 status: 
 readyear: ""

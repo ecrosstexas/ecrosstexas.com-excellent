@@ -18,10 +18,11 @@ website:
 amazon_link: 
 kindle_link: ""
 audible_link: 
-rhb_link: ""
+rhb_link: https://www.heritagebooks.org/products/a-body-of-divinity-hardcover-watson.html
+monergism_link: https://www.monergism.com/body-divinity-ebook
 description: 
 status: 
-readyear: ""
+readyear: 
 rating: ""
 recommended: false
 library: false

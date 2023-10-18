@@ -36,5 +36,5 @@ tags:
 ---
 ## Description
 
-Confessing the Faith Study Guide is a resource that aims to make group study easy. The questions stick closely to the text of Chad Van Dixhoorn's [_Confessing the Faith_](/notes/books/confessing-the-faith/) and follow the chapter subheadings that you will find there. Some questions cover essential doctrines; others explore scriptural passages; still others promote personal application. Each chapter ends with a consideration for prayer.
+Confessing the Faith Study Guide is a resource that aims to make group study easy. The questions stick closely to the text of Chad Van Dixhoorn's [_Confessing the Faith_](/notes/books/confessing-the-faith-9781848714045/) and follow the chapter subheadings that you will find there. Some questions cover essential doctrines; others explore scriptural passages; still others promote personal application. Each chapter ends with a consideration for prayer.
 

@@ -10,7 +10,7 @@ language: en
 isbn: "9780802873095"
 asin: 
 publisher: Eerdmans
-copyright: 1955, 2015
+copyright: "2015"
 release_date: 2015-08-15
 pages: "215"
 list_price: "16.99"

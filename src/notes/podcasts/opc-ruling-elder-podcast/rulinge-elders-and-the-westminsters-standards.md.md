@@ -24,8 +24,8 @@ Says Chad, "It is a wonderful gift to be in a presbyterian church that does not 
 ### On the Shorter Catechism
 
 - Thomas Watson, [_A Body of Divinity_](/notes/books/a-body-of-divinity/) (The Banner of Truth Trust)
-- Thomas Watson, _The Ten Commandments_ (The Banner Truth Trust)
-- Thomas Watson, _The Lord’s Prayer_ (The Banner of Truth Trust)
+- Thomas Watson, [_The Ten Commandments_](/notes/books/the-ten-commandments/) (The Banner Truth Trust)
+- Thomas Watson, [_The Lord’s Prayer_](/notes/books/the-lords-prayer/) (The Banner of Truth Trust)
 
 ### On the Larger Catechism
 
@@ -37,6 +37,6 @@ Says Chad, "It is a wonderful gift to be in a presbyterian church that does not 
 - Francis R. Beattie, _The Presbyterian Standards_ (out of print)
 - A.A. Hodge, _The Westminster Confession, A Commentary_ (The Banner of Truth Trust) 
 - Robert Shaw, _An Exposition of the Confession of Faith_, now titled _The Reformed Faith: An Exposition of the Westminster Confession of Faith_ (Christian Heritage, Christian Focus Publications)
-- R C Sproul, _Truths We Confess: A Systematic Exposition of the Westminster Confession Of Faith_ (Revised Edition, Ligonier Ministries)
+- R C Sproul, [_Truths We Confess: A Systematic Exposition of the Westminster Confession Of Faith_](/notes/books/truths-we-confess/) (Revised Edition, Ligonier Ministries)
 
 https://x.com/OrthodoxPC/status/1714385897578226173?s=20

@@ -1,0 +1,254 @@
+.full_cover {
+  border-radius: var(--border-radius); 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  width: 33%;
+  max-width: 500px;
+  height: auto;
+  border: 5px;
+}
+
+section.book_infobox {
+  overflow-x:auto
+}
+
+section.demo:nth-of-type(odd) {
+  background-color:var(--ternary-glare)
+}
+
+section.demo:nth-of-type(even) {
+  background-color:var(--secondary-glare)
+}
+
+section.demo > div {
+  background-color: var(--lightgray);
+  padding: 25px 50px;
+  text-align: left;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, .1), 0 10px 10px -5px rgba(0, 0, 0, .04)
+}
+
+section.demo[aria-label="Default description list styles"] > div * {
+  margin:revert
+}
+
+p#h-product-details {
+  font-family: Lato, Tahoma, Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  margin-bottom:10px
+}
+
+dl.product-details {
+  font-family: Lato, Tahoma, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 36px;
+  margin-left:15px
+}
+
+dl.product-details dt {
+  display: inline;
+  font-weight:700
+}
+
+dl.product-details dt::after {
+  content: ": ";
+  font-weight:700
+}
+
+dl.product-details dd {
+  display:inline
+}
+
+@media only screen and (max-width: 445px) {
+  dl.product-details {
+      font-size:14px
+  }
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 5em;
+  margin: auto;
+  display:block
+}
+
+p#h-contact-card {
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 30pt;
+  text-align: center;
+  margin-top:20px
+}
+
+dl.contact-card {
+  margin-top: 20px;
+  font-family:Roboto, Arial, sans-serif
+}
+
+dl.contact-card > div:not(:last-child) {
+  border-bottom: 1px solid #d3d3d3;
+  padding-bottom: 10px;
+  margin-bottom:10px
+}
+
+dl.contact-card dt {
+  color:#147efb
+}
+
+dl.contact-card dd p {
+  margin-bottom:-5px
+}
+
+.books div.wiki-infobox {
+  font-family: sans-serif;
+  max-width: 22em;
+  margin: auto;
+  background-color: #f8f9fa;
+  color: #000;
+  padding: .5em;
+  line-height:1.5em
+}
+
+.books div.wiki-infobox > * + * {
+  margin-top:.8em
+}
+
+.wiki-heading {
+  background: #ccf;
+  padding: .25em 1em;
+  font-size: 110%;
+  font-weight: 700;
+  text-align:center;
+  margin-top:.8em
+}
+
+dl.wikipedia > div {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top:.5em
+}
+
+dl.wikipedia dt {
+  font-weight: 700;
+  grid-column:1
+}
+
+dl.wikipedia dd {
+  grid-column:2
+}
+
+p#h-wikipedia {
+  font-size:125%
+}
+
+#statblock {
+  font-family: Lato, "Trebuchet MS", sans-serif;
+  font-size: 85%;
+  min-width: 50ch;
+  background-color:#fffaf0
+}
+
+#statblock #monster-name {
+  font-family: Vollkorn, Baskerville, Georgia, Times, "Times New Roman", serif;
+  font-size: 175%;
+  display:block
+}
+
+#statblock small {
+  display: block;
+  margin-top: -1em;
+  font-style: italic;
+  font-size:100%
+}
+
+#statblock strong {
+  font-variant: small-caps;
+  color:maroon
+}
+
+#statblock abbr {
+  text-decoration:none
+}
+
+#statblock dl.statblock-bio {
+  color: maroon;
+  line-height: 1.5;
+  border-top: 5px solid maroon;
+  border-bottom: 5px solid maroon;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  padding-top: .75em;
+  padding-bottom:.75em
+}
+
+#statblock dl.statblock-bio dt {
+  font-weight: 900;
+  display:inline
+}
+
+#statblock dl.statblock-bio dd {
+  display:inline
+}
+
+#statblock dl.statblock-bio dd:not(:last-child)::after {
+  content: ", "
+}
+
+#statblock dl.ability-scores {
+  min-width: 40ch;
+  display: flex;
+  justify-content: space-around;
+  color:maroon
+}
+
+#statblock dl.ability-scores > div {
+  text-align: center;
+  line-height:1.5
+}
+
+#statblock dl.ability-scores dt {
+  font-weight:700
+}
+
+#statblock dl.statblock-actions {
+  line-height:1.5
+}
+
+#statblock dl.statblock-actions > div {
+  margin-top:.75em
+}
+
+#statblock dl.statblock-actions dt {
+  display: inline;
+  font-weight: 700;
+  font-style:italic
+}
+
+#statblock dl.statblock-actions dt::after {
+  content: "."
+}
+
+#statblock dl.statblock-actions dd {
+  display:inline
+}
+
+#statblock #actions {
+  font-size: 140%;
+  border-bottom: 1px solid maroon;
+  margin-top:.5em
+}
+
+section.demo:last-of-type {
+  margin-bottom: 2em;
+  background-color:var(--secondary-glare)
+}
+
+section.demo:last-of-type + p {
+  margin-bottom:1em
+}
+
+main p abbr {
+  text-decoration: none
+}

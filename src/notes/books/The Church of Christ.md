@@ -16,9 +16,10 @@ pages: "1040"
 list_price: "50.00"
 website: ""
 amazon_link: https://amzn.to/3M14C72
-kindle_link: ""
+kindle_link: 
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/the-church-of-christ-bannerman.html
+monergism_link: https://www.monergism.com/church-christ-ebook
 description: James Bannerman’s The Church of Christ is one of the key historic texts of the doctrine of the church. Few will agree with everything the author has to say, but as Carl Trueman states in his foreword, ‘the great thing about the book is that it will stimulate the reader to reflect on the nature of the church in a profoundly biblical and historically sensitive way’.
 status: 
 readyear: ""

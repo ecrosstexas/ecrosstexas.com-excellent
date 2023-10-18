@@ -1,6 +1,0 @@
-{
-    "layout": "note-book",
-    "category": "book",
-    "permalink": "/notes/books/{{ title | slugify }}/index.html"
-  }
-  

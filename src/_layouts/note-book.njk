@@ -24,12 +24,14 @@ preloads:
                     <dl class="wikipedia" aria-labelledby="h-wikipedia">
                         <div>
                             <dt>Book</dt>
-                            <dd><div class="grid-item"><b>{{ title }}</b>{% if subtitle %}: <i>{{ subtitle }}</i>{% endif %}{% if series %} (Part of the {{ series }} series){% endif %}</div></dd>
+                            <dd><b>{{ title }}</b>{% if subtitle %}: <i>{{ subtitle }}</i>{% endif %}{% if edition %} ({{edition}}){% endif %}{% if series %} – {{ series }} series{% endif %}</dd>
                         </div>
+                        {% if author %}
                         <div>
                             <dt>Written by</dt>
                             <dd>{{ author }}</dd>
                         </div>
+                        {% endif %}
                         {% if editor %}
                         <div>
                             <dt>Edited by</dt>
@@ -38,12 +40,13 @@ preloads:
                         {% endif %}
                         <div>
                             <dt>Publisher</dt>
-                            <dd>{{ publisher }}, {{ copyright }}</dd>
+                            <dd>{{ publisher }}{% if copyright %}, {{ copyright }}{% endif %}</dd>
                         </div>
                         {% if release_date %}
                         <div>
                             <dt>Release Date</dt>
                             <dd>{% set definedDate = release_date %} {% include "partials/release-date.njk" %}</dd>
+                            <dd>{{ book.data.dateString }}</dd>
                         </div>
                         {% endif %}
                         {% if isbn %}

@@ -1,5 +1,5 @@
 ---
-title: Why Should We Sing Psalms
+title: Why Should We Sing Psalms?
 subtitle: ""
 series: Cultivating Biblical Godliness
 edition: ""

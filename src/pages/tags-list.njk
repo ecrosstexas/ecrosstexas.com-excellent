@@ -6,7 +6,7 @@ layout: page
 tags:
 	- pages
 ---
-<ul>
+<ul data-pagefind-ignore>
 {% for tag in collections.all | getAllTags | filterTagList %}
 	{% set tagUrl %}/tag/{{ tag | slug }}/{% endset %}
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>

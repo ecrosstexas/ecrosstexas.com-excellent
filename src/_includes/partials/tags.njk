@@ -1,8 +1,5 @@
 {% if tags %}
-<section 
-  class="wrapper flow content region | blog tags"
-  style="--region-space-top: var(--space-xl)"
->
+<section class="wrapper flow content region | blog tags" style="--region-space-top: var(--space-xl)">
   <div class="flow">
     <p class="" id="tags-desc">Tags:
       {% for tag in tags | filterTagList %}

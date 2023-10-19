@@ -9,3 +9,9 @@ tags:
 - BCO-Preface 
 - PolityMatters
 ---
+
+## Resources Mentioned
+
+- [PCA BCO](https://www.pcaac.org/bco/)
+
+## Transscript

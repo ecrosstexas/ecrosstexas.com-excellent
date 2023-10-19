@@ -10,6 +10,11 @@ tags:
   - PolityMatters
 ---
 
+## Resources Mentioned
+
+- [PCA BCO](https://www.pcaac.org/bco/)
+- Guy Waters [How Jesus Runs the Church](/notes/books/how-jesus-runs-the-church-9781596382527/)
+
 ## Transcript
 
 1

@@ -62,6 +62,7 @@ Among evangelicals, singing psalms is largely a thing of the past. In this pamph
 	- "The Psalms link our subjective experience to the reality of God. We are compelled to look at our own circumstances from the vantage point of God and His power to save." p 20
 	- "Rather, they are a solemn acknowledgement that we live a fallen world among people who fight against God and His Christ and that such people's doom except they repent, is both just and sure. Consequently, in the imprecatory psalms we do not pray for personal vengeance but for God's glory and the good of the church." p 21
 	- "these psalms demonstrate faith in the Lord from within the trauma of real-life situations and teach us to express a holy, moral indignation toward those who would set themselves against God's King and his kingdom." p 22
+	- 
 ### THE BEAUTY AND GLORY OF SINGING THE PSALMS
 
 - The Psalms Unite Us with Believers of All Times
@@ -69,4 +70,3 @@ Among evangelicals, singing psalms is largely a thing of the past. In this pamph
 - The Psalms Life Up Our Eyes to the Hope of Glory
 	- "The Psalms hold before our eyes the reality that God has intruded, and will intrude, into history in cataclysmic ways, ultimately yeidling everlasting peace and rest for His people...Psalm singing equips the believer to be on watch for God's Kingdom." – Anthony Selvaggio _Psalm Singing and Redemptive-Historical Hermeneutics_ p 26
 - The Psalms Keep God Supreme in Our Worship 
-## Resources:

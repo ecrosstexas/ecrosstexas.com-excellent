@@ -16,7 +16,7 @@ I had the opportunity to lead the new member class today at [Trinity](https://ww
 
 > Many people have asked what we at Trinity Presbyterian Church believe.  Sometimes the questions are asked these ways: What are our _theological_ distinctives?  What does it mean to be a _Presbyterian_ Church? What does it mean to say we are _reformed_? Are these issues even _important_?  Do we, in our theological tradition, care about _evangelism_; that is, winning new people to faith in Jesus Christ?  While this document may not answer every question of this nature, as elders and under-shepherds of the flock, we do want to help members, visitors and inquirers learn more about our church.
 
-In addition to teaching the prepared materials, I talked and shared a lot from the Preface of the BCO shared the following information:
+In addition to teaching the prepared materials, I talked and shared a lot from the Preface of the BCO and shared the following information in handouts:
 
 ## BCO
 

@@ -12,7 +12,7 @@ tags:
     - RefWorCon
 ---
 
-After a few years hiatus, Midway's[Reformation & Worship Conference](https://midwaypca.org/church-life/ministries/reformation-worship-conference/) returns this October.  This email hit my inbox earlier today:
+After a few years hiatus, Midway's [Reformation & Worship Conference](https://midwaypca.org/church-life/ministries/reformation-worship-conference/) returns this October.  This email hit my inbox earlier today:
 
 > Just a quick reminder to register for the upcoming Reformation & Worship Conference, to take place October 19-22, 2023 at [Midway Presbyterian Church (PCA),](https://midwaypca.org) Powder Springs, GA.
 > 

@@ -11,10 +11,9 @@ preloads:
 
 <article class="region blog">
     
-  <div class="wrapper flow prose">
+  <div class="books wrapper flow prose">
 
     <h1 class=" ">{{ title }}</h1>
-<div class="books">
 <img class="full_cover" src="https://raw.githubusercontent.com/ecrosstexas/ecrosstexas.com-library/main/img/book-{{ isbn }}.png" alt="Cover of the book {{ title }} by {{ author}}.">
             <section class="book_infobox" aria-label="book infobox">
                 <div class="wiki-infobox">
@@ -103,7 +102,7 @@ preloads:
                             {% endif %}
                         </div>
             </section>
-</div>
+            
     {{ content | safe }}
     
     <!-- include tags -->

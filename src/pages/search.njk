@@ -1,0 +1,27 @@
+---
+title: Search
+permalink: /search/index.html
+layout: page
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+noindex: true
+---
+
+<p>When you want to find something on this site, search it up.</p>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
+
+
+<h2>Other Search Tools</h2>
+<ul>
+  <li><a href="https://www.duckduckgo.com/">DuckDuckGo</a></li>
+  <li><a href="https://www.google.com/">Google</a></li>
+</ul>
+

@@ -173,6 +173,13 @@ module.exports = eleventyConfig => {
     'src/assets/images/favicon/*': '/'
   });
 
+  // pagefind demo
+  const { execSync } = require('child_process')
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site dist --output-path dist/pagefind --glob \"**/*.html\"`, { encoding: 'utf-8' })
+})
+
+
   // 	--------------------- general config -----------------------
   return {
     // Pre-process *.md, *.html and global data files files with: (default: `liquid`)

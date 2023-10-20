@@ -37,4 +37,4 @@ tags:
 ---
 ## Notes
 
-- [Dabney's Seven Requisites](/notes/daneys-seven-requisites/)
+- [Dabney's Seven Requisites](/notes/rl-dabneys-seven-requisites-for-a-sermon)

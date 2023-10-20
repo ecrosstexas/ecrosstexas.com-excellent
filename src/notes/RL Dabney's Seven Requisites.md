@@ -1,5 +1,5 @@
 ---
-title: RL Dabney's Seven Requisites
+title: RL Dabney's Seven Requisites For a Sermon
 tags:
   - preaching
 ---

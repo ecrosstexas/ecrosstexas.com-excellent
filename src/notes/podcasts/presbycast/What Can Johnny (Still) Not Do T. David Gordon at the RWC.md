@@ -15,4 +15,4 @@ tags:
 ## Related
 - [Why Johnny Can't Preach](/notes/books/why-johnny-cant-preach-9781596381162)
 - [Why Johnny Can’t Sing Hymns](/notes/books/why-johnny-cant-sing-hymns-9781596381957)
-- [Dabney's Seven Requisites](/notes/rl-dabneys-seven-requisites)
+- [Dabney's Seven Requisites](/notes/rl-dabneys-seven-requisites-for-a-sermon)

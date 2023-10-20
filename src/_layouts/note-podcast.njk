@@ -11,15 +11,17 @@ preloads:
 
 <article class="region blog">
     
-  <div class="wrapper flow prose">
+  <div class="podcasts wrapper flow prose">
 
     <h1 class=" ">{{ title }}</h1>
 
-<div class="podcasts full_image">
+<div class="full_image">
 <img src="https://raw.githubusercontent.com/ecrosstexas/ecrosstexas.com-library/main/img/podcast-{{ podcast | slugify }}.png" alt="Coverart for the podcast {{ podcast }}.">
 </div>
 
 {% if episode %}<p>Episode: {{ episode }}</p>{% endif %}
+{% if description %}<p>Description: {{ description }}</p>{% endif %}
+{% if guests %}<p>Guests: {{ guests }}</p>{% endif %}
    
 
     <h3>Listen with Overcast</h3>

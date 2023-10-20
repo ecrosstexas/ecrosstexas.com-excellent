@@ -47,3 +47,34 @@ In this much-anticipated book, Colin Marshall and Tony Payne answer the question
 {% youtube '401MnYhLTzY', '{{ title }}' %}
 
 ## Notes
+- Why is change needed?
+	- Sanctification. 
+	- Always Reforming.
+### Five Phases for growth and change
+#### 1. Clarify convictions
+##### Why make a disciple?
+- Matthew 28 - [The Great Commission](/notes/the-great-commission/)
+- Revelation 7:9 - [The Great Multitude](/notes/the-great-multitude)
+##### What is a disciple?
+- Christ-learner
+##### How are they made?
+###### Four Ps
+1. proclamation
+2. prayer
+3. people
+4. perseverance
+###### Incorporate the 4 Es
+1. engage
+2. evangelize
+3. establish
+4. equip
+#### Who makes disciples?
+- every member ministry
+#### Where to make disciples?
+- here, there, and everywhere
+- where you "live, work, and play"
+#### 2. Reform your convictions
+- practice what you preach
+#### 3.  Honest Evaluation
+#### 4. Implementation
+#### 5. Keep the momentum going

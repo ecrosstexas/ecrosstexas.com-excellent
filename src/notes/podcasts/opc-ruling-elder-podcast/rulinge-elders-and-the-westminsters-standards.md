@@ -2,6 +2,8 @@
 title: Ruling Elders and the Westminster Standards
 episode: "10"
 description: The ruling elder podcast talks with Chad Van Dixhoorn about the importance of the Westminster Confession of Faith and Catechisms to the work of the ruling elder.
+guests:
+  - Chad Van Dixhoorn
 release_date: 2023-10-14
 podcast: OPC Ruling Elder Podcast
 overcast_id: "4112494"

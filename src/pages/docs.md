@@ -24,10 +24,9 @@ tags:
 - [Official Image Docs](https://www.11ty.dev/docs/plugins/image/)
 - [Using Eleventy’s official image plugin](https://brycewray.com/posts/2021/04/using-eleventys-official-image-plugin/)
 
-
-## Netlify
-
-- [Docs](https://docs.netlify.com)
+## Jamstack
+- [Netlify Docs](https://docs.netlify.com)
+- [Pagefind](https://pagefind.app/)
 
 ## Languages
 

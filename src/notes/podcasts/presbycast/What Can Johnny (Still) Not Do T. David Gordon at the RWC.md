@@ -12,3 +12,7 @@ youtube_video: https://www.youtube.com/watch?v=bgF_dgZGpak
 tags:
   - RefWorCon
 ---
+## Related
+- [Why Johnny Can't Preach](/notes/books/why-johnny-cant-preach-9781596381162)
+- [Why Johnny Can’t Sing Hymns](/notes/books/why-johnny-cant-sing-hymns-9781596381957)
+- [Dabney's Seven Requisites](/notes/rl-dabneys-seven-requisites)

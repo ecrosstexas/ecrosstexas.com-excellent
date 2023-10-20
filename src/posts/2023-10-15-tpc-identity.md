@@ -1,6 +1,6 @@
 ---
 title: "Our Theological Identity and Presbyterian Church Government"
-description: "Notes from Trinity Presbyterian Church Plano's new member class 'Our Theological Identity and Presbyterian Church Government'"
+description: "Notes from Trinity Presbyterian Church (Plano TX) new member class 'Our Theological Identity and Presbyterian Church Government'"
 date: 2023-10-15T14:15:00
 layout: post
 category: shortpost
@@ -8,9 +8,11 @@ blockquote: false
 youtube: false
 tags:
     - TPC
+    - presbyterianism
+    - reformed-theology
 ---
 
-I had the opportunity to lead the new member class today at Trinity speaking about _Our Theological Identity and Presbyterian Church Government._ 
+I had the opportunity to lead the new member class today at [Trinity](https://www.trinityplano.org/) speaking about _Our Theological Identity and Presbyterian Church Government._
 
 > Many people have asked what we at Trinity Presbyterian Church believe.  Sometimes the questions are asked these ways: What are our _theological_ distinctives?  What does it mean to be a _Presbyterian_ Church? What does it mean to say we are _reformed_? Are these issues even _important_?  Do we, in our theological tradition, care about _evangelism_; that is, winning new people to faith in Jesus Christ?  While this document may not answer every question of this nature, as elders and under-shepherds of the flock, we do want to help members, visitors and inquirers learn more about our church.
 

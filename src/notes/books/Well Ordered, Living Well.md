@@ -37,3 +37,21 @@ tags:
 Why does church government matter? In this book, Guy Prentiss Waters offers a brief and accessible introduction to Presbyterianism that shows how a well-ordered church fosters Christian lives lived well. In making the case that church government is critical to Christian discipleship, Waters presents an overview of the nature of the church (the body and its member) and its structures of authority (officers, assemblies, and ordination). He concludes by answering common questions people raise about church government. 
 
 The book is an ideal resource for explaining the relevance of church government to the ordinary Christian’s life and service.
+
+## Table of Contents:
+
+### 1. Why Does Church Government Matter?
+
+### 2. What Makes a Church?
+
+### 3. How Is the Church Led?
+
+### 4. But What about…?
+
+### 5. Where Do We Go from Here?
+
+### Further Reading
+
+### Appendix 1: Membership Commitments
+
+### Appendix 2: Presbyterian Church Polity and the Church Order of Dort

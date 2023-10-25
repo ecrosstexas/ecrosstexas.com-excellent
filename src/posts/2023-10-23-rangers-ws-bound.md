@@ -11,6 +11,8 @@ tags:
   - WorldSeries
 ---
 
+A story told via twitter [(x.com.)](https://www.x.com/)
+
 https://x.com/Rangers/status/1716553848054042853?s=20
 
 ## Mission Accomplished

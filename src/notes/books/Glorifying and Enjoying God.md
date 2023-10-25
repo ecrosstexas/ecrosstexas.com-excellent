@@ -38,3 +38,11 @@ tags:
   - WSC
 ---
 For centuries, the Westminster Shorter Catechism has helped Christians young and old to know their “chief end.” Now, authors William Boekestein, Jonathan Landry Cruse, and Andrew J. Miller value this venerable catechism and winsomely introduce a new generation to its powerful message. Dividing the catechism into 52 brief devotions, they explain and apply each question and answer in a year’s worth of Lord’s Days. This valuable new resource is great for individual and family use for all who desire to “glorify and enjoy God forever.”
+
+https://x.com/RHB_Books/status/1717247784787587511?s=20
+
+https://x.com/RHB_Books/status/1717247787476058327?s=20
+
+https://x.com/RHB_Books/status/1717247789980106795?s=20
+
+https://x.com/RHB_Books/status/1717263521681944874?s=20

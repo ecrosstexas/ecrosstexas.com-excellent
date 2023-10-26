@@ -14,6 +14,8 @@ tags:
 
 - [PCA BCO](https://www.pcaac.org/bco/)
 
+https://x.com/PolityMatters/status/1714239541094035848?s=20
+
 ## Transcript
 
 1

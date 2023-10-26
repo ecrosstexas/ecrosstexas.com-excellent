@@ -92,7 +92,7 @@ A Reformed view of worship is shaped by God’s Word and has the gospel as its c
 - Christ does the proclaiming (Acts 26:23)
 - "The preaching of the word of God is the word of God" Second Helvetic Confession
 - WLC 155
-- "Jesus gets up to preach" – Jonathan Landry Cruse [_What Happens When We Worship_](notes/books/what-happens-when-we-worship-9781601788160/)
+- "Jesus gets up to preach" – Jonathan Landry Cruse [_What Happens When We Worship_](/notes/books/what-happens-when-we-worship-9781601788160/)
 #### God's People Respond: Psalms, Hymns, and Spiritual Songs
 - "But God's people regularly weep, and the Psalms help to give mourning saints voice." p.108
 #### God Speaks: The Lord's Supper

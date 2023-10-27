@@ -6,7 +6,8 @@ edition: ""
 author:
   - Carl R. Trueman
 editor: 
-foreward: Ryan T. Anderson
+foreward:
+  - Ryan T. Anderson
 format: Paperback
 language: en
 isbn: "9781433579301"
@@ -34,6 +35,9 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - identity
+  - identity-politics
+  - CarlTrueman
 ---
 From Philosophy to Technology, Tracing the Origin of Identity Politics
 

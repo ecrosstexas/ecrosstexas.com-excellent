@@ -34,6 +34,7 @@ acquired_source: Amazon
 acquired_price: "6.99"
 tags:
   - PCA
+  - presbyterianism
 ---
 This is a short “Whodunit?” However, it is not a work of fiction. Throughout, we ask “who killed Presbyterianism?” Many other churches have similar murder mysteries. Denominations rise and fall. As they rise, members’ chests swell with pride and satisfaction. As they fall, few accept responsibility.  
 What if we approached the death of a church—hereby coined ecclesiocide—as a crime to be solved? What if, in other words, we could identify how, when, or where a homicide happened or what events led to a church’s demise? If one thinks of this paperback as literary crime scene tape, might we learn from one corpse and transfer those lessons to stave off death for another, at least for a while?  

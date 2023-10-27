@@ -7,7 +7,8 @@ author:
   - Jim Davis
   - Michael Graham
   - Ryan P. Burge
-foreward: Collin Hansen
+foreward:
+  - Collin Hansen
 format: Hardcover
 language: en
 isbn: "9780310147435"
@@ -23,6 +24,7 @@ kindle_link: https://amzn.to/3ZIaJTf
 audible_link: https://amzn.to/3toaIYJ
 ibooks_link: ""
 rhb_link: 
+publisher_link: 
 description: This book gives the church in America its first ever deep dive into the dechurched phenomenon. You’ll learn about the dechurched through a detailed sketch of demographics, size, core concerns, church off-ramps, historical roots, and the gravity of what is at stake. Then you’ll explore what can be done to slow the bleed, engage the pertinent issues winsomely and wisely, and hopefully re-church some of the dechurched.
 status: ""
 readyear: ""

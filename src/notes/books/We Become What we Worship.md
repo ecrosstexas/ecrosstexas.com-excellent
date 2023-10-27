@@ -33,6 +33,8 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - worship
+  - idolatry
 ---
 The heart of the biblical understanding of idolatry, argues Gregory Beale, is that we take on the characteristics of what we worship. Employing Isaiah 6 as his interpretive lens, Beale demonstrates that this understanding of idolatry permeates the whole canon, from Genesis to Revelation. Beale concludes with an application of the biblical notion of idolatry to the challenges of contemporary life.
 

@@ -34,6 +34,7 @@ acquired_price: ""
 tags:
   - WSC
   - ThomasWatson
+  - Ten-Commandments
 ---
 ## Description
 

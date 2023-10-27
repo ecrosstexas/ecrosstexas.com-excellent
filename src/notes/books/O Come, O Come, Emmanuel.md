@@ -34,6 +34,7 @@ acquired_source:
 acquired_price: ""
 tags:
   - devotional
+  - advent
 ---
 During Christmas, homes are filled with good food, welcoming family, and lively cheer. Streets are lined with lights and sprinkled with snow. Amid this season of beauty, even Christians can become distracted, keeping Jesus at an unintentional distance. How can Christians effectively prepare their hearts for the arrival of their King and worship him the way he deserves?   
   

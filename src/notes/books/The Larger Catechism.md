@@ -4,7 +4,8 @@ subtitle: A Critical Text and Introduction
 series: Principal Documents of the Westminster Assembly
 edition: ""
 author: 
-editor: John Bower
+editor:
+  - John Bower
 format: Hardcover
 language: en
 isbn: "9781601780850"
@@ -32,6 +33,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - WLC
 ---
 The Larger Catechism stands as one of the three major doctrinal standards produced by the Westminster Assembly. 
 

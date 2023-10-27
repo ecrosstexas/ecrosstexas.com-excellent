@@ -5,6 +5,8 @@ series: ""
 edition: ""
 author:
   - Jonathan Landry Cruse
+foreward:
+  - Michael S. Horton
 format: Paperback
 language: en
 isbn: "9781601788160"
@@ -32,6 +34,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - worship
 ---
 Many churchgoers assume that worship is inherently boring, something we need to _make_ exciting. But as Jonathan Landry Cruse shows, churchgoing only seems monotonous and mundane because our eyes are blinded to the supernatural wonder that is taking place all around us.
 

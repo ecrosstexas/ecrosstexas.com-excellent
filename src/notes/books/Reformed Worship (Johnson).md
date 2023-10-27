@@ -33,6 +33,7 @@ acquired_date: 2018-06-20
 acquired_source: Amazon
 acquired_price: "8.99"
 tags:
+  - worship
 ---
 The Reformers and Puritans believed that how we worship is just as important as how we are saved. They taught this because they understood (perhaps better than any Christians who ever lived) that the way worship, to a large extent, determines the God we worship. This is why biblical worship is always the response of the redeemed to God's initiative of self-revelation.   
   

@@ -21,7 +21,7 @@ kindle_link: https://amzn.to/3FzHrNl
 audible_link: https://amzn.to/3QhGZbk
 rhb_link: https://www.heritagebooks.org/products/a-new-testament-biblical-theology-the-unfolding-of-the-old-testament-in-the-new-beale.html
 monergism_link: 
-description: ""
+description: In this comprehensive exposition, a leading New Testament scholar explores the unfolding theological unity of the entire Bible from the vantage point of the New Testament.
 status: 
 readyear: ""
 rating: ""

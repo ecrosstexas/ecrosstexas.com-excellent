@@ -15,11 +15,12 @@ copyright:
 release_date: 
 pages: ""
 list_price: ""
-website: https://matthiasmedia.com/products/making-disciples
+website: 
 amazon_link: ""
 kindle_link: ""
 audible_link: ""
 rhb_link: ""
+publisher_link: https://matthiasmedia.com/products/making-disciples
 monergism_link: 
 description: ""
 status: 
@@ -33,6 +34,7 @@ acquired_date: 2023-10-27
 acquired_source: Matthias Media
 acquired_price: "12.99"
 tags:
+  - disciple-making
 ---
 How central should the work of disciple-making be in our daily lives and in our church culture? How do we get there? And what does it actually look like?
 

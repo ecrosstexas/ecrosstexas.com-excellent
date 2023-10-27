@@ -36,6 +36,7 @@ acquired_date: 2009-08-24
 acquired_source: Amazon
 acquired_price: "10.20"
 tags:
+  - JGreshamMachen
 ---
 This classic defense of orthodox Christianity, written to counter the liberalism that arose in the early 1900s, establishes the importance of scriptural doctrine and contrasts the teachings of liberalism and orthodoxy on God and man, the Bible, Christ, salvation, and the church. J. Gresham Machen's _Christianity and Liberalism_ has remained relevant through the years ever since its original publication in 1923. It was named one of the top 100 books of the millennium by _World_ magazine and one of the top 100 books of the twentieth century by _Christianity Today_.
 

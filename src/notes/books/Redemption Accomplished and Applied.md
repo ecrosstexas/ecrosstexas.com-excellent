@@ -32,4 +32,6 @@ acquired_date: 2014-04-16
 acquired_source: Amazon
 acquired_price: ""
 tags:
+  - redemption
+  - atonement
 ---

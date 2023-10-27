@@ -33,6 +33,7 @@ acquired_source: Reformation Heritage Books
 acquired_price: "12.00"
 tags:
   - Israel
+  - OPalmerRobertson
 ---
 
 ## Description

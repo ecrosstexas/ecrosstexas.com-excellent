@@ -5,7 +5,8 @@ series: ""
 edition: ""
 author:
   - J. Gresham Machen
-editor: 
+foreward:
+  - Sinclair B. Ferguson
 format: Hardcover
 language: en
 isbn: "9781733627245"
@@ -33,6 +34,7 @@ acquired_date: 2020-12-07
 acquired_source: Westminster Books
 acquired_price: "27.49"
 tags:
+  - JGreshamMachen
 ---
 On a Sunday afternoon in 1935, J. Gresham Machen stepped into a broadcast booth at WIP Radio in Philadelphia and began something no one had tried before: teaching Reformed theology over the radio. In the vein of C.S. Lewis’s landmark “Mere Christianity” talks, Machen’s addresses are a crystal-clear articulation of the basics of the Christian faith, unfolding into an exceptional and persuasive explanation of Reformed theology.
 

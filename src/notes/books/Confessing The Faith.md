@@ -5,6 +5,8 @@ series: ""
 edition: 
 author:
   - Chad Van Dixhoorn
+foreward:
+  - Carl R. Trueman
 format: Hardcover
 language: en
 isbn: "9781848714045"

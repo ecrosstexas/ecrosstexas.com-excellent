@@ -7,6 +7,8 @@ author:
   - Thomas Witherow
 editor:
   - Jonathan Gibson
+foreward:
+  - Sinclair B. Ferguson
 format: 
 language: en
 isbn: "9781733627269"

@@ -7,6 +7,7 @@ author:
   - Jim Davis
   - Michael Graham
   - Ryan P. Burge
+foreward: Collin Hansen
 format: Hardcover
 language: en
 isbn: "9780310147435"

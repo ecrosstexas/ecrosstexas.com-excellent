@@ -5,12 +5,15 @@ series: ""
 edition: ""
 author:
   - James Bannerman
+foreward:
+  - Carl R. Trueman
 format: Hardcover
 language: en
 isbn: "9781848715028"
 asin: ""
 publisher: Banner of Truth
-copyright: 1869, 2015
+original_copyright: "1869"
+copyright: "2015"
 release_date: 2015-04-07
 pages: "1040"
 list_price: "50.00"

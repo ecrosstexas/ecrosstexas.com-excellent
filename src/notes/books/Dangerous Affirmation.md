@@ -5,6 +5,8 @@ series: ""
 edition: ""
 author:
   - M.D. Perkins
+foreward:
+  - Stephen H. Black
 format: ""
 language: ""
 isbn: "9781935932376"

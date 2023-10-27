@@ -4,7 +4,9 @@ subtitle: A Commentary
 series: ""
 edition: ""
 author:
-  - J.G. Vos
+  - J. G. Vos
+editor:
+  - G. I. Williamson
 format: ""
 language: en
 isbn: "9780875525143"

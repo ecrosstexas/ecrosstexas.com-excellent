@@ -5,6 +5,7 @@ series: ""
 edition: ""
 author: 
 editor: 
+foreward: 
 format: 
 language: en
 isbn: ""
@@ -26,6 +27,7 @@ readyear: ""
 rating: ""
 recommended: false
 library: false
+kindle_library: false
 wishlist: false
 acquired: 
 acquired_date: 

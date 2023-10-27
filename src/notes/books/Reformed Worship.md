@@ -5,6 +5,8 @@ series: Blessings of the Faith
 edition: ""
 author:
   - Jonty Rhodes
+foreward:
+  - Kevin DeYoung
 format: Hardcover
 language: en
 isbn: "9781629959078"

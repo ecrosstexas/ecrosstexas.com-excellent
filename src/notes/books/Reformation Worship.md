@@ -1,40 +1,42 @@
 ---
-title: "Reformation Worship"
-subtitle: "Liturgies From the Past For The Present"
+title: Reformation Worship
+subtitle: Liturgies From the Past For The Present
 series: ""
 edition: ""
-author: 
-    - "Jonathan Gibson"
-    - "Mark Earngey"
-format: "Hardcover"
-language: "en"
+editor:
+  - Jonathan Gibson
+  - Mark Earngey
+foreward:
+  - Sinclair B. Ferguson
+format: Hardcover
+language: en
 isbn: "9781948130219"
 asin: ""
-publisher: "New Growth Press"
+publisher: New Growth Press
 copyright: "2018"
-release_date: "2018-04-23"
+release_date: 2018-04-23
 pages: "736"
 list_price: "69.99"
-website: "https://reformationworship.com"
-amazon_link: "https://amzn.to/3s3CQQh"
-kindle_link: "https://amzn.to/3tBaNbq"
+website: https://reformationworship.com
+amazon_link: https://amzn.to/3s3CQQh
+kindle_link: https://amzn.to/3tBaNbq
 audible_link: ""
 rhb_link: ""
-description: "Transforming Christian Worship - Twenty-six liturgies, including historical introductions that provide fresh analysis into their origins, are invaluable tools for pastors and worship leaders as they seek to craft public worship services in the great tradition of the early Reformers."
+description: Transforming Christian Worship - Twenty-six liturgies, including historical introductions that provide fresh analysis into their origins, are invaluable tools for pastors and worship leaders as they seek to craft public worship services in the great tradition of the early Reformers.
 status: ""
 readyear: ""
 rating: ""
 recommended: true
 library: true
 wishlist: false
-acquired: "Purchase"
+acquired: Purchase
 acquired_date: ""
-acquired_source: "New Growth Press"
+acquired_source: New Growth Press
 acquired_price: ""
 tags:
-- liturgy
-- worship
-- Reformation
+  - liturgy
+  - worship
+  - Reformation
 ---
 
 ## Description:

@@ -37,6 +37,12 @@ preloads:
                             <dd>{{ editor }}</dd>
                         </div>
                         {% endif %}
+                        {% if foreward %}
+                        <div>
+                            <dt>Foreward by</dt>
+                            <dd>{{ foreward }}</dd>
+                        </div>
+                        {% endif %}
                         <div>
                             <dt>Publisher</dt>
                             <dd>{{ publisher }}{% if copyright %}, {{ copyright }}{% endif %}</dd>
@@ -83,6 +89,9 @@ preloads:
                             {% endif %}
                             {% if rhb_link %}
                             <dd><a href="{{ rhb_link }}">Buy from RHB</a></dd>
+                            {% endif %}
+                            {% if publisher_link %}
+                            <dd><a href="{{ publisher_link }}">Buy from Publisher</a></dd>
                             {% endif %}
                         </div>
                         

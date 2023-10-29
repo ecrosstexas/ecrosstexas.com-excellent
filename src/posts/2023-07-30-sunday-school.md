@@ -11,7 +11,7 @@ tags:
     - cessationism
     - HolySpirit
     - speaking
-    - sunday-school
+    - Sunday-school
     - TPC
 ---
 
@@ -19,7 +19,6 @@ tags:
 Spiritual Gifts for Today?'", "" %}
 
 Here is the [presentation](https://www.dropbox.com/scl/fi/gua7nu6p4lchdfn6d3mdg/2023-07-30-SS-MiraculousGifts.pdf?rlkey=qfwhx3w745uyuc748tjx37qum&dl=0) that I gave in pdf format.
-
 
 
 ## Related Resources

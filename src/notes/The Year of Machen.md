@@ -5,6 +5,7 @@ layout: post
 tags:
   - JGreshamMachen
 ---
+
 2023 marks the 100th anniversary of J. Gresham Machen's Christianity & Liberalism.
 
 ## Books

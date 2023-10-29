@@ -20,6 +20,7 @@ kindle_link:
 audible_link: https://amzn.to/45EdHJE
 rhb_link: https://www.heritagebooks.org/products/the-ten-commandments-hardcover-watson.html
 monergism_link: 
+publisher_link: https://banneroftruth.org/us/store/theology-books/the-ten-commandments/
 description: In this book Thomas Watson continues his exposition of the Shorter Catechism drawn up by the Westminster Assembly. Watson was one of the most popular preachers in London during the Puritan era. His writings are characterized by clarity, raciness and spiritual richness. The series of three volumes, of which this is the second, makes an ideal introduction to Puritan literature.
 status: 
 readyear: 

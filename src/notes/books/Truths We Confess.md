@@ -41,3 +41,4 @@ The Westminster Confession of Faith is one of the most precise and comprehensive
 
 In Truths We Confess, Dr. Sproul introduces readers to this remarkable confession, explaining its insights and applying them to modern life. In his signature easy-to-understand style and with his conviction that everyone’s a theologian, he provides valuable commentary that will serve churches and individual Christians as they strive to better understand the eternal truths of Scripture. As he walks through the confession line by line, Dr. Sproul shows how the doctrines of the Bible―from creation to covenant, sin to salvation―fit together to the glory of God. This accessible volume is designed to help you deepen your knowledge of God’s Word and answer the question, What do you believe?
 
+https://www.youtube.com/watch?v=AW4brfWi4mE&

@@ -20,6 +20,7 @@ kindle_link:
 audible_link: https://amzn.to/3RXJ9Q6
 rhb_link: ""
 monergism_link: 
+publisher_link: https://store.ligonier.org/truths-we-confess-hardcover
 description: In Truths We Confess, Dr. Sproul introduces readers to this remarkable confession, explaining its insights and applying them to modern life. In his signature easy-to-understand style and with his conviction that everyone’s a theologian, he provides valuable commentary that will serve churches and individual Christians as they strive to better understand the eternal truths of Scripture. As he walks through the confession line by line, Dr. Sproul shows how the doctrines of the Bible―from creation to covenant, sin to salvation―fit together to the glory of God. This accessible volume is designed to help you deepen your knowledge of God’s Word and answer the question, What do you believe?
 status: 
 readyear: ""
@@ -34,6 +35,7 @@ acquired_price: ""
 tags:
   - RCSproul
   - WCF
+publ:
 ---
 ## Description
 

@@ -32,7 +32,7 @@ Says Chad, "It is a wonderful gift to be in a presbyterian church that does not 
 
 ### On the Larger Catechism
 
-- J.G. Vos, [_The Westminster Larger Catechism, a Commentary_](/notes/books/the-westminster-larger-catechism-9781601780850/) (Presbyterian & Reformed)
+- J.G. Vos, [_The Westminster Larger Catechism, a Commentary_](/notes/books/the-westminster-larger-catechism-9780875525143/) (Presbyterian & Reformed)
 - Thomas Ridgley, _A Body of Divinity_ (out of print)
 
 ### On the Westminster Confession
@@ -42,4 +42,4 @@ Says Chad, "It is a wonderful gift to be in a presbyterian church that does not 
 - Robert Shaw, _An Exposition of the Confession of Faith_, now titled _The Reformed Faith: An Exposition of the Westminster Confession of Faith_ (Christian Heritage, Christian Focus Publications)
 - R C Sproul, [_Truths We Confess: A Systematic Exposition of the Westminster Confession Of Faith_](/notes/books/truths-we-confess-9781642891621/) (Revised Edition, Ligonier Ministries)
 
-https://x.com/OrthodoxPC/status/1714385897578226173?s=20
+https://twitter.com/OrthodoxPC/status/1714385897578226173?s=20

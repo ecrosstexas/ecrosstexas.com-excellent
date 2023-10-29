@@ -32,5 +32,6 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - HC-80
 ---
 The controversial question and answer 80 of the Heidelberg Catechism, which condemns the “popish Mass,” seems to some a harsh statement in this document otherwise admired for its warm pastoral style and genial tone. Viewing this question and answer as unnecessarily polemical and injurious to the Catechism’s usefulness as a contemporary statement of the Christian faith, some Reformed denominations have removed it from the text. Cornel Venema provides historical background and biblical teaching to defend the Catechism’s inclusion of question and answer 80, arguing that it must be retained today, as it “reflects a fundamental evangelical passion to uphold the sufficiency of Christ’s one sacrifice on the cross and to condemn idolatry in whatever form.”

@@ -32,4 +32,5 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - sin
 ---

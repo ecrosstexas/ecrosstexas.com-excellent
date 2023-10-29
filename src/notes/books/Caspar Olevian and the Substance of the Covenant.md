@@ -32,6 +32,11 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - CasparOlevian
+  - justification
+  - sanctification
+  - christology
+  - doctrine-of-God
 ---
 This volume is the most comprehensive treatment of Olevian’s theology published to date. Reflecting an impressive breadth of research and depth of analysis, it delivers on its promise at the beginning to move beyond other works on Olevian’s covenant thought by placing his doctrine of the covenant in context of his theology as a whole. In doing so, it offers, one might say, a duplex beneficium. First, it secures Olevian’s reputation as a significant theologian in his own right and not simply as the failed reformer of Trier, the court preacher of Heidelberg, or an author of the Heidelberg Catechism. Second, it accurately identifies his place in the development of Reformed theology as it passed from the Age of Reformation to the Age of Orthodoxy.
 

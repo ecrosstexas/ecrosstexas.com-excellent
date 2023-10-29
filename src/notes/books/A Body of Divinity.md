@@ -20,7 +20,7 @@ kindle_link: ""
 audible_link: https://amzn.to/48Qph7o
 rhb_link: https://www.heritagebooks.org/products/a-body-of-divinity-hardcover-watson.html
 monergism_link: https://www.monergism.com/body-divinity-ebook
-description: 
+description: Thomas Watson’s book, A Body of Divinity is one of the first books published by the Banner of Truth Trust. This book has been one of the best sellers and consistently the most useful and influential of our publications.
 status: 
 readyear: 
 rating: ""

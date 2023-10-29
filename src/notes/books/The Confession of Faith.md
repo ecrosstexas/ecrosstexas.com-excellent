@@ -31,6 +31,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - WCF
 ---
 _The Confession of Faith_ stands as one of the three major doctrinal standards produced by the Westminster Assembly. It has become one of the most recognizable and influential confessions of the Reformed tradition. In his historical introduction, John Bower provides an extensive survey of the Confession’s creation, a formative process spanning the Assembly’s most active years of 1643–1648. The heart of the volume is Bower’s critical text of the Confession. 
 

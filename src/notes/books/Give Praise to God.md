@@ -8,6 +8,7 @@ editor:
   - Philip Graham Ryken
   - Derek W. H. Thomas
   - J. Ligon Duncan
+foreward: R. C. Sproul
 format: Hardcover
 language: en
 isbn: "9780875525532"

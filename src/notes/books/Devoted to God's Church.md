@@ -32,6 +32,8 @@ acquired_date: 2023-04-19
 acquired_source: Emma and Zach
 acquired_price: ""
 tags:
+  - fellowship
+  - church-membership
 ---
 Being a Christian is not an individualistic or isolated activity. Believing also involves belonging. Being a Christian, by definition, involves belonging to the church.   
   

@@ -1,6 +1,6 @@
 ---
-title: "The Glory and Fullness of Christ: In the Most Remarkable Types, Figures, and Allegories of the Old Testament"
-subtitle: ""
+title: The Glory and Fullness of Christ
+subtitle: In the Most Remarkable Types, Figures, and Allegories of the Old Testament
 series: 
 edition: 
 author:

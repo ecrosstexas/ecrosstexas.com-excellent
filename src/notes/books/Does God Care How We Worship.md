@@ -5,6 +5,8 @@ series: ""
 edition: ""
 author:
   - J. Ligon Duncan
+foreward:
+  - Mark Dever
 format: Paperback
 language: en
 isbn: "9781629957920"

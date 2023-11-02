@@ -2,7 +2,7 @@
 title: "Eric’s Digital Ranch"
 seo.title: "Welcome to Eric’s Digital Ranch"
 permalink: /index.html
-description: 'The personal website of Eric Wallace, a digital rancher in Plano, Texas.'
+description: 'The personal website of Eric T. Wallace, a digital rancher in Plano, Texas.'
 layout: 'home'
 blog:
   title: "Eric's Blog"

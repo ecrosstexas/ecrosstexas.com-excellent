@@ -87,7 +87,7 @@ For those of you familiar with the Hebrew Bible's three-fold division of law, pr
 
 ## Background
 
-Some of you know me better than others. Some of you may only know that I serve as a Ruling Elder here at Trinity. Some of you maybe wondering why am I, Eric Wallace, a Ruling Elder, even giving this sermon.
+Some of you know me better than others. Some of you may only know that I serve as a Ruling Elder here at Trinity. Some of you maybe wondering why am I, Eric T. Wallace, a Ruling Elder, even giving this sermon.
 
 That's ok, I understand.
 

@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=O2mecmDFE-Q
 - 1939 Ayatollah Khamenei
 - 1946 Tim Curry
 - 1968 Ashley Judd
-- 1972 Eric Wallace
+- 1972 Eric T. Wallace
 - 1978 James Franco
 
 ## Deaths

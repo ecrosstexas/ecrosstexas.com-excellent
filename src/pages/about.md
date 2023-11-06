@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: /about/index.html
-description: About ecrosstexas.com, a modern digital ranch created by Eric Wallace
+description: About ecrosstexas.com, a modern digital ranch created by Eric T. Wallace
 layout: page
 youtube: false
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 ecrosstexas is more than just a name – it's a statement about who I am and what I stand for. It represents my unique perspective on the world, and I hope that my website will be a place where others can come and learn from my experiences and interests.
 
-ecrosstexas.com is the personal website of [Eric Wallace](/eric/).
+ecrosstexas.com is the personal website of [Eric T. Wallace](/eric/).
 
 As things often do, it didn't start out that way. Back in late 2001, I had the idea to create a Slashdot-like site for Texas.  This is from my original about page back then:
 
@@ -17,9 +17,10 @@ As things often do, it didn't start out that way. Back in late 2001, I had the i
 
 Back then, "the texas blog" was the tag line for ecrosstexas.
 
-### Diclosures:
+### Disclosures:
+
 - As an Amazon Associate I earn from qualifying purchases. Links to Amazon use affiliate tracking codes.
-- 
+  
 <!--
 ## Inspirations:
 - https://www.zachleat.com/web/about/

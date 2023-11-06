@@ -2,7 +2,7 @@
   "name": "ecrosstexas.com-excellent",
   "version": "1.5.4",
   "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
-  "author": "Eric Wallace",
+  "author": "Eric T. Wallace",
   "license": "ISC",
   "main": ".eleventy.js",
   "engines": {

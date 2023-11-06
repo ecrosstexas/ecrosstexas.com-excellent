@@ -15,4 +15,4 @@ _What's a digital ranch?_ It's Texan for a digital garden, aka a commonplace boo
 
 ## My Podcast
 
-I've started a new podcast [Presbyterian and Reformed Texas](https://www.reformedtexas.com/).  Give it a listen!
+I've started a new podcast [Presbyterian and Reformed Texas.](https://www.reformedtexas.com/)  Give it a listen!

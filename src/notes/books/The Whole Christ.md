@@ -24,7 +24,7 @@ audible_link: https://amzn.to/3se2FgR
 rhb_link: https://www.heritagebooks.org/products/the-whole-christ-legalism-antinomianism-and-gospel-assurance-why-the-marrow-controversy-still-matters-ferguson.html
 publisher_link: https://www.crossway.org/books/the-whole-christ-hcj/
 monergism_link: 
-description: ""
+description: Since the days of the early church, Christians have wrestled with the relationship between law and gospel. If, as the apostle Paul says, salvation is by grace and the law cannot save, what relevance does the law have for Christians today?
 status: 
 readyear: ""
 rating: ""

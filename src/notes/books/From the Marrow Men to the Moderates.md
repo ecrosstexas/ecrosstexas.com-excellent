@@ -36,8 +36,8 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
-  - marrow
   - scottish-theology
+  - marrow-controversy
 ---
 One of Scotland’s most popular theologians traces the theological debates and disagreements of the eighteenth century
 

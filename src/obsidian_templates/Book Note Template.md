@@ -20,6 +20,7 @@ amazon_link: ""
 kindle_link: ""
 audible_link: ""
 rhb_link: ""
+publisher_link: 
 monergism_link: 
 description: ""
 status: 

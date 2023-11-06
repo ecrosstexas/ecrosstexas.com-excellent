@@ -12,3 +12,7 @@ blog:
 ## Welcome to Eric's Digital Ranch
 
 _What's a digital ranch?_ It's Texan for a digital garden, aka a commonplace book, aka a modern day cabinet of curiosities. Here y'all can follow my [blog](/blog/), links, [notes](/notes/), photos, and [more](/sitemap/).
+
+## My Podcast
+
+I've started a new podcast [Presbyterian and Reformed Texas](https://www.reformedtexas.com/).  Give it a listen!

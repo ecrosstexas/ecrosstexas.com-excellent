@@ -30,6 +30,7 @@
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "airtable": "^0.12.1",
+    "cloudinary": "^1.41.0",
     "cross-env": "^7.0.3",
     "eleventy-plugin-embed-everything": "^1.15.1",
     "eleventy-plugin-webmentions": "^2.0.0",

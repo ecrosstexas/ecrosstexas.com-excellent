@@ -43,17 +43,22 @@ preloads:
                             <dd>{{ foreward }}</dd>
                         </div>
                         {% endif %}
+                        {% if original_copyright %}
                         <div>
-                            <dt>Publisher</dt>
-                            <dd>{{ publisher }}{% if copyright %}, {{ copyright }}{% endif %}</dd>
-                        </div>
-                        {% if release_date %}
-                        <div>
-                            <dt>Release Date</dt>
-                            <dd>{% set definedDate = release_date %} {% include "partials/release-date.njk" %}</dd>
-                            <dd>{{ book.data.dateString }}</dd>
+                            <dt>Originally Published</dt>
+                            <dd>{{ original_copyright }}</dd>
                         </div>
                         {% endif %}
+                        {% if copyright %}
+                        <div>
+                            <dt>Copyright</dt>
+                            <dd>{{ copyright }}</dd>
+                        </div>
+                        {% endif %}
+                        <div>
+                            <dt>Publisher</dt>
+                            <dd>{{ publisher }}</dd>
+                        </div>
                         {% if isbn %}
                         <div>
                             <dt>ISBN</dt>
@@ -66,10 +71,24 @@ preloads:
                             <dd>{{ format }}</dd>
                         </div>
                         {% endif %}
+                        {% if release_date %}
+                        <div>
+                            <dt>Release Date</dt>
+                            <dd>{% set definedDate = release_date %} {% include "partials/release-date.njk" %}</dd>
+                            <dd>{{ book.data.dateString }}</dd>
+                        </div>
+                        {% endif %}
+                        
                         {% if pages %}
                         <div>
                             <dt>Pages</dt>
                             <dd>{{ pages }}</dd>
+                        </div>
+                        {% endif %}
+                        {% if list_price %}
+                        <div>
+                            <dt>List Price</dt>
+                            <dd>${{ list_price }}</dd>
                         </div>
                         {% endif %}
                         {% if website %}

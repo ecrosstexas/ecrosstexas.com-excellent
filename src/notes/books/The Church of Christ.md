@@ -1,13 +1,13 @@
 ---
 title: The Church of Christ
-subtitle: A TREATISE ON THE NATURE, POWERS, ORDINANCES, DISCIPLINE, AND GOVERNMENT OF THE CHRISTIAN CHURCH
+subtitle: A Treatise On The Nature, Powers, Ordinances, Discipline, And Government Of The Christian Church
 series: ""
 edition: ""
 author:
   - James Bannerman
 foreward:
   - Carl R. Trueman
-format: Hardcover
+format: Cloth-bound
 language: en
 isbn: "9781848715028"
 asin: ""
@@ -22,6 +22,7 @@ amazon_link: https://amzn.to/3M14C72
 kindle_link: 
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/the-church-of-christ-bannerman.html
+publisher_link: https://banneroftruth.org/us/store/theology-books/church-christ/
 monergism_link: https://www.monergism.com/church-christ-ebook
 description: James Bannerman’s The Church of Christ is one of the key historic texts of the doctrine of the church. Few will agree with everything the author has to say, but as Carl Trueman states in his foreword, ‘the great thing about the book is that it will stimulate the reader to reflect on the nature of the church in a profoundly biblical and historically sensitive way’.
 status: 

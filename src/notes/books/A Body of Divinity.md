@@ -5,11 +5,12 @@ series: ""
 edition: ""
 author:
   - Thomas Watson
-format: Hardcover
+format: Cloth-bound
 language: en
 isbn: "9780851511443"
 asin: 
 publisher: Banner of Truth
+original_copyright: "1692"
 copyright: "1958"
 release_date: 1958-10-01
 pages: "316"
@@ -35,6 +36,7 @@ acquired_price: ""
 tags:
   - ThomasWatson
   - WSC
+  - catechisms
 ---
 ## Description
 

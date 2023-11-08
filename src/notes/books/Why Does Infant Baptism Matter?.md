@@ -1,5 +1,5 @@
 ---
-title: Why Does Infant Baptism Matter?
+title: Why Does Infant Baptism Matter
 subtitle: ""
 series: Cultivating Biblical Godliness
 edition: ""

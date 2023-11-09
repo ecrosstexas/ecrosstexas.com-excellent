@@ -20,6 +20,7 @@ amazon_link: https://amzn.to/470bWYG
 kindle_link: https://amzn.to/3Qp3bl8
 audible_link: ""
 rhb_link: ""
+publisher_link: https://www.prpbooks.com/book/why-johnny-can-t-preach
 monergism_link: 
 description: "T. David Gordon has identified a problem, one that affects us all and needs fixing. Our preaching is just not communicating properly anymore. Fortunately, Gordon refuses to stand by and watchand we should too. In this short book, he provides a concise, in-depth look at the causes of this failure and also shows us how to make things better."
 status: 

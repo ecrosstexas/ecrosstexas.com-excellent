@@ -11,6 +11,7 @@ rating: ""
 recommended: ""
 tags:
   - comedy
+  - NYC
 ---
 ## Season 1
 https://www.youtube.com/watch?v=fOmwkTrW4OQ

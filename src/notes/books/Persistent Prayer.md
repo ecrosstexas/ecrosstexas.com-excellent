@@ -14,12 +14,13 @@ publisher: P&R Publishing
 copyright: "2021"
 release_date: 2021-09-22
 pages: "160"
-list_price: ""
+list_price: "14.99"
 website: ""
 amazon_link: https://amzn.to/498ENvE
 kindle_link: https://amzn.to/3SiIkBE
 audible_link: https://amzn.to/49mXJXI
 rhb_link: https://www.heritagebooks.org/products/persistent-prayer-richard.html
+publisher_link: https://www.prpbooks.com/book/persistent-prayer
 monergism_link: 
 description: Informative, encouraging, and practical, this brief book will serve as a helpful primer for pastors, elders, study groups, and Christians who seek encouragement and instruction on prayer and its blessings. As do all books in the Blessings of the Faith series, this short volume concludes with answers to frequently asked and pertinent questions on the topic.
 status: 

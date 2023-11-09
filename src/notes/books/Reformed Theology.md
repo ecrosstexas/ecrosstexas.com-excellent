@@ -16,12 +16,13 @@ publisher: P&R Publishing
 copyright: "2023"
 release_date: 2023-04-26
 pages: "140"
-list_price: ""
+list_price: "15.99"
 website: ""
 amazon_link: https://amzn.to/476TCwL
 kindle_link: https://amzn.to/3Fwrc3I
 audible_link: https://amzn.to/47qHNSz
 rhb_link: https://www.heritagebooks.org/products/reformed-theology-master.html
+publisher_link: https://www.prpbooks.com/book/reformed-theology
 monergism_link: 
 description: Have you ever wondered what Reformed theology really is? Ask for a definition and you’ll get many different answers. This brief book serves as a helpful primer for church leaders, study groups, and individuals who want a well-rounded and concise overview. Learn what makes Reformed theology distinctive and how its specific doctrines apply to everyday life.
 status: 

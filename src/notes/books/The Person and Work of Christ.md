@@ -1,8 +1,8 @@
 ---
 title: The Person and Work of Christ
 subtitle: ""
-series: ""
-edition: Revised
+series: The Classic Warfield Collection
+edition: Revised and Enhanced
 author:
   - Benjamin B. Warfield
 editor:
@@ -14,18 +14,18 @@ language: en
 isbn: "9781629958972"
 asin: ""
 publisher: P&R Publishing
-copyright: 
-release_date: 
-pages: ""
-list_price: ""
+copyright: "2023"
+release_date: 2023-05-10
+pages: "752"
+list_price: "49.99"
 website: ""
 amazon_link: ""
 kindle_link: ""
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/the-person-and-work-of-christ-revised-hc-warfield.html
-publisher_link: 
+publisher_link: https://www.prpbooks.com/book/the-person-and-work-of-christ-revised-and-enhanced
 monergism_link: 
-description: ""
+description: In The Person and Work of Christ, Warfield demonstrates that 'it is no more possible to have a Christianity without an atoning Christ than it is to have a Christianity without a divine Christ.'
 status: 
 readyear: ""
 rating: ""

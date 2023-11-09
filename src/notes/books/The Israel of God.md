@@ -20,6 +20,7 @@ kindle_link: ""
 audible_link: ""
 ibooks_link: ""
 rhb_link: https://www.heritagebooks.org/products/the-israel-of-god-yesterday-today-and-tomorrow-robertson.html
+publisher_link: https://www.prpbooks.com/book/israel-of-god-the
 description: "Robertson offers a look at the questions: 'Who is the Israel of God today?' and 'What is their relationship to the Promised Land, and to Israels worship, lifestyle, and future?'"
 status: ""
 readyear: ""
@@ -34,10 +35,12 @@ acquired_price: "12.00"
 tags:
   - Israel
   - OPalmerRobertson
+  - eschatology
 ---
 
 ## Description
 
+Robertson offers a look at the questions: "Who is the Israel of God today?" and "What is their relationship to the Promised Land, and to Israel's worship, lifestyle, and future?"
 ## Notes
 
 ### Table of Contents:

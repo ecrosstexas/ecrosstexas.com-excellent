@@ -8,7 +8,8 @@ editor:
   - Philip Graham Ryken
   - Derek W. H. Thomas
   - J. Ligon Duncan
-foreward: R. C. Sproul
+foreward:
+  - R. C. Sproul
 format: Hardcover
 language: en
 isbn: "9780875525532"
@@ -23,6 +24,7 @@ amazon_link: https://amzn.to/45w4Rha
 kindle_link: https://amzn.to/45wz93q
 audible_link: ""
 rhb_link: ""
+publisher_link: https://www.prpbooks.com/book/give-praise-to-god
 monergism_link: 
 description: Give Praise to God continues the legacy of James Montgomery Boice by examining the biblical foundations for worship, the warranted elements of corporate worship, worship in the home and in all of life, and worship throughout the ages.
 status: 

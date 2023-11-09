@@ -12,6 +12,7 @@ rating: ""
 recommended: ""
 tags:
   - courtroom
+  - LA
 ---
 Mickey Haller
 

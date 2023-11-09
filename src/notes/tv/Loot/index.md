@@ -1,8 +1,8 @@
 ---
-title: "Loot"
+title: Loot
 subtitle: ""
-network: "Apple TV+"
-airdates: "2022-"
+network: Apple TV+
+airdates: 2022-
 seasons: "1"
 website: ""
 wikipedia: ""
@@ -10,7 +10,8 @@ description: ""
 rating: ""
 recommended: ""
 tags:
-    - comedy
+  - comedy
+  - LA
 ---
 
 Molly (Maya Rudolph) 

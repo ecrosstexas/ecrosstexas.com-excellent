@@ -1,8 +1,8 @@
 ---
 title: The Inspiration and Authority of the Bible
 subtitle: ""
-series: ""
-edition: Revised
+series: The Classic Warfield Collection
+edition: Revised and Enhanced
 author:
   - Benjamin B. Warfield
 editor:
@@ -14,18 +14,18 @@ language: en
 isbn: "9781629958965"
 asin: ""
 publisher: P&R Publishing
-copyright: 
-release_date: 
-pages: ""
+copyright: "2023"
+release_date: 2023-05-10
+pages: "656"
 list_price: "49.99"
 website: ""
 amazon_link: ""
 kindle_link: ""
 audible_link: ""
 rhb_link: https://heritagebooks.org/products/the-inspiration-and-authority-of-the-bible-revised-edition-warfield.html
-publisher_link: 
+publisher_link: https://www.prpbooks.com/book/the-inspiration-and-authority-of-the-bible-revised-and-enhanced
 monergism_link: 
-description: ""
+description: In The Inspiration and Authority of the Bible, Warfield says that the Bible is 'an oracular book . . . the Word of God in such a sense that whatever it says God says' that all its affirmations are 'to be esteemed as the utterance of God, of infallible truth and authority.'
 status: 
 readyear: ""
 rating: ""
@@ -38,6 +38,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - Scripture
 ---
 Princeton theologian B. B. Warfield was a watchman on the wall of orthodoxy. His temperament, training, and talent—together with his deep love for Christ and amazing breadth of knowledge—shaped him into the twentieth century’s greatest defender of the faith. His writings have been studied with profit for well over a hundred years—a tribute to his clear, careful, cogent, gospel-centered exposition of orthodox Christianity, which he called “the redemptive religion” and which he fearlessly defended.
 

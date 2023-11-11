@@ -22,6 +22,7 @@ website: ""
 amazon_link: https://amzn.to/47qRzEf
 kindle_link: https://amzn.to/46NfdL6
 audible_link: ""
+video_study_link: https://store.ligonier.org/christianity-and-liberalism-dvd
 rhb_link: https://www.heritagebooks.org/products/christianity-and-liberalism-new-edition-foreword-by-carl-trueman-machen.html
 monergism_link: https://www.monergism.com/christianity-and-liberalism
 description: ""

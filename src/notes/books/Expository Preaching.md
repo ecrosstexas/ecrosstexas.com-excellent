@@ -15,15 +15,16 @@ asin: ""
 publisher: P&R Publishing
 copyright: "2021"
 release_date: 2021-09-22
-pages: "144"
+pages: "160"
 list_price: ""
 website: ""
 amazon_link: https://amzn.to/47aIvmL
 kindle_link: https://amzn.to/3tQ9QfA
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/expository-preaching-strain.html
+publisher_link: https://www.prpbooks.com/book/expository-preaching
 monergism_link: 
-description: ""
+description: Did you know that the preaching of the Word of God has unique sin-killing, life-giving power—and brings great blessing to those who hear and receive it? In this helpful primer for congregations, Pastor David Strain establishes the basic biblical and theological foundations of preaching, highlights historical examples, and responds to questions, fears, and objections about expositional preaching in a Reformed church.
 status: 
 readyear: ""
 rating: ""
@@ -35,6 +36,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - preaching
 ---
 Did you know that the preaching of the Word of God has unique sin-killing, life-giving power—and brings great blessing to those who hear and receive it? In this helpful primer for congregations, Pastor David Strain establishes the basic biblical and theological foundations of preaching, highlights historical examples, and responds to questions, fears, and objections about expositional preaching in a Reformed church.
 

@@ -13,12 +13,13 @@ publisher: P&R Publishing
 copyright: "2011"
 release_date: 2011-11-01
 pages: "208"
-list_price: "16.99"
+list_price: "17.99"
 website: ""
 amazon_link: https://amzn.to/3M4BKdU
 kindle_link: https://amzn.to/4990vzI
 audible_link: ""
 rhb_link: ""
+publisher_link: https://www.prpbooks.com/book/how-jesus-runs-the-church
 description: Why should we be church members? How do church officers reflect Jesus’ reign over us? Where do the church’s responsibilities begin and end? Where do ours? These, and other important questions, are answered in Guy Prentiss Water’s vital examination of How Jesus Runs the Church.
 status: read
 readyear: 

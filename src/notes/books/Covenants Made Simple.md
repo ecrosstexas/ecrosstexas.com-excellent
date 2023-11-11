@@ -12,7 +12,7 @@ asin: ""
 publisher: P&R Publishing
 copyright: "2014"
 release_date: 2014-12-10
-pages: "184"
+pages: "192"
 list_price: "14.99"
 website: ""
 amazon_link: https://amzn.to/3PY8ZAC
@@ -20,6 +20,7 @@ kindle_link: https://amzn.to/46NmWs3
 audible_link: https://amzn.to/3rMOmj5
 ibooks_link: ""
 rhb_link: https://www.heritagebooks.org/products/covenants-made-simple-understanding-gods-unfolding-promises-to-his-people-rhodes.html
+publisher_link: https://www.prpbooks.com/book/covenants-made-simple
 description: Jonty Rhodes guides us in an engaging study of covenant theology and why it matters. With clarity and wit, he shows us how covenants carry the Bible’s story from start to finish and ultimately give root to the gospel of salvation by grace. Beginning with Adam in the garden of Eden, and ending with Jesus, our risen Covenant King, Rhodes illuminates the good news of a promise-making, promise-keeping God.
 status: ""
 readyear: ""

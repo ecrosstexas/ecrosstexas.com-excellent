@@ -12,6 +12,7 @@ recommended: ""
 tags:
   - comedy-drama
   - BruceWillis
+  - LA
 ---
 
 Maddie and David are now on Hulu!

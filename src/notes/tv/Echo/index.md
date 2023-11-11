@@ -12,6 +12,7 @@ tags:
   - action
   - adventure
   - crime
+  - NYC
 rating: TV-MA
 ---
 Just can't get enough of Vincent D'Onofrio as Wilson Fisk AKA Kingpin.

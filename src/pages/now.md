@@ -20,7 +20,7 @@ tags:
 - Volunteering Youth Ministry
 
 ## Hockey
-- Coaching 12u 3x3 hockey
-- Playing for Sirius Majors
+- Coaching 14u hockey in the DSMHL
+- Playing for Sirius Majors in the SSHL
 
 Inspired by Derek Sivers and The [/Now Movement](https://nownownow.com/about)

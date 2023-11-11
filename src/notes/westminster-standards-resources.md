@@ -18,6 +18,7 @@ tags:
 
 ### On the Shorter Catechism
 
+- William Boekestein, Jonathan Landry Cruse, Andrew J. Miller, [Glorifying and Enjoying God](/notes/books/glorifying-and-enjoying-god-9798886860573/) (Reformation Heritage Books)
 - Thomas Watson, [_A Body of Divinity_](/notes/books/a-body-of-divinity-9780851511443/) (The Banner of Truth Trust)
 - Thomas Watson, [_The Ten Commandments_](/notes/books/the-ten-commandments-9780851516813/) (The Banner Truth Trust)
 - Thomas Watson, [_The Lord's Prayer_](/notes/books/the-lords-prayer-9780851516646/) (The Banner of Truth Trust)

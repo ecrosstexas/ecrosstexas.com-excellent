@@ -5,11 +5,14 @@ series: ""
 edition: ""
 author:
   - John Murray
-format: 
+foreward:
+  - Carl R. Trueman
+format: Paperback
 language: en
 isbn: "9780802873095"
 asin: 
 publisher: Eerdmans
+original_copyright: "1955"
 copyright: "2015"
 release_date: 2015-08-15
 pages: "215"
@@ -35,3 +38,4 @@ tags:
   - redemption
   - atonement
 ---
+Originally published in 1955 and reprinted dozens of times over the years, John Murray’s Redemption Accomplished and Applied systematically explains the two sides of redemption -- its accomplishment through Christ’s atonement and its application to the lives of believers.

@@ -43,3 +43,6 @@ tags:
   - polity
 ---
 Few pastors leave as indelible a legacy as Thomas Witherow did in the north of Ireland during the second half of the nineteenth century. A faithful minister, husband, father, author, and professor, Witherow's defense of Presbyterianism remains one of the most influential of its kind. Collecting Witherow's most important works on the topic―The Apostolic Church, Scriptural Baptism, and The Sabbath―this volume presents a cohesive, trenchant, and imitable apology for the Presbyterian tradition. Preceding the three works is A Prince of Irish Presbyterianism, a new and illuminating biography of Witherow by volume editor Jonathan Gibson.
+
+https://twitter.com/brothernelson/status/1724154404348002396?s=20
+

@@ -42,3 +42,6 @@ With the torrent of publications on the use of the Old Testament in the New Test
 This definitive resource covers a range of interpretive topics and includes summary articles on each biblical book and numerous themes. It also unpacks concepts mentioned in the _CNTUOT_, demonstrates how the Old Testament uses the Old Testament, and addresses a wide range of biblical-theological, hermeneutical, and exegetical topics.  
   
 This handy reference book is for all serious students of the Bible as they study how and why Old Testament texts reappear and are reappropriated throughout the Bible.
+
+
+https://twitter.com/AndyNaselli/status/1721966873380622828?s=20

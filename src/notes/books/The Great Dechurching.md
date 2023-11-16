@@ -65,3 +65,5 @@ This book gives the church in America its first ever deep dive into the dechurch
 - [5 Misconceptions About Dechurching in America](https://www.thegospelcoalition.org/article/misconceptions-dechurching/) at TGC.
 - [Dechurching Toolkit for Churches](https://dechurching.com)
 - [The Keller Center Online Cohort: The Great Dechurching](https://www.thegospelcoalition.org/cohort/the-great-dechurching/)
+
+https://twitter.com/guiltgracepod/status/1725151736594362721?s=20

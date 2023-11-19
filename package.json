@@ -1,7 +1,7 @@
 {
   "name": "ecrosstexas.com-excellent",
-  "version": "1.5.4",
-  "description": "Eleventy starter based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
+  "version": "1.6.2",
+  "description": "My personal website forked from Lene Saile's Eleventy Excellent which is based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
   "author": "Eric T. Wallace",
   "license": "ISC",
   "main": ".eleventy.js",
@@ -43,7 +43,7 @@
     "cssnano": "^6.0.0",
     "dayjs": "^1.11.5",
     "dotenv": "^16.0.3",
-    "esbuild": "^0.17.0",
+    "esbuild": "^0.19.0",
     "html-minifier-terser": "^7.1.0",
     "lodash": "^4.17.21",
     "luxon": "^3.3.0",

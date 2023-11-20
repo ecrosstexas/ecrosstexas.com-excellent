@@ -12,14 +12,14 @@ language: en
 isbn: "9781629955315"
 asin: 
 publisher: P&R Publishing
-copyright: 
+copyright: "2023"
 release_date: 2023-06-21
 pages: "176"
 list_price: "18.99"
 website: ""
-amazon_link: ""
-kindle_link: ""
-audible_link: ""
+amazon_link: https://amzn.to/47I2nO3
+kindle_link: https://amzn.to/47I2c5l
+audible_link: https://amzn.to/3QDKiK8
 rhb_link: ""
 publisher_link: https://www.prpbooks.com/book/the-shepherds-toolbox
 monergism_link: 

@@ -1,28 +1,29 @@
 ---
 title: Human Nature in its Fourfold State
-subtitle: ""
+subtitle: Of Primitive Integrity, Entire Depravity, Begun Recovery, And Consumate Happiness Or Misery
 series: ""
 edition: ""
 author:
   - Thomas Boston
 editor: 
 foreward: 
-format: Hardcover
+format: Cloth-bound
 language: en
 isbn: "9780851515595"
 asin: ""
-publisher: Banner of Truth Trust
-copyright: 
-release_date: 
-pages: ""
-list_price: ""
+publisher: Banner of Truth
+original_copyright: "1720"
+copyright: "1964"
+release_date: 1964-06-01
+pages: "512"
+list_price: "33.00"
 website: ""
-amazon_link: ""
+amazon_link: https://amzn.to/3sG6MSZ
 kindle_link: ""
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/human-nature-in-its-fourfold-state-boston.html
-publisher_link: 
-monergism_link: 
+publisher_link: https://banneroftruth.org/us/store/theology-books/human-nature-in-its-fourfold-state/
+monergism_link: https://www.monergism.com/human-nature-its-fourfold-state-ebook
 description: ""
 status: 
 readyear: ""
@@ -30,13 +31,16 @@ rating: ""
 recommended: false
 library: false
 kindle_library: false
-wishlist: false
+wishlist: true
 acquired: 
 acquired_date: 
 acquired_source: 
 acquired_price: ""
 tags:
   - Puritans
+  - sin
+  - free-will
+  - human-nature
 ---
 **Description**
 

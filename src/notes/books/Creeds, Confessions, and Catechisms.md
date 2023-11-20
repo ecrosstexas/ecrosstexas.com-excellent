@@ -6,7 +6,7 @@ edition: Chad Van Dixhoorn
 author: 
 editor: 
 foreward: 
-format: Cloth Over Board
+format: Cloth-over-Board
 language: en
 isbn: "9781433579875"
 asin: ""

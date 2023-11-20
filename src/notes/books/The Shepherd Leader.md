@@ -18,9 +18,9 @@ release_date: 2010-02-04
 pages: "288"
 list_price: "17.99"
 website: ""
-amazon_link: ""
-kindle_link: ""
-audible_link: ""
+amazon_link: https://amzn.to/40O14uI
+kindle_link: https://amzn.to/46mTUyZ
+audible_link: https://amzn.to/3uttIVU
 rhb_link: ""
 publisher_link: https://www.prpbooks.com/book/shepherd-leader-the
 monergism_link: 

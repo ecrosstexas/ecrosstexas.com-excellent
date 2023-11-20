@@ -6,7 +6,7 @@ edition: ""
 author:
   - Jonathan Gibson
 editor: 
-format: Cloth Over Board
+format: Cloth-over-Board
 language: en
 isbn: "9781433578199"
 asin: ""

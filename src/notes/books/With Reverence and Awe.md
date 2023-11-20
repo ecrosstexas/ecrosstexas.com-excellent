@@ -18,7 +18,7 @@ release_date: 2002-05-21
 pages: "208"
 list_price: "16.99"
 website: ""
-amazon_link: ""
+amazon_link: https://amzn.to/47A7WPj
 kindle_link: ""
 audible_link: ""
 rhb_link: ""
@@ -37,6 +37,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - worship
 ---
 ### About
 

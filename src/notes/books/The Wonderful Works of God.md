@@ -7,26 +7,26 @@ author:
   - Herman Bavinck
 editor: 
 foreward: 
-format: Hardcover
+format: Cloth-over-Board
 language: en
 isbn: "9781733627221"
 asin: ""
 publisher: Westminster Seminary Press
-original_copyright: 
-copyright: 
-release_date: 
-pages: ""
+original_copyright: "1956"
+copyright: "2020"
+release_date: 2020-03-23
+pages: "695"
 list_price: ""
 website: ""
-amazon_link: ""
-kindle_link: ""
+amazon_link: https://amzn.to/3QNjya9
+kindle_link: https://amzn.to/40JyWsG
 ibooks_link: 
 audible_link: ""
 rhb_link: https://www.heritagebooks.org/products/the-wonderful-works-of-god-bavinck.html
-publisher_link: 
+publisher_link: https://www.wtsbooks.com/products/the-wonderful-works-of-god-9781733627221
 monergism_link: 
 video_study_link: 
-description: ""
+description: Under the title of Magnalia Dei, the wonderful works of God, I wish to give a simple explanation of the Christian faith in a book of modest scope, as confessed by the Reformed churches…
 status: 
 readyear: ""
 rating: ""
@@ -41,6 +41,7 @@ acquired_date:
 acquired_source: 
 acquired_price: ""
 tags:
+  - systematic-theology
 ---
 **About**
 
@@ -83,5 +84,10 @@ _Under the title of Magnalia Dei, the wonderful works of God, I wish to give a s
 23. The Church of Christ
 24. Eternal Life
 
+https://youtu.be/D6IuayFNzOc
+
+﻿**Free Download:  [Discussion Guide](https://cdn.shopify.com/s/files/1/0021/5210/3983/files/The_Wonderful_Works_of_God_Discussion_Guide.pdf?47876 "The Wonderful Works of God Discussions Guide PDF Download")**[](https://cdn.shopify.com/s/files/1/0021/5210/3983/files/The_Wonderful_Works_of_God_Discussion_Guide.pdf?47876 "The Wonderful Works of God Discussions Guide PDF Download")(PDF)
+
+**Article:**  **[The Best Single-Volume Reformed Systematic Theology You've Never Heard Of](https://www.thegospelcoalition.org/reviews/best-reformed-systematic-theology-bavinckwonderful-works-god/ "The Best Single-Volume Reformed Systematic Theology You’ve Never Heard Of")** (TGC)
 
 https://twitter.com/refsojourner/status/1724878129330589952?s=20

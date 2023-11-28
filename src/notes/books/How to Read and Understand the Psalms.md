@@ -72,3 +72,6 @@ _Appendix 3: Summary of Psalm Forms_
 _Bibliography  
 General Index_  
 _Scripture Index_
+
+
+https://twitter.com/Heidelblog01/status/1726480628747538562?s=20

@@ -19,8 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Format for dispalying 10 recent blog posts on the home page...adding the description.
-- Older posts moved into yearly archvie folders.
+- Format for displaying 10 recent blog posts on the home page...adding the description.
+- Older posts moved into yearly archive folders.
 - Changelog published (missing lots of data).
 
 ## [0.1.0] - 2023-04-14

@@ -14,7 +14,7 @@ language: en
 isbn: "9781601786852"
 asin: ""
 publisher: Reformation Heritage Books
-original_copyright: "2019"
+original_copyright: ""
 copyright: "2019"
 release_date: 2019-03-03
 pages: "128"
@@ -23,7 +23,7 @@ website: ""
 amazon_link: https://amzn.to/3RwCElg
 kindle_link: https://amzn.to/3TwUx6e
 ibooks_link: 
-audible_link: ""
+audible_link: https://amzn.to/483FhC6
 rhb_link: https://www.heritagebooks.org/products/a-certain-sound-a-primer-on-open-air-preaching-denton-smith.html
 publisher_link: 
 monergism_link: 

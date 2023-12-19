@@ -80,3 +80,11 @@
 <link rel="icon" type="image/png" href="{{ '/favicon-32x32.png' | url }}" sizes="32x32" />
 <link rel="icon" type="image/png" href="{{ '/favicon-16x16.png' | url }}" sizes="16x16" />
 <link rel="manifest" href="{{ '/site.webmanifest' | url }}" />
+
+<!-- This goes in your <head> section -->
+<script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@1.0.1/snow-fall.js"></script>
+
+<script type="module" defer>
+const snow = document.createElement('snow-fall');
+document.body.prepend(snow)
+</script>

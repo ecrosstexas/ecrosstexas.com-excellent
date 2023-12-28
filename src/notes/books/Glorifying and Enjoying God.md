@@ -28,11 +28,11 @@ status:
 readyear: ""
 rating: ""
 recommended: false
-library: false
-wishlist: true
-acquired: 
-acquired_date: 
-acquired_source: 
+library: true
+wishlist: false
+acquired: Gift
+acquired_date: 2023-12-25
+acquired_source: Emma and Zach
 acquired_price: ""
 tags:
   - WSC

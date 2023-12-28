@@ -14,17 +14,17 @@ isbn: "9781596381414"
 asin: ""
 publisher: P&R Publishing
 original_copyright: 
-copyright: 
-release_date: 
-pages: ""
+copyright: "2009"
+release_date: 2009-11-01
+pages: "304"
 list_price: ""
 website: ""
-amazon_link: ""
+amazon_link: https://amzn.to/3RXoScP
 kindle_link: ""
 ibooks_link: 
 audible_link: ""
 rhb_link: ""
-publisher_link: 
+publisher_link: https://www.prpbooks.com/book/elder-the
 monergism_link: 
 video_study_link: 
 description: ""

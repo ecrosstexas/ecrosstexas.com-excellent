@@ -75,4 +75,7 @@ Chapter 9: Where He Invites
    
 _Acknowledgments  
 General Index  
-Scripture Index_
+Scripture Index
+
+## Reviews
+- Heidelblog Review: [_The Lord of Psalm 23: Jesus Our Shepherd, Companion, and Host_ By David Gibson](https://heidelblog.net/2024/01/review-the-lord-of-psalm-23-jesus-our-shepherd-companion-and-host-by-david-gibson/)

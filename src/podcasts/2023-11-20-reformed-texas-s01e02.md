@@ -1,16 +1,17 @@
 ---
-title: "I'm not saying Tex-Mex is bad with Joshua Torrey"
-permalink: "/podcast/reformed-texas-s01e02-with-joshua-torrey/index.html"
-description: "Get to know Joshua Torrey, Ruling Elder at Redeemer Presbyterian Church (PCA) in Austin, Texas."
+title: I'm not saying Tex-Mex is bad with Joshua Torrey
+permalink: /podcast/reformed-texas-s01e02-with-joshua-torrey/index.html
+description: Get to know Joshua Torrey, Ruling Elder at Redeemer Presbyterian Church (PCA) in Austin, Texas.
 date: 2023-11-20T06:00:00
 layout: post
 category: post
 blockquote: false
 youtube: false
 tags:
-    - JoshuaTorrey
-    - overtures
-    - RPCATX
+  - JoshuaTorrey
+  - overtures
+  - RPCATX
+  - AustinTX
 ---
 
 <div id='buzzsprout-small-player-artist-eric-t-wallace-with-joshua-torrey'></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2271703.js?artist=Eric+T.+Wallace+with+Joshua+Torrey&container_id=buzzsprout-small-player-artist-eric-t-wallace-with-joshua-torrey&player=small'></script>

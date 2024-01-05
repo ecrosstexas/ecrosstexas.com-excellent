@@ -22,8 +22,8 @@ ibooks_link: ""
 rhb_link: ""
 publisher_link: https://www.crossway.org/books/impossible-christianity-hcj/
 description: Bestselling Author Kevin DeYoung Offers Hope for Those Who Feel Like Christianity Has Become Hopelessly Crushing and Complex
-status: reading
-readyear: ""
+status: read
+readyear: "2023"
 rating: ""
 recommended: true
 library: true

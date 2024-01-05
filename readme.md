@@ -2,8 +2,12 @@
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
+
+![GitHub Repo stars](https://img.shields.io/github/stars/madrilene/eleventy-excellent?style=flat-square&logo=github&logoColor=white&label=GitHub%20stars)
+[![Follow @lene@front-end.social](https://img.shields.io/mastodon/follow/109292536543732634?domain=https%3A%2F%2Ffront-end.social&style=flat-square&logo=Mastodon&logoColor=white&labelColor=%235B4BE1)](https://front-end.social/@lene)
+
+
 If you end up using this starter, feel free to send me a link, I'd love to see it!
-Also let me know if you miss any features. Currently in planning: dark mode, inlining CSS and JS.
 
 - [Eleventy Excellent](#eleventy-excellent)
   - [Preview](#preview)
@@ -36,6 +40,7 @@ https://eleventy-excellent.netlify.app/
 - 301 redirects for Netlify _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-301-redirects/))_
 - Automatically generated Open Graph images for blog posts _([see blog post](https://eleventy-excellent.netlify.app/blog/open-graph-images/))_
 - More features in seperate demo branches _([see blog post](https://eleventy-excellent.netlify.app/blog/demo-pages/))_
+- How Tailwind CSS is used here _([see blog post](https://eleventy-excellent.netlify.app/blog/what-is-tailwind-css-doing-here/))_
 - SEO basics (XML-sitemap, metadata)
 - dayjs handling dates & times
 - Bundling via esbuild

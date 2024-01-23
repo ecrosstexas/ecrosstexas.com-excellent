@@ -24,11 +24,12 @@ ibooks_link: ""
 rhb_link: https://www.heritagebooks.org/products/five-lies-of-our-anti-christian-age-butterfield.html
 publisher_link: https://www.crossway.org/books/five-lies-of-our-anti-christian-age-hcj/
 description: Modern culture is increasingly outspoken against a biblical understanding of what it means to be a woman. Even some Christians, swayed by the LGBTQ+ movement, have rejected God’s word on issues of sexuality and gender in favor of popular opinion. In light of these pressures, it’s more important than ever to help women see the truth about who God created them to be.
-status: ""
+status: reading
 readyear: ""
 rating: ""
 recommended: true
 library: true
+library_audio: true
 wishlist: false
 acquired: Purchase
 acquired_date: 2023-10-13

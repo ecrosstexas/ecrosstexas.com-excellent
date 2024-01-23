@@ -19,8 +19,8 @@ pages: "256"
 list_price: "30.00"
 website: ""
 amazon_link: https://amzn.to/408ephp
-kindle_link: ""
-audible_link: ""
+kindle_link: https://amzn.to/3vU6ysv
+audible_link: https://amzn.to/48FSQbx
 rhb_link: https://heritagebooks.org/products/glorifying-and-enjoying-god-52-devotions-through-the-westminster-shorter-catechism-boekestein-cruse-miller.html
 monergism_link: 
 description: In fifty-two brief chapters on the Westminster Shorter Catechism, you will learn how true joy is found in the God of our salvation. Written by three Presbyterian pastors, this devotional will help you and your family glorify God together.

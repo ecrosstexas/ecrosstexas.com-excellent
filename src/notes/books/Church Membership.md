@@ -40,6 +40,6 @@ wishlist: true
 acquired: 
 acquired_date: 
 acquired_source: 
-acquired_price: ""
+acquired_price: 
 tags:
 ---

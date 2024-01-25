@@ -36,7 +36,8 @@ acquired: Gift
 acquired_date: 2023-12-25
 acquired_source: Emma and Zach
 acquired_price: ""
-tags:
+tags: 
+library_audio: true
 ---
 _Knowing God_ by J. I. Packer is a modern Christian classic. Since its original publication in 1973, Packer’s insightful and practical approach has impacted countless Christians throughout the world as they are introduced to the wonder and joy of knowing God. 
 

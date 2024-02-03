@@ -19,3 +19,9 @@ tags:
 ---
 
 Father forgive us.
+
+## Update 2/2/2024
+
+Benjamin Inman joined Presbycast last night to discuss the issue.
+
+https://www.youtube.com/watch?v=h9vj3pMy20s

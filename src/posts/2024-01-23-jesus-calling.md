@@ -9,7 +9,8 @@ date: 2024-01-23T10:15:00
 layout: link
 category: link
 blockquote: true
-youtube: false
+youtube: true
+
 tags:
     - PCA
     - 2CV
@@ -22,6 +23,6 @@ Father forgive us.
 
 ## Update 2/2/2024
 
-Benjamin Inman joined Presbycast last night to discuss the issue.
+Benjamin Inman joined _Presbycast_ last night to discuss the issue.
 
-https://www.youtube.com/watch?v=h9vj3pMy20s
+{% youtube 'h9vj3pMy20s', 'The Jesus Calling Industry & the PCA' %}

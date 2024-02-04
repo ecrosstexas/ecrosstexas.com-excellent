@@ -37,4 +37,9 @@ acquired_source:
 acquired_price: ""
 tags:
   - baptism
+  - covenant
 ---
+
+## Reviews:
+
+- [Sean Morris for The Heidlblog](https://heidelblog.net/2024/01/review-covenantal-baptism-by-jason-helopoulos-blessings-of-the-faith-series/)

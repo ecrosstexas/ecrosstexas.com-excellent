@@ -5,7 +5,7 @@ description: 'The personal website of Eric T. Wallace, a digital rancher in Plan
 layout: 'home'
 blog:
   title: "Eric's Blog"
-  intro: "Here are the 10 most recent posts, but there are plenty more in the archives."
+  intro: "Here are the 6 most recent posts, but there are plenty more in the archives."
 ---
 
 ## Welcome to Eric's Digital Ranch

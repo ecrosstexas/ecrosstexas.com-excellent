@@ -11,8 +11,11 @@ tags:
 ---
 
 - I am [ecrosstexas.](https://www.ecrosstexas.com/)
-- Christian,  Husband, Father of 3.  
-- Ruling Elder, [Trinity Presbyterian Church,](https://www.trinityplano.org/) Plano (PCA).  
+- Christian.
+- Husband to my best friend Shannon.
+- Father of three wonderful children&dash;Emma, Molly, and William.
+- Ruling Elder, [Trinity Presbyterian Church,](https://www.trinityplano.org/) Plano (PCA).
+- Podcast host [Presbyterian and Reformed Texas.](https://www.reformedtexas.com/)
 - Worker at Red River Tea Company [#TEAZZERS.](https://teazzers.com/)
 - Play, coach, and enjoy the greatest game on ice [#TexasHockey.](https://www.dallasstars.com/)
 - Can you ever have too many books?  

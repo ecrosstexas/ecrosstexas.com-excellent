@@ -9,7 +9,7 @@ tags:
 
 ## Source
 
-- [GitHub](https://github.com/ecrosstexas/ecrosstexas.com-excellent) <small>{% packageVersion %}</small>
+- [GitHub](https://github.com/ecrosstexas/ecrosstexas.com-excellent) <small>{{ pkg.version }}</small>
 
 ## Hosting
 

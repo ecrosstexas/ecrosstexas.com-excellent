@@ -2,9 +2,13 @@
 
 <footer class="site-foot">
   <div class="wrapper">
+	<div class="text-center mt-m-l">
+			Copyright &copy; 2001-{% year %} Eric T. Wallace
+		</div>
     <div class="site-foot__inner">
+				
       <nav class="site-foot__inner text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
-        &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }} <small>{{ pkg.version }}</small>  </a>
+        <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }} <small>{{ pkg.version }}</small>  </a>
 
         {% for item in navigation.bottom %}
         <a
@@ -63,10 +67,7 @@
 
 		</div>
 		<div class="text-center mt-m-l">
-			<a class="creator text-step-min-1" href="{{ meta.creator.website }}"
-			>Made with   <span>{% include 'svg/heart.svg' %}</span>
-			by {{ meta.creator.name }}</a
-		>
+			Soli Deo Gloria
 		</div>
   </div>
 

@@ -8,7 +8,7 @@ tags:
 ---
 From the [NRLC](http://www.nrlc.org/):
 
-{% imagePlaceholder "./src/assets/images/not-mine/babyandflag.jpg", "Unretouched 4-D Ultrasound image" %}
+{% eleventyImage "./src/assets/images/not-mine/babyandflag.jpg", "Unretouched 4-D Ultrasound image" %}
 
 > I am endowed by my Creator
 > with the unalienable right to life.

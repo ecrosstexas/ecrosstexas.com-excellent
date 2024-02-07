@@ -16,6 +16,6 @@ tags:
 
 Continuing to post the individual talks from the 2023 GRN Conference: [Lead on, O King Eternal](/blog/grn-conference-lead-on-o-king-eternal/):
 
-{% imagePlaceholder "./src/assets/images/not-mine/344588230_1937342049961282_3140822482325100552_n.jpg", "Sketchnotes on Antinomianism: An Old and Familiar Foe", "Miss Rachael McIntosh's notes from Dr Peter Lillback's opening message at the GRN National Conference." %}
+{% eleventyImage "./src/assets/images/not-mine/344588230_1937342049961282_3140822482325100552_n.jpg", "Sketchnotes on Antinomianism: An Old and Familiar Foe", "Miss Rachael McIntosh's notes from Dr Peter Lillback's opening message at the GRN National Conference." %}
 
 {% youtube 'oPzn-W3Rn9g', '{{ title }}' %}

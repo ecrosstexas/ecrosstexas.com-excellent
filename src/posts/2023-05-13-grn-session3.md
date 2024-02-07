@@ -16,6 +16,6 @@ tags:
 
 Continuing to post the individual talks from the 2023 GRN Conference: [Lead on, O King Eternal](/blog/grn-conference-lead-on-o-king-eternal/):
 
-{% imagePlaceholder "./src/assets/images/not-mine/345248335_626738722306449_754519409046724085_n.jpg", "Sketchnotes on Antinomianism: An Old and Familiar Foe", "Miss Rachael McIntosh's notes from Kevin DeYoung’s address at the GRN National Conference." %}
+{% eleventyImage "./src/assets/images/not-mine/345248335_626738722306449_754519409046724085_n.jpg", "Sketchnotes on Antinomianism: An Old and Familiar Foe", "Miss Rachael McIntosh's notes from Kevin DeYoung’s address at the GRN National Conference." %}
 
 {% youtube 'bxLdCJ_ERWk', '{{ title }}' %}

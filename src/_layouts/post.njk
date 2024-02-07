@@ -1,34 +1,45 @@
 ---
 layout: base
 schema: blog
-preloads:
-  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
-  as: 'font'
-  type: 'font/woff2'
-  crossorigin: true
 ---
 
-<article class="region blog">
+<article class="region blog" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
-    <h1 class=" ">{{ title }}</h1>
+    <h1 class="gradient-text">{{ title }}</h1>
 
-    {% set definedDate = date %} {% include "partials/date.njk" %}
+    <!-- image -->
+    {% if image %}{% eleventyImage image, alt or title, null, "eager", "feature" %} {%
+    endif %}
+
+    <!-- credit -->
+    {% if credit %}
+    <p class="feature text-step-min-1">© {{ credit }}</p>
+    {% endif %}
+
+    <p class="cluster text-step-min-1" style="--gutter: var(--space-xs-s)">
+      <!-- date -->
+      {% set definedDate = date %} {% include "components/date.njk" %}
+
+      <!-- tags -->
+      {% if tags.length > 1 %} {% for tag in tags %} {% if tag != "posts" %}
+      <a class="button post-tag" href="/tags/{{ tag }}">
+        {{ tag }}
+      </a>
+      {% endif %} {% endfor %} {% endif %}
+    </p>
 
     {{ content | safe }}
-    
-    <!-- include tags -->
-    {% include "partials/tags.njk" %}
-    
+    {% include 'components/edit-on.njk' %}
+  </div>
+
+  <!--  h-card infos: https://indieweb.org/authorship -->
+  <div hidden class="h-entry">
+    <a class="u-url" href="{{ page.url | url | absoluteUrl(meta.url) }}">{{ title }}</a>
+    <a class="p-name u-url" rel="author" href="{{ meta.url }}">{{ meta.author.name }}</a>
+    <img
+      class="u-author h-card"
+      src="{{ meta.author.avatar | url | absoluteUrl(meta.url) }}"
+      alt="{{ meta.author.name }}"
+    />
   </div>
 </article>
-
-
-
-
-<!-- include crossposts -->
-{% include "partials/xpost.njk" %}
-
-<!-- set webmentions url -->
-{% set webmentionUrl %}{{ page.url | url | absoluteUrl(meta.url) }}{% endset %}
-<!-- include webmentions -->
-{% include "partials/webmentions.njk" %}

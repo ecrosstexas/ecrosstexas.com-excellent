@@ -9,7 +9,7 @@ tags:
  - hockey
 ---
 
-{% imagePlaceholder "./src/assets/images/IMG_1413.JPG", "Dallas Stars in 6 over the NY Rangers", "#TexasHockey" %}
+{% eleventyImage "./src/assets/images/IMG_1413.JPG", "Dallas Stars in 6 over the NY Rangers", "#TexasHockey" %}
 
 Have you joined the [NHL Bracket Challenge](https://bracketchallenge.nhl.com/en/home)?
 

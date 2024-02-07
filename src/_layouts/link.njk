@@ -15,7 +15,7 @@ preloads:
     {% set definedDate = date %} {% include "partials/date.njk" %}
 
 {% if imageURL %}
-    <div align="center">{% imagePlaceholder imageURL, "imageAltText", "" %}</div>
+    <div align="center">{% eleventyImage imageURL, "imageAltText", "" %}</div>
 {% endif %}
 
 <!-- https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/ -->

@@ -1,0 +1,27 @@
+---
+# http://humanstxt.org/
+permalink: /humans.txt
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+Developer: {{ meta.creator.name }}
+Contact: {{ meta.creator.email }}
+Site: {{ meta.creator.website }}
+{% if meta.creator.social %}
+Find me on: {{ meta.creator.social }}{% endif %}
+
+/* THANKS */
+
+    Zach Leatherman https://www.zachleat.com
+    Andy Bell https://andy-bell.co.uk
+    Lene Saile https://www.lenesaile.com/en/
+
+/* SITE */
+    Last update: {{ page.date.toISOString() }}
+    Doctype: HTML5
+    Software: 11ty

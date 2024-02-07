@@ -11,6 +11,6 @@ tags:
 
 I started playing E-League hockey at the end of April and I'm really enjoying it.  The new season starts this weekend and I'll be rocking these sweet sweaters.
 
-{% imagePlaceholder "./src/assets/photos/IMG_5117.jpeg", "Home and Road Sweaters", " " %}
+{% eleventyImage "./src/assets/photos/IMG_5117.jpeg", "Home and Road Sweaters", " " %}
 
 Crossposted on [Facebook](https://www.facebook.com/ecrosstexas/posts/pfbid0R8SBvCiJQP4y3Ppdh1QRXfyBsn413HYCUGRVq1QbfDs3SGvHRqzNDN6StuerCtiSl)

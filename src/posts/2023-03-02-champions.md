@@ -12,6 +12,6 @@ tags:
 
 Champions! What a crazy ending to a wonderful [season.](https://starcenter.hockeyshift.com/stats#/33/standings?render=division&division_id=20442) A joy to coach these young men and women this year.
 
-{% imagePlaceholder "./src/assets/photos/IMG_0949e.jpg", "MK-Wallace 12U Stars", "MK-Wallace 12U Stars" %}
+{% eleventyImage "./src/assets/photos/IMG_0949e.jpg", "MK-Wallace 12U Stars", "MK-Wallace 12U Stars" %}
 
 Crossposted on [Facebook](https://www.facebook.com/ecrosstexas/posts/pfbid02FT6QqGUZ9pRQW7JHDgnxh6cPSnxxp8PpYYVcFiXZAyMfCuEoMhSmUWZUnwLnUizsl)

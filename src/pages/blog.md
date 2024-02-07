@@ -1,8 +1,12 @@
 ---
 title: Eric's Blog
-permalink: /blog/index.html
 description: 'All blog posts can be found here'
 layout: blog
-tags:
- - pages
+pagination:
+  data: collections.posts
+  size: 6
+permalink: 'blog/page-{{ pagination.pageNumber }}/index.html'
+redirectFrom: ['/blog/', '/blog/page-0/']
 ---
+
+This blog has a pagination of {{ pagination.size }} posts per page.

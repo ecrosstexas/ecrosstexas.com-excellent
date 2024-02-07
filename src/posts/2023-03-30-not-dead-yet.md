@@ -16,4 +16,4 @@ Well that changes now.  I need to get this back rocking and rolling they way I'v
 
 I really need to take Steve Jobs' advice to heart.
 
-{% imagePlaceholder "./src/assets/images/not-mine/Steve-Jobs-by-Albert-Watson.jpg", "photo of Steve Jobs by Albert Watson", "&copy; Albert Watson" %}
+{% eleventyImage "./src/assets/images/not-mine/Steve-Jobs-by-Albert-Watson.jpg", "photo of Steve Jobs by Albert Watson", "&copy; Albert Watson" %}

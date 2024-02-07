@@ -10,7 +10,7 @@ tags:
 
 Curious to see where your views fall along the political spectrum? Take [this short quiz](http://brainfall.com/quizzes/how-conservative-liberal-are-you/0v9m853/).
 
-{% imagePlaceholder "./src/assets/images/Screen-Shot-2016-03-29-at-10.34.11-AM.png", "Curious to see where your views fall along the political spectrum?" %}
+{% eleventyImage "./src/assets/images/Screen-Shot-2016-03-29-at-10.34.11-AM.png", "Curious to see where your views fall along the political spectrum?" %}
 
 My results?
 

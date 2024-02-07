@@ -16,7 +16,7 @@ Official Site: https://www.embracingthejourney.org/unconditional-conference.html
 
 ![[/notes/unconditional-conference-screenshot-2023-10-06.png]]
 
-{% imagePlaceholder "./src/notes/unconditional-conference-screenshot-2023-10-06.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
+{% eleventyImage "./src/notes/unconditional-conference-screenshot-2023-10-06.png", "Screenshot of the webpage promoting the Unconditional Conference", "" %}
 
 ## Embracing the Journey
 - [https://www.embracingthejourney.org](https://www.embracingthejourney.org)

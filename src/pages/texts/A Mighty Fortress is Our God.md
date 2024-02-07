@@ -1,5 +1,5 @@
 ---
-title: A Might Fortress is Our God
+title: A Mighty Fortress is Our God
 description:
 original_copyright: 
 source: https://christian.net/pub/resources/text/wittenberg/hymns/fortress.hedge.txt

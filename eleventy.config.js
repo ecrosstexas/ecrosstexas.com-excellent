@@ -123,14 +123,10 @@ module.exports = eleventyConfig => {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
-  // get package.json
-const packageVersion = require('./package.json').version;
-
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('eleventyImage', imageShortcode);
   eleventyConfig.addShortcode('youtube', liteYoutube);
   eleventyConfig.addShortcode('include_raw', includeRaw);
-  eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`); // current year, by stephanie eckles
 
   // 	--------------------- Custom transforms ---------------------

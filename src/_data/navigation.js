@@ -18,6 +18,10 @@ module.exports = {
     }
   ],
   bottom: [
+	{
+		text: 'Preferences',
+		url: '/preferences/'
+	},
     {
       text: 'Colophon',
       url: '/colophon/'

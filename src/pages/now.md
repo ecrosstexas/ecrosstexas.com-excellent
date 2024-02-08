@@ -16,8 +16,8 @@ tags:
 
 ## Church
 - Active on the Session
-- Co-Teaching Adult Sunday School
-- Volunteering Youth Ministry
+- Team Teaching Adult Sunday School on the Westminster Confession of Faith
+- Volunteering with Youth Ministry
 
 ## Hockey
 - Coaching 14u hockey in the DSMHL

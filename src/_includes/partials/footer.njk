@@ -3,12 +3,11 @@
 <footer class="site-foot">
   <div class="wrapper">
 	<div class="text-center mt-m-l">
-			Copyright &copy; 2001-{% year %} Eric T. Wallace
+			<a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a> Copyright &copy; 2001-{% year %} Eric T. Wallace
 		</div>
     <div class="site-foot__inner">
-				
+
       <nav class="site-foot__inner text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
-        <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }} <small>{{ pkg.version }}</small>  </a>
 
         {% for item in navigation.bottom %}
         <a
@@ -48,25 +47,8 @@
         </nav>
     </div>
 
-		<div
-		role="region"
-		class="theme-switch | cluster mt-xs"
-		style="--cluster-horizontal-alignment: center; --gutter: 0.5rem;"
-		aria-labelledby="theme-switcher-label theme-switcher-value"
-		data-theme-switcher
-		hidden
-	>
-
-		<h2 id="theme-switcher-label">{{ meta.themeSwitch.title }}</h2>
-			<button
-				class="button"
-				theme-toggle
-			>
-				<span id="theme-switcher-value"></span>
-			</button>
-
-		</div>
 		<div class="text-center mt-m-l">
+      Built in Plano, Texas<br />
 			Soli Deo Gloria
 		</div>
   </div>

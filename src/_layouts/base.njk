@@ -11,10 +11,17 @@
     <title>
       {% if discover.title %} {{ discover.title }}
       {% elif title %}
-      {{ title }} | ecrosstexas.com <!-- replace with DEV MODE -->
+      {{ title }}
       {% else %}
       {{ meta.siteName }}
       {% endif %}
+
+      {% if isdevelopment %}
+       | localhost
+      {% else %}
+       | {{ meta.siteName }}
+      {% endif %}
+
     </title>
 
     <!-- 4 synchronous js  -->

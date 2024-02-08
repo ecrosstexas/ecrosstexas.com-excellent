@@ -7,7 +7,7 @@ layout: page
 tags:
 - pages
 ---
-ecrosstexas.com has been my personal web space since I discovered blogging in 2001. Through the years it has housed various incarnations of my [blog](/blog/), [links](/links), [photos](/photos/), personal projects and whatever other random stuff that interests me.
+ecrosstexas.com has been my personal web space since I discovered blogging in 2001. Through the years it has housed various incarnations of my [blog](/blog/), [links](/links/), [photos](/photos/), personal projects and whatever other random stuff that interests me.
 
 The current design launched in March of 2023.
 

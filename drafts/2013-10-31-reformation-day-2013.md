@@ -10,7 +10,7 @@ Reformation Day is a celebration of God's saving work. It is the recovery of the
 
 https://twitter.com/jchrisland/status/395896636691316737
 
-[![95 Theses](images/ed40df3c425211e3acaf22000ae80c8d_8.jpg)](http://instagram.com/p/gI_Aj5t87k/) from [Instagram](http://instagram.com/p/gI_Aj5t87k/)
+[![95 Theses](/src/assets/images/blog/ed40df3c425211e3acaf22000ae80c8d_8.jpg)](http://instagram.com/p/gI_Aj5t87k/) from [Instagram](http://instagram.com/p/gI_Aj5t87k/)
 
 ## Links for Reformation Day 2013
 
@@ -28,7 +28,7 @@ https://twitter.com/MattBoswell/status/395942557240160256
 
 ## Here I Stand
 
-[![95 Theses](images/1208251_1428684347355592_1995520125_n.jpg)](http://instagram.com/p/gHy6PlN8ze/) from [Instagram](http://instagram.com/p/gHy6PlN8ze/)
+[![95 Theses](/src/assets/images/blog/1208251_1428684347355592_1995520125_n.jpg)](http://instagram.com/p/gHy6PlN8ze/) from [Instagram](http://instagram.com/p/gHy6PlN8ze/)
 
 https://twitter.com/RevKevDeYoung/status/395868199918788608
 
@@ -40,4 +40,4 @@ Lastly, Chris Rosebrough has posted [A New 95 Theses: Challenging The Excesses O
 >
 > In publishing these theses, we do not intend to foment division, but to expose those who are creating division within the body of Christ. We invite all who love the Gospel of Jesus Christ to engage in this debate. We do so in the spirit of the great Reformer, Martin Luther, as we implore the mercies of God upon His Church, for the sake of Jesus Christ, the Lord of the Church and shepherd of our souls.
 
-[![luther.jpg](images/luther.jpg)](https://amzn.to/3Q7u11h) Notice: Images in my [Instagram](http://instagram.com/ecrosstexas/) photos come from the 2003 movie [Luther.](https://amzn.to/3Q7u11h) 💸 I hope you enjoyed [my tweets](http://twitter.com/ecrosstexas/) ([@ecrosstexas](http://twitter.com/ecrosstexas/)) with quotes from the movie.
+[![luther.jpg](/src/assets/images/blog/luther.jpg)](https://amzn.to/3Q7u11h) Notice: Images in my [Instagram](http://instagram.com/ecrosstexas/) photos come from the 2003 movie [Luther.](https://amzn.to/3Q7u11h) 💸 I hope you enjoyed [my tweets](https://twitter.com/ecrosstexas/) ([@ecrosstexas](https://twitter.com/ecrosstexas/)) with quotes from the movie.

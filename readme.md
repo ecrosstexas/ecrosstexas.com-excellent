@@ -35,15 +35,15 @@ https://eleventy-excellent.netlify.app/
 - Advanced markdown handling _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-all-the-markdown/))_
 - 301 redirects for Netlify _([see blog post](https://eleventy-excellent.netlify.app/blog/post-with-301-redirects/))_
 - Automatically generated Open Graph images for blog posts _([see blog post](https://eleventy-excellent.netlify.app/blog/open-graph-images/))_
-- How Tailwind CSS is used here _([see blog post](https://eleventy-excellent.netlify.app/blog/what-is-tailwind-css-doing-here/))_
-- SEO basics (XML-sitemap, metadata)
+- Tailwind CSS - but not how you might expect _([see blog post](https://eleventy-excellent.netlify.app/blog/what-is-tailwind-css-doing-here/))_
+- XML-sitemap
 - dayjs handling dates & times
 - Bundling via esbuild
 - RSS feed (now you can add more than one)
-- Links to services and social media profiles
+- Links to platforms and social media profiles
 - Mastodon domain verification snippet
 - carbon.txt - to show that their digital infrastructure runs on green electricity
-- dark and light mode based on user preference and custom toggle
+- Accessible dark and light mode based on user preference and custom toggle
 - Tags in blog posts
 - Accessible blog pagination
 - A styleguide™
@@ -120,6 +120,17 @@ Also have a look at those codepens!
 
 - https://ryanmulligan.dev/
 - https://codepen.io/hexagoncircle/
+
+**Sara Soueidan**
+
+I took a close look at Sara's recommendations for accessible theme switch and pagination in the Practical Accessibility course
+
+- https://practical-accessibility.today/
+- https://www.sarasoueidan.com/
+
+**Steven Woodson**
+
+The style guide was inspired by a [great talk on the Eleventy Meetup](https://www.youtube.com/watch?v=3mhA2bH6q8s). Steven also wrote a [blog post](https://stevenwoodson.com/blog/eleventy-style-guide-generator-step-by-step-guide-adding-to-an-existing-site/) about that.
 
 **Aleksandr Hovhannisyan**
 

@@ -9,21 +9,7 @@ layout: page
 
 <p>You can customize the look and feel of ecrosstexas by selecting a different theme:</p>
 
-<div
-	role="region"
-	class="theme-switch | cluster mt-xs"
-	style="--cluster-horizontal-alignment: center; --gutter: 0.5rem;"
-	aria-labelledby="theme-switcher-label theme-switcher-value"
-	data-theme-switcher
-	hidden
->
-
-<h2 id="theme-switcher-label">{{ meta.themeSwitch.title }}</h2>
-
-<button class="button" theme-toggle>
-  <span id="theme-switcher-value"></span>
-</button>
-
-</div>
+<!-- theme switch -->
+		{% include 'components/theme-switch.njk' %}
 
 <p>Return to the <a href="/">home page</a>.</p>

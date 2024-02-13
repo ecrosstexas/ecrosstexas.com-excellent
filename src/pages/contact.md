@@ -8,7 +8,7 @@ tags:
 - pages
 ---
 
-## PREFERRED COMMUNICATION CHANNELS
+PREFERRED COMMUNICATION CHANNELS
 
 1) Messages.app / SMS messages are the best way to send me a quick message.
 2) If I don't have your number in my contacts, you will need to leave a voicemail when calling my phone. If I know you I will add your number to Contacts.app so you pop-up next time you call.
@@ -23,7 +23,7 @@ If you would like to contact me, please use one of these methods:
 
 ## mediums
 
-- email: <ecrosstexas@gmail.com>
+- email: ecrosstexas@gmail.com
 - phone: if you know, you know
 - twitter: [@ecrosstexas](https://www.twitter.com/ecrosstexas)
 - mastodon: [mastodon.social/@ecrosstexas](https://mastodon.social/@ecrosstexas)

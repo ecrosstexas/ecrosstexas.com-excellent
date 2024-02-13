@@ -5,30 +5,30 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Notes',
-      url: '/notes/'
+      text: 'Get started',
+      url: '/get-started/'
+    },
+    {
+      text: 'Built with',
+      url: '/built-with/'
     },
     {
       text: 'Blog',
       url: '/blog/'
     },
     {
-      text: 'Search',
-      url: '/search/'
+      text: 'Style guide',
+      url: '/styleguide/'
     }
   ],
   bottom: [
-	{
-		text: 'Preferences',
-		url: '/preferences/'
-	},
     {
-      text: 'Colophon',
-      url: '/colophon/'
+      text: 'Imprint',
+      url: '/imprint/'
     },
     {
-      text: 'Sitemap',
-      url: '/sitemap/'
+      text: 'Privacy',
+      url: '/privacy/'
     }
   ]
 };

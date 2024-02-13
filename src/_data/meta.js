@@ -17,27 +17,35 @@ module.exports = {
     name: 'Eric T. Wallace', // i.e. Lene Saile - creator's (developer) name.
     email: 'ecrosstexas@gmail.com',
     website: 'https://www.ecrosstexas.com',
-    social: 'https://www.twitter.com/ecrosstexas'
+    social: 'https://twitter.com/ecrosstexas'
   },
   themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
   themeBgColor: '#FBFBFB', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   opengraph_default: '/assets/images/template/opengraph-default.jpg', // fallback/default meta image
   opengraph_default_alt:
-    'The personal website of Eric T. Wallace, a digital rancher in Plano, Texas.', // alt text for default meta image
+    'Visible content: The personal website of Eric T. Wallace, a digital rancher in Plano, Texas.', // alt text for default meta image
   blog: {
-    // this is for the rss feed
-    name: "Eric T. Wallace's Blog",
+    // RSS feed
+    name: "Eric's Blog",
     description:
       'Tell the word what you are writing about in your blog. It will show up on feed readers.',
+    // feed links are looped over in the head. You may add more to the array.
+    feedLinks: [{title: 'Atom Feed', url: '/feed.xml', type: 'application/atom+xml'}],
+    // Tags
     tagSingle: 'Tag',
     tagPlural: 'Tags',
     tagMore: 'More tags:',
-    // feed links are looped over in the head.
-    feedLinks: [{title: 'Atom Feed', url: '/feed.xml', type: 'application/atom+xml'}],
+    // pagination
     paginationLabel: 'Blog',
     paginationPage: 'Page',
     paginationPrevious: 'Previous',
-    paginationNext: 'Next'
+    paginationNext: 'Next',
+    paginationNumbers: true
+  },
+  details: {
+    aria: 'section controls',
+    expand: 'expand all',
+    collapse: 'collapse all'
   },
   navigation: {
     ariaTop: 'Main',

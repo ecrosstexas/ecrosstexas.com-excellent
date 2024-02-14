@@ -3,7 +3,7 @@
 <footer class="site-foot">
   <div class="wrapper">
 	<div class="text-center mt-m-l">
-			<a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a> Copyright &copy; 2001-{% year %} Eric T. Wallace
+			<a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a> Copyright &copy; 2001-{% year %} <a class="h-card" rel="me" href="{{ site.url }}">Eric T. Wallace</a>
 		</div>
     <div class="site-foot__inner">
 
@@ -48,9 +48,9 @@
     </div>
 
 		<div class="text-center mt-m-l">
-      💸 indicates affiliate links<br /><br />
-      Built in Plano, Texas<br />
-			Soli Deo Gloria
+    <p>💸 indicates affiliate links</p>
+    <p>Built in Plano, Texas.</p>
+    <p><em>Soli Deo Gloria</em></p>
 		</div>
   </div>
 

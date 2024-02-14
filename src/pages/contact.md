@@ -19,14 +19,6 @@ PREFERRED COMMUNICATION CHANNELS
 7) Public Mentions/DMs on Facebook will be seen at least once per week.
 8) Public Mentions/DMs on Instagram will be seen at least once per fortnight.
 
-If you would like to contact me, please use one of these methods:
-
-## mediums
-
-- email: ecrosstexas@gmail.com
-- phone: if you know, you know
-- twitter: [@ecrosstexas](https://www.twitter.com/ecrosstexas)
-- mastodon: [mastodon.social/@ecrosstexas](https://mastodon.social/@ecrosstexas)
-- telegram: [t.me/ecrosstexas](https://t.me/ecrosstexas)
+If you would like to contact me, here is [where you can find me](/links/).
 
 Here is my [public PGP key](/pgp-key.txt) for those who need it.

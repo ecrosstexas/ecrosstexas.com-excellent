@@ -1,6 +1,6 @@
 article
   [href^='http']:not([href*='localhost:8080']):not(
-    [href*='www.ecrosstexas.com']
+    [href*='eleventy-excellent.netlify.app']
   ):not(.button) {
   padding-inline-end: 0.8em;
 }

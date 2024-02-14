@@ -1,7 +1,7 @@
 {
   "name": "ecrosstexas.com-excellent",
   "version": "2.1.4",
-  "description": "My personal website forked from Lene Saile's Eleventy Excellent which is based on the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
+  "description": "My personal website forked from Lene Saile's Eleventy Excellent which is built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
   "author": "Eric T. Wallace",
   "license": "ISC",
   "engines": {

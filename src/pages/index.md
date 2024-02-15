@@ -1,11 +1,19 @@
 ---
 permalink: /index.html
 title: "Eric’s Digital Ranch"
-description: 'The personal website of Eric T. Wallace, a digital rancher in Plano, Texas.'
+description: 'The personal website of Eric T. Wallace (ecrosstexas), a digital rancher in Plano, Texas.'
 layout: 'ecrosstexas-home'
 blog:
   title: "Eric's Blog"
   intro: "Here are the 6 most recent posts, but there are plenty more in the archives."
+intro:
+  eyebrow: 'Welcome to my'
+  main: 'Digital Ranch'
+  summary: "My blog, creations, notes, photos, and more. It's a digital garden, a commonplace book, a modern day cabinet of curiosities."
+  buttonText: 'See my work'
+  buttonUrl: '/work/'
+  image: 'assets/images/bg/longhorn.jpg'
+  imageAlt: 'Texas longhorn'
 ---
 
 ## Howdy Y'all

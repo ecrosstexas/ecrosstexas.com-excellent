@@ -1,0 +1,75 @@
+<div class="wrapper">
+<div class="parent">
+<div class="div1">
+    ecrosstexas logo
+</div>
+<div class="div2">
+    My blog, creations, notes, photos, and more. It's a digital garden, a commonplace book, a modern day cabinet of curiosities. Made in Texas.
+</div>
+<div class="div3">
+    EXPLORE
+    <nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
+
+        {% for item in navigation.explore %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
+        {% endfor %}
+      </nav>
+</div>
+<div class="div4">
+    ABOUT
+<nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
+
+        {% for item in navigation.about %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
+        {% endfor %}
+      </nav>
+</div>
+<div class="div5">
+    RESOURCES
+<nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
+
+        {% for item in navigation.resources %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
+        {% endfor %}
+      </nav>
+</div>
+
+<div class="div6">
+    Copyright &copy; Eric T. Wallace, 2001-{% year %}. Some rights reserved | <a href="/sitemap">Sitemap</a> | <a href="/legal/">Legal</a> & <a href="/privacy/">Privacy</a>
+</div>
+<div class="div7">
+    <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaSocial }}">
+
+							<!-- gets the first item from the feed loop set in meta -->
+							<a href="{{ meta.blog.feedLinks[0].url }}" rel="alternate" type="{{ meta.blog.feedLinks[0].type }}">
+								<span class="visually-hidden">{{ meta.blog.feedLinks[0].title }}</span>
+								<div aria-hidden="true">{% include 'svg/rss.svg' %}</div>
+							</a>
+
+							{% for key, value in personal.social %}
+							{% if value != "" %}
+								<!-- regular social networks -->
+							<a href="{{ value }}" rel="me">
+								<span class="visually-hidden">{{ key | capitalize }}</span>
+								<div aria-hidden="true">{% include 'svg/social-' + key + '.svg' %}</div>
+							</a>
+							{% endif %}
+
+
+					{% endfor %}
+    </nav>
+</div>
+</div>
+</div>

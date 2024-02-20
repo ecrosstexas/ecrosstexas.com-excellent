@@ -13,7 +13,7 @@ tags:
 ---
 As mentioned during my update on the work of the 155th meeting of the North Texas Presbytery, the Presbytery voted to have the Stated Clerk send PCA's "Humble Petition" to Protect Children from gender reassignment treatments and surgeries to our elected state officials.
 
-The "[Humble Petition](https://byfaithonline.com/general-assembly-commission-petitions-government-officials-to-protect-children/)" stems from the work of the 50th General Assembly.  
+The ["Humble Petition"](https://byfaithonline.com/general-assembly-commission-petitions-government-officials-to-protect-children/) stems from the work of the 50th General Assembly.  
 
 [Full text of the "Humble Petition"](https://byfaithonline.com/wp-content/uploads/2024/01/General-Letter.pdf)
 

@@ -9,6 +9,8 @@ tags:
   - pages
 ---
 
-- [Giftster](https://www.giftster.com/gift/public/apLiE/) - Christmas 2023
+- [Giftster](https://www.giftster.com/gift/public/apLiE/)
 
 - [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/31EDDE0CILTS3?ref_=wl_share)
+
+

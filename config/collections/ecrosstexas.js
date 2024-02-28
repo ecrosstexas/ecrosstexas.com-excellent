@@ -42,11 +42,19 @@ const getAllTVNotes = collection => {
   return projects.reverse();
 };
 
+// idea from https://grgml.xyz/blog/website-updates-bookmarks-status-and-more/
+
+const getAllBookmarks = collection => {
+	const bookmarks = collection.getFilteredByGlob('./src/bookmarks/**/*.md');
+	return posts.reverse();
+};
+
 module.exports = {
 getAllLinks,
 getAllVideos,
 getAllPeople,
 getAllFaces,
 getAllBookNotes,
-getAllTVNotes
+getAllTVNotes,
+getAllBookmarks
 };

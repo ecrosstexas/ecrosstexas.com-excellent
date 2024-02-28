@@ -1,11 +1,11 @@
 {
   "name": "ecrosstexas.com-excellent",
-  "version": "2.1.4",
+  "version": "2.2.1",
   "description": "My personal website forked from Lene Saile's Eleventy Excellent which is built around the workflow suggested by Andy Bell's buildexcellentwebsit.es.",
   "author": "Eric T. Wallace",
   "license": "ISC",
   "engines": {
-    "node": ">=16.x.x"
+    "node": ">=18.x.x"
   },
   "scripts": {
     "clean": "rimraf dist",
@@ -23,7 +23,7 @@
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-fetch": "^4.0.0",
-    "@11ty/eleventy-img": "^3.1.0",
+    "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-bundle": "^1.0.4",
     "@11ty/eleventy-plugin-inclusive-language": "^1.0.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",

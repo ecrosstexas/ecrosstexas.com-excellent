@@ -1,10 +1,10 @@
 <div class="wrapper">
 <div class="parent">
-<div class="div1">
-    ecrosstexas logo
+<div class="div1" class="logo">
+    {% include "svg/ecrosstexas-logo.svg" %} ECROSSTEXAS.COM
 </div>
 <div class="div2">
-    My blog, creations, notes, photos, and more. It's a digital garden, a commonplace book, a modern day cabinet of curiosities. Made in Texas.
+    Warning this is a working digital ranch. Please use common sense.
 </div>
 <div class="div3">
     EXPLORE
@@ -47,7 +47,24 @@
 </div>
 
 <div class="div6">
-    Copyright &copy; Eric T. Wallace, 2001-{% year %}. Some rights reserved | <a href="/sitemap">Sitemap</a> | <a href="/legal/">Legal</a> & <a href="/privacy/">Privacy</a>
+  <nav
+        class=""
+        aria-label="{{ meta.navigation.ariaBottom }}"
+      >
+    Copyright &copy; Eric T. Wallace, 2001-{% year %}.  Made in Texas.<br />
+    {% for item in navigation.bottom %}
+          <a
+            href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a
+          >
+        {% endfor %}
+        </nav>
 </div>
 <div class="div7">
     <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaSocial }}">

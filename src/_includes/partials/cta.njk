@@ -1,26 +1,17 @@
+{% set ctaPrefix = cta %}
 
-<article class="[ region ] [ bg-secondary ]">
+{% if ctaContent %}
+  {% set ctaPrefix = ctaContent %}
+{% endif %}
 
-<div class="[ headline ] [ wrapper flow prose ]" data-headline-style="wide">
-
-<h2>
-
-Hello, I'm 
-
-<a href="/eric/">Eric</a>
-
-and I bring a Biblical outlook to our digital world.
-
-</h2>
-
-<p>
-
-Pull up a chair and get comfortable. <a href="/sitemap/">Explore</a> all that this site has to offer. 
-
-Get in <a href="/contact/"">touch</a>. 
-
-</p>
-
-</div>
-
+<article class="[ cta ] [ dot-shadow panel ] [ bg-dark-shade color-light ]">
+  <div class="wrapper">
+    <div class="[ cta__inner ] [ flow ]">
+      <h2 class="[ cta__heading ] [ headline ]" data-highlight="quaternary">{{ ctaPrefix.title }}</h2>
+      <p class="[ cta__summary ] [ measure-short ]">{{ ctaPrefix.summary }}</p>
+      <div class="cta__action">
+        <a class="button" data-variant="ghost" href="{{ ctaPrefix.buttonUrl }}">{{ ctaPrefix.buttonText }}</a>
+      </div>
+    </div>
+  </div>
 </article>

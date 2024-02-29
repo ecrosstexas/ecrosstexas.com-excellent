@@ -7,5 +7,5 @@ author:
   url: https://jayhoffmann.com/
 tags:
   - tech
-  - indieweb
+  - IndieWeb
 ---

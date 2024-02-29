@@ -1,6 +1,5 @@
 {
     "layout": "bookmarks",
     "tags": "bookmarks",
-    "permalink": "/blog/{{ title | slugify }}/index.html"
+    "permalink": "/bookmarks/{{ title | slugify }}/index.html"
   }
-  

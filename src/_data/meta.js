@@ -55,8 +55,8 @@ module.exports = {
   },
   navigation: {
     ariaTop: 'Main',
-    ariaBottom: 'Complementary',
-    ariaPlatforms: 'Platforms',
+    ariaBottom: 'Site',
+    ariaPlatforms: 'Socials',
     // activate alternative mobile menu with drawer
     drawerNav: true,
     navLabel: 'Menu'

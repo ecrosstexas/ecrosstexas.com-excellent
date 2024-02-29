@@ -23,24 +23,24 @@ module.exports = {
     ],
     bottom: [
       {
-          text: 'Preferences',
-          url: '/preferences/'
+          text: 'Sitemap',
+          url: '/sitemap/'
       },
       {
-        text: 'Colophon',
-        url: '/colophon/'
+        text: 'Legal',
+        url: '/legal/'
       },
       {
-        text: 'Sitemap',
-        url: '/sitemap/'
+        text: 'Privacy',
+        url: '/privacy/'
       }
     ],
     explore: [
       {
         text: 'Blog',
         url: '/blog/'
-      },   {
-        text: 'Notes',
+      },
+	  { text: 'Notes',
         url: '/notes/'
       }
     ],

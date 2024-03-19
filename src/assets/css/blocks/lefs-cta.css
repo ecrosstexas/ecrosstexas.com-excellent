@@ -7,7 +7,7 @@
 	  color: get-color('dark-shade');
 	}
 
-	@media screen(sm) {
+	@media screen and (sm) {
 	  &__inner {
 		display: grid;
 		grid-gap: get-size('700') get-size('500');
@@ -37,7 +37,7 @@
 	  }
 	}
 
-	@media screen(md) {
+	@media screen and (md) {
 	  &__inner {
 		grid-gap: get-size('500');
 	  }

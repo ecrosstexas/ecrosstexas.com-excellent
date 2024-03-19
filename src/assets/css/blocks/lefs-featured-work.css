@@ -7,7 +7,7 @@
 	  text-align: center;
 	}
 
-	@media screen(sm) {
+	@media screen and (sm) {
 	  &__inner {
 		display: grid;
 		grid-template-columns: repeat(12, 1fr);
@@ -36,7 +36,7 @@
 	  }
 	}
 
-	@media screen(md) {
+	@media screen and (md) {
 	  grid-template-columns: repeat(2, 1fr);
 
 	  &__intro,

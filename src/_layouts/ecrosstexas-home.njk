@@ -1,9 +1,9 @@
 ---
-layout: base
+layout: ecrosstexas-base
 masonry: true
 ---
 
-<div class="wrapper">
+<div class="lefs-wrapper">
   <header class="full | section" style="--spot-color: var(--color-primary)">
     <article class="intro">
     <div class="[ intro__header ] [ radius frame ]">
@@ -28,23 +28,14 @@ masonry: true
   </header>
 
 {% set ctaContent = primaryCTA %}
-{% include "partials/cta.njk" %}
+{% include "partials/lefs-cta.njk" %}
 
-{% include "partials/featured-work.njk" %}
+{% include "partials/lefs-featured-work.njk" %}
 
-{% include "partials/studio-feed.njk" %}
+{% include "partials/lefs-studio-feed.njk" %}
 
 {% set ctaContent = cta %}
-{% include "partials/cta.njk" %}
-
-
-
-
-  <article class="full | region">
-    <div class="wrapper flow prose">
-      {{ content | safe }}
-    </div>
-  </article>
+{% include "partials/lefs-cta.njk" %}
 
 
   <section class="full | region">

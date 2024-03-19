@@ -1,31 +1,71 @@
-{% set activePage = page.url | url %}
+<div class="wrapper">
+<div class="parent">
+<div class="div1" class="logo">
+    {% include "svg/ecrosstexas-logo.svg" %} ECROSSTEXAS.COM
+</div>
+<div class="div2">
+    Warning this is a working digital ranch. Please use common sense.
+</div>
+<div class="div3">
+    EXPLORE
+    <nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
 
-<footer class="site-foot">
-  <div class="wrapper">
-	<div class="text-center mt-m-l">
-			<p><a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a> Copyright &copy; 2001-{% year %} <a class="h-card" rel="me" href="{{ site.url }}">Eric T. Wallace</a></p>
-		</div>
-    <div class="site-foot__inner">
-
-      <nav class="site-foot__inner text-step-0" aria-label="{{ meta.navigation.ariaBottom }}">
-
-        {% for item in navigation.bottom %}
-        <a
-          href="{{ item.url }}"
-          {{
-          helpers.getLinkActiveState(item.url,
-          page.url)
-          |
-          safe
-          }}
-          >{{ item.text }}</a
-        >
+        {% for item in navigation.explore %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
         {% endfor %}
       </nav>
+</div>
+<div class="div4">
+    ABOUT
+<nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
 
-				<nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaSocial }}">
+        {% for item in navigation.about %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
+        {% endfor %}
+      </nav>
+</div>
+<div class="div5">
+    RESOURCES
+<nav class="" aria-label="{{ meta.navigation.ariaBottom }}">
 
+        {% for item in navigation.resources %}
+            <li>
+                <a href="{{ item.url }}"{{ helpers.getLinkActiveState(item.url, page.url)|safe }}>
+                    {{ item.text }}
+                </a>
+            </li>
+        {% endfor %}
+      </nav>
+</div>
 
+<div class="div6">
+  <nav
+        class=""
+        aria-label="{{ meta.navigation.ariaBottom }}"
+      >
+    Copyright &copy; Eric T. Wallace, 2001-{% year %}.<br />Made in Texas.<br />
+    {% for item in navigation.bottom %}
+          <a href="{{ item.url }}"
+            {{
+              helpers.getLinkActiveState(item.url,
+              page.url)
+              |
+              safe
+            }}
+            >{{ item.text }}</a>&nbsp;&nbsp;
+        {% endfor %}
+        </nav>
+</div>
+<div class="div7">
+    <nav class="site-foot__inner" aria-label="{{ meta.navigation.ariaSocial }}">
 
 							<!-- gets the first item from the feed loop set in meta -->
 							<a href="{{ meta.blog.feedLinks[0].url }}" rel="alternate" type="{{ meta.blog.feedLinks[0].type }}">
@@ -44,14 +84,7 @@
 
 
 					{% endfor %}
-        </nav>
-    </div>
-
-		<div class="text-center mt-m-l">
-    <p>💸 indicates affiliate links</p>
-    <p>Built in Plano, Texas.</p>
-    <p><em>Soli Deo Gloria</em></p>
-		</div>
-  </div>
-
-</footer>
+    </nav>
+</div>
+</div>
+</div>

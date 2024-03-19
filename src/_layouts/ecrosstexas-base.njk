@@ -96,8 +96,8 @@
   <body class="{{ layout }}">
     {% include "partials/header.njk" %}
 
-    <main tabindex="-1" id="main" class="flow">{{ content | safe }}</main>
+    <main tabindex="-1" id="main-content">{{ content | safe }}</main>
 
-    {% include "partials/ecrosstexas-footer.njk" %}
+    {% include "partials/my-footer.njk" %}
   </body>
 </html>

@@ -31,12 +31,12 @@ That said, as a satisfied customer of over 6 years, I can't recommend [Champion 
 
 ## Internet
 
-- [Frontier](https://frontier.com)
+- [Frontier](https://www.frontiercustomerreferral.com/submit-invitation?user_id=32266&signature=547e583a8d6d0113435a3b31d2aab0e2353beefdd35b1adba2a6bc56b604fb1a&utm_campaign=social-referral&utm_medium=click-to-copy&utm_source=web&utm_content=32266)
 - [Spectrum](https://www.spectrum.com)
 
 ## Cable TV / Satellite
 
-- [Frontier](https://frontier.com)
+- [Frontier](https://www.frontiercustomerreferral.com/submit-invitation?user_id=32266&signature=547e583a8d6d0113435a3b31d2aab0e2353beefdd35b1adba2a6bc56b604fb1a&utm_campaign=social-referral&utm_medium=click-to-copy&utm_source=web&utm_content=32266)
 - [Spectrum](https://www.spectrum.com)
 
 ## Streaming
